@@ -1,0 +1,1 @@
+[WikiText](https://blog.einstein.ai/the-wikitext-long-term-dependency-language-modeling-dataset/)-103 raw character level data - [[direct download link]](https://s3.amazonaws.com/research.metamind.io/wikitext/wikitext-103-raw-v1.zip)

@@ -1,1 +1,6 @@
 *.swp
+data/cnn/cnn_filtered.conllu
+data/wikitext/wikitext_filtered.conllu
+train/
+preprocess/
+src_and_tgt/

@@ -1,0 +1,1 @@
+These are sentences filtered from the original EWT dataset. SRST used a subset of the EWT dataset and those sentences are filtered out from the EWT. We need to do this in order to get the target sentences tokenized in the same as they were annotated. The "sentences" provided in the shared task were the untokenized form of the sentences.
