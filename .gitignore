@@ -3,3 +3,4 @@
 train/
 preprocess/
 src_and_tgt/
+vocab/*/*.txt
