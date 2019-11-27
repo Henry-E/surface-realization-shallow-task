@@ -12,7 +12,7 @@ from tqdm import tqdm
 
 def linearize_tree(node, scopes_to_close=0):
     linearization = []
-    # I don't think it matters whether this is checking form for additional or
+    # I don't think it matters whether this is checking form for synthetic or
     # srst data
     if node.data.form:
         linearization.append(str(node.data.id))
@@ -153,11 +153,11 @@ def create_source_and_target(args, dataset_split, input_file_names):
         open(target_file_name, 'w').close()
 
     for data_type, input_file_name in tqdm(input_file_names, smoothing=0):
-        if data_type in ['additional']:
+        if data_type in ['synthetic']:
             input_file_match = re.match(r'.*/(.*)_filtered.conllu',
                                         input_file_name)
             input_file_root = input_file_match.group(1)
-            # if additional data we just keep everything the same
+            # if synthetic data we just keep everything the same
             source_conllu_file_name = input_file_name
             target_conllu_file_name = input_file_name
         elif data_type in ['test']:
@@ -225,16 +225,16 @@ def main():
         '-i',
         '--input_file_names',
         nargs='*',
-        help='all of the additional, train, dev and test files')
+        help='all of the synthetic, train, dev and test files')
     parser.add_argument('--form_suggestions_file_name',
                         type=str,
                         default='',
                         help='form suggestions dictionary in json format')
     parser.add_argument('--source_conllu_dir_name',
-                        default='/home/henrye/data/msr_2019/T1',
+                        default='/home/henrye/projects/surface-realization-shallow-task/data/srst/en_source',
                         help='folder with source conllu, hardcodedish')
     parser.add_argument('--target_conllu_dir_name',
-                        default='/home/henrye/data/msr_2019/UD',
+                        default='/home/henrye/projects/surface-realization-shallow-task/data/srst/en_target',
                         help='folder with target conllu, hardcodedish')
     parser.add_argument('--test_conllu_dir_name',
                         default='/home/henrye/data/msr_2019/T1-test_en')
@@ -246,10 +246,10 @@ def main():
                         type=int,
                         default=1,
                         help='repeat srst train set')
-    parser.add_argument('--additional_data_repeats',
+    parser.add_argument('--synthetic_data_repeats',
                         type=int,
-                        default=1,
-                        help='repeat additional datasets')
+                        default=0,
+                        help='repeat synthetic datasets')
     args = parser.parse_args()
 
     dataset_split_file_names = {'train':[], 'dev':[], 'test':[]}
@@ -267,7 +267,7 @@ def main():
                 (('train', input_file_name), ) * args.train_set_repeats)
         elif re.match(r'.*filtered.conllu', input_file_name):
             dataset_split_file_names['train'].extend(
-                (('additional', input_file_name), ) * args.additional_data_repeats)
+                (('synthetic', input_file_name), ) * args.synthetic_data_repeats)
 
     for dataset_split, input_file_names in dataset_split_file_names.items():
         if not input_file_names:
