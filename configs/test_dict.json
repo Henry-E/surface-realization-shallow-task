@@ -1,0 +1,14 @@
+{
+    "experiment_info":
+    {
+        "exp_type": "srst"
+    },
+    "create_source_and_target":
+    [
+        "echo", "output dir", "{root_dir}/experiments/src_and_tgt/{exp_type}/{create_src_tgt_sub_dir}"
+    ],
+    "preprocess":
+    [
+        "echo", "preprocessing"
+    ]
+}

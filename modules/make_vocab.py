@@ -14,7 +14,7 @@ def main():
         '--input_file_names',
         nargs='*',
         help='the additional data and training data conllu files')
-    parser.add_argument('-m', '--min_freq', type=int, default=10)
+    parser.add_argument('-m', '--min_freq', type=int, default=8)
     parser.add_argument(
         '--max_vocab_size',
         type=int,
@@ -35,6 +35,10 @@ def main():
                 if not all([token.lemma, token.xpos, token.form]):
                     continue
                 vocab.update([token.form.lower()])
+                # This is a new feature, where we will try to add common
+                # lemmas to the vocab
+                if token.lemma.lower() != token.form.lower():
+                    vocab.update([token.lemma.lower()])
 
     # min freq
     out_vocab = [
@@ -47,9 +51,9 @@ def main():
     out_vocab = out_vocab[:args.max_vocab_size]
     output_file_name = os.path.join(args.output_dir_name,
                                     'vocab_min_{}.txt'.format(str(args.min_freq)))
-    print(output_file_name)
     with open(output_file_name, 'w') as out_file:
         out_file.write('\n'.join(out_vocab))
+    print(output_file_name, '\nvocab size {}'.format(len(out_vocab)))
 
 
 if __name__ == '__main__':
