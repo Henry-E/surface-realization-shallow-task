@@ -4,3 +4,7 @@ train/
 preprocess/
 src_and_tgt/
 vocab/*/*.txt
+._.DS_Store
+.DS_Store
+tensorboard/
+translate/

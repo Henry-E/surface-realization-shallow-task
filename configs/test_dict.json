@@ -1,7 +1,7 @@
 {
     "experiment_info":
     {
-        "exp_type": "srst"
+        "exp_type": "srst_test"
     },
     "create_source_and_target":
     [

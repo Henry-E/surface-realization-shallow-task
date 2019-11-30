@@ -45,12 +45,14 @@ def main():
             token for token, freq in vocab.most_common()
             if freq > args.min_freq
         ]
-    # special tokens for trees 
+    # special tokens for trees
     out_vocab = ['_(', ')_'] + out_vocab
-    # limit the size 
+    # limit the size
     out_vocab = out_vocab[:args.max_vocab_size]
-    output_file_name = os.path.join(args.output_dir_name,
-                                    'vocab_min_{}.txt'.format(str(args.min_freq)))
+    out_vocab_size = len(out_vocab)
+    output_file_name = os.path.join(
+        args.output_dir_name, 'vocab_min_{}_total_{}.txt'.format(
+            args.min_freq, out_vocab_size))
     with open(output_file_name, 'w') as out_file:
         out_file.write('\n'.join(out_vocab))
     print(output_file_name, '\nvocab size {}'.format(len(out_vocab)))

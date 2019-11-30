@@ -1,0 +1,66 @@
+{
+    "experiment_info": {
+        "exp_type": "config_tests",
+        "available_actions": [
+            "create_source_and_target",
+            "preprocess"
+        ],
+        "actions_to_take": [
+            "preprocess"
+        ],
+        "src_and_tgt_sub_dir": "irwin_28-Nov_12-32",
+        "run_name": "irwin",
+        "last_run_datetime": "28-Nov_12h44m",
+        "this_run_config_file": "/home/henrye/projects/surface-realization-shallow-task/configs/config_tests/irwin_28-Nov_12:28.json",
+        "root_dir": "/home/henrye/projects/surface-realization-shallow-task",
+        "opennmt_dir": "/home/henrye/downloads/henrye_OpenNMT-py",
+        "preprocess_sub_dir": "irwin_28-Nov_12h44m",
+        "train_sub_dir": null
+    },
+    "create_source_and_target": [
+        "python",
+        "{root_dir}/modules/create_source_and_target.py",
+        "-i",
+        "en-ud-train.conll",
+        "en-ud-dev.conll",
+        "{root_dir}/data/synthetic/*/*filtered.conllu",
+        "-o",
+        "{root_dir}/experiments/src_and_tgt/{exp_type}/{src_and_tgt_sub_dir}",
+        "--form_suggestions_file_name",
+        "{root_dir}/inflection_dicts/lemma_form_dict_sorted.json",
+        "--train_set_repeats",
+        "1"
+    ],
+    "preprocess": [
+        "python",
+        "{opennmt_dir}/preprocess.py",
+        "-train_src",
+        "{root_dir}/experiments/src_and_tgt/{exp_type}/{src_and_tgt_sub_dir}/train.src",
+        "-train_tgt",
+        "{root_dir}/experiments/src_and_tgt/{exp_type}/{src_and_tgt_sub_dir}/train.tgt",
+        "-valid_src",
+        "{root_dir}/experiments/src_and_tgt/{exp_type}/{src_and_tgt_sub_dir}/dev.src",
+        "-valid_tgt",
+        "{root_dir}/experiments/src_and_tgt/{exp_type}/{src_and_tgt_sub_dir}/dev.tgt",
+        "-save_data",
+        "{root_dir}/experiments/preprocess/{exp_type}/{preprocess_sub_dir}/sr",
+        "-dynamic_dict",
+        "-share_vocab",
+        "-shard_size",
+        "125000",
+        "-src_seq_length",
+        "150",
+        "-tgt_seq_length",
+        "100",
+        "-src_vocab",
+        "{root_dir}/vocabs/srst/vocab_min_5_total_3726.txt",
+        "-tgt_vocab",
+        "{root_dir}/vocabs/srst/vocab_min_5_total_3726.txt",
+        "-src_vocab_size",
+        "3726",
+        "-tgt_vocab_size",
+        "3726"
+    ],
+    "create_source_and_target_debug": "python -m -ipdb /home/henrye/projects/surface-realization-shallow-task/modules/create_source_and_target.py -i en-ud-train.conll en-ud-dev.conll /home/henrye/projects/surface-realization-shallow-task/data/synthetic/*/*filtered.conllu -o /home/henrye/projects/surface-realization-shallow-task/experiments/src_and_tgt/config_tests/irwin_28-Nov_12-32 --form_suggestions_file_name /home/henrye/projects/surface-realization-shallow-task/inflection_dicts/lemma_form_dict_sorted.json --train_set_repeats 1",
+    "preprocess_debug": "python -m -ipdb /home/henrye/downloads/henrye_OpenNMT-py/preprocess.py -train_src /home/henrye/projects/surface-realization-shallow-task/experiments/src_and_tgt/config_tests/irwin_28-Nov_12-32/train.src -train_tgt /home/henrye/projects/surface-realization-shallow-task/experiments/src_and_tgt/config_tests/irwin_28-Nov_12-32/train.tgt -valid_src /home/henrye/projects/surface-realization-shallow-task/experiments/src_and_tgt/config_tests/irwin_28-Nov_12-32/dev.src -valid_tgt /home/henrye/projects/surface-realization-shallow-task/experiments/src_and_tgt/config_tests/irwin_28-Nov_12-32/dev.tgt -save_data /home/henrye/projects/surface-realization-shallow-task/experiments/preprocess/config_tests/irwin_28-Nov_12h44m/sr -dynamic_dict -share_vocab -shard_size 125000 -src_seq_length 150 -tgt_seq_length 100 -src_vocab /home/henrye/projects/surface-realization-shallow-task/vocabs/srst/vocab_min_5_total_3726.txt -tgt_vocab /home/henrye/projects/surface-realization-shallow-task/vocabs/srst/vocab_min_5_total_3726.txt -src_vocab_size 3726 -tgt_vocab_size 3726"
+}
