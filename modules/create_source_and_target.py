@@ -10,7 +10,7 @@ from pyconll.tree import SentenceTree
 from tqdm import tqdm
 
 
-def linearize_tree(node, scopes_to_close=0):
+def linearize_tree(node, scopes_to_close=0, omit_scopes=False):
     linearization = []
     # I don't think it matters whether this is checking form for synthetic or
     # srst data
@@ -20,19 +20,20 @@ def linearize_tree(node, scopes_to_close=0):
     # We're always shuffling nodes these days, even though sentence order is
     # very helpful
     shuffle(child_nodes)
-    # We're opening a scope if there is any amount of child nodes
-    if child_nodes:
-        linearization.append('_(')
-    else:
-        # no more children so close whatever scopes are open
-        linearization.extend([')_'] * scopes_to_close)
+    if not omit_scopes:
+        # We're opening a scope if there is any amount of child nodes
+        if child_nodes:
+            linearization.append('_(')
+        else:
+            # no more children so close whatever scopes are open
+            linearization.extend([')_'] * scopes_to_close)
     for k, child in enumerate(child_nodes):
         # if it's the last child
         if k == len(child_nodes) - 1:
             scopes_to_close += 1
-            linearization.extend(linearize_tree(child, scopes_to_close))
+            linearization.extend(linearize_tree(child, scopes_to_close, omit_scopes))
         else:
-            linearization.extend(linearize_tree(child))
+            linearization.extend(linearize_tree(child, omit_scopes=omit_scopes))
     return linearization
 
 
@@ -47,12 +48,12 @@ def get_mapping(linearized_ids):
     return id_mapping
 
 
-def get_tokens_with_feats(sent, data_type, form_suggestions=None):
+def get_tokens_with_feats(sent, data_type, omit_scopes, form_suggestions=None):
     # feats = ['xpos', 'id', 'head', 'deprel', 'feats']
     feats = ['xpos', 'id', 'head', 'deprel',]
     num_feats = len(feats)
     this_tree = SentenceTree(sent).tree
-    linearized_ids = linearize_tree(this_tree)
+    linearized_ids = linearize_tree(this_tree, omit_scopes=omit_scopes)
     id_mapping = get_mapping(linearized_ids)
     toks_with_feats = []
     these_form_suggestions = []
@@ -184,18 +185,8 @@ def create_source_and_target(args, dataset_split, input_file_names):
                                              smoothing=0.01,
                                              desc=input_file_root):
             try:
-                # # TODO very messy temporary code to test out adding a domain
-                # # token to the src sequence. To see if it will improve training
-                # # with ukwac
-                # if input_file_root == 'dev':
-                #     base_source = get_tokens_with_feats(source_sent, data_type, form_suggestions)
-                #     this_source = '__train__' + '￨_￨_￨_￨_ ' + base_source
-                # else:
-                #     base_source = get_tokens_with_feats(source_sent, data_type, form_suggestions)
-                #     this_source = '__' + input_file_root + '__' + '￨_￨_￨_￨_ ' + base_source
-                # sources.append(this_source)
                 sources.append(
-                    get_tokens_with_feats(source_sent, data_type, form_suggestions))
+                    get_tokens_with_feats(source_sent, data_type, args.omit_scopes, form_suggestions))
                 if dataset_split not in ['test']:
                     targets.append(get_tokenized_sent(target_sent))
                 # It slows down if the list gets too large
@@ -250,6 +241,9 @@ def main():
                         type=int,
                         default=0,
                         help='repeat synthetic datasets')
+    parser.add_argument( '--omit_scopes',
+                        action='store_true',
+                        help='turn off scopes optionally for ablation')
     args = parser.parse_args()
 
     dataset_split_file_names = {'train':[], 'dev':[], 'test':[]}

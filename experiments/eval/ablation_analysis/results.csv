@@ -1,0 +1,6 @@
+BLEU,DIST,NIST,run_name,last_run_datetime
+0.573,0.636,11.156503,surface_realization_baseline,03-Dec_12-49
+0.651,0.692,11.81982,baseline_random_lins,03-Dec_13-31
+0.692,0.726,12.13252,baseline_random_lins_scopes,03-Dec_14-19
+0.723,0.748,12.656259,baseline_random_lins_scopes_restricted_decoding_shortcut,03-Dec_15-21
+0.722,0.742,12.668058,baseline_random_lins_scopes_restricted_beam,03-Dec_15-12

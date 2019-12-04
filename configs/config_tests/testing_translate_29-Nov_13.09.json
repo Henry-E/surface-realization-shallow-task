@@ -6,12 +6,15 @@
             "src_and_tgt",
             "preprocess",
             "train",
-            "translate"
+            "translate",
+            "format",
+            "eval"
         ],
         "actions_to_take": [
-            "translate"
+            "format",
+            "eval"
         ],
-        "last_run_datetime": "29-Nov_13-25",
+        "last_run_datetime": "30-Nov_11-55",
         "this_run_config_file": "/home/henrye/projects/surface-realization-shallow-task/configs/config_tests/testing_translate_29-Nov_13.09.json",
         "root_dir": "/home/henrye/projects/surface-realization-shallow-task",
         "opennmt_dir": "/home/henrye/downloads/henrye_OpenNMT-py",
@@ -21,8 +24,8 @@
         "best_model_file": "sr_acc_67.04_step_1250.pt",
         "tensorboard_sub_dir": "testing_translate_29-Nov_13.10",
         "translate_sub_dir": "testing_translate_29-Nov_13-25",
-        "format_sub_dir": null,
-        "eval_sub_dir": null
+        "format_sub_dir": "testing_translate_30-Nov_11-55",
+        "eval_sub_dir": "testing_translate_30-Nov_11-55"
     },
     "src_and_tgt": [
         "python",
@@ -111,7 +114,7 @@
         "--save_checkpoint",
         "125",
         "--train_steps",
-        "1250",
+        "12500",
         "--start_decay_steps",
         "11000",
         "--decay_steps",
@@ -121,7 +124,7 @@
         "python",
         "{opennmt_dir}/translate.py",
         "-model",
-        "{root_dir}/experiments/train/{exp_type}/{train_sub_dir}/{best_model_file}",
+        "{root}/experiments/train/{exp_type}/{train_sub_dir}/{best_model_file}",
         "-src",
         "{root_dir}/experiments/src_and_tgt/{exp_type}/{src_and_tgt_sub_dir}/dev.src",
         "-tgt",
@@ -134,6 +137,7 @@
         "1",
         "-gpu",
         "0",
+        "-report_bleu",
         "-dynamic_dict",
         "-share_vocab",
         "-replace_unk",
@@ -142,8 +146,24 @@
         "-beam_size",
         "10"
     ],
-    "src_and_tgt_debug": "python -m ipdb /home/henrye/projects/surface-realization-shallow-task/modules/create_source_and_target.py -i en-ud-train.conll en-ud-dev.conll /home/henrye/projects/surface-realization-shallow-task/data/synthetic/*/*filtered.conllu -o /home/henrye/projects/surface-realization-shallow-task/experiments/src_and_tgt/config_tests/testing_translate_29-Nov_13.09 --form_suggestions_file_name /home/henrye/projects/surface-realization-shallow-task/inflection_dicts/lemma_form_dict_sorted.json --train_set_repeats 1",
-    "preprocess_debug": "python -m ipdb /home/henrye/downloads/henrye_OpenNMT-py/preprocess.py -train_src /home/henrye/projects/surface-realization-shallow-task/experiments/src_and_tgt/config_tests/testing_translate_29-Nov_13.09/train.src -train_tgt /home/henrye/projects/surface-realization-shallow-task/experiments/src_and_tgt/config_tests/testing_translate_29-Nov_13.09/train.tgt -valid_src /home/henrye/projects/surface-realization-shallow-task/experiments/src_and_tgt/config_tests/testing_translate_29-Nov_13.09/dev.src -valid_tgt /home/henrye/projects/surface-realization-shallow-task/experiments/src_and_tgt/config_tests/testing_translate_29-Nov_13.09/dev.tgt -save_data /home/henrye/projects/surface-realization-shallow-task/experiments/preprocess/config_tests/testing_translate_29-Nov_13.10/sr -dynamic_dict -share_vocab -shard_size 125000 -src_seq_length 150 -tgt_seq_length 100 -src_vocab /home/henrye/projects/surface-realization-shallow-task/vocabs/srst/vocab_min_5_total_3726.txt -tgt_vocab /home/henrye/projects/surface-realization-shallow-task/vocabs/srst/vocab_min_5_total_3726.txt -src_vocab_size 3726 -tgt_vocab_size 3726",
-    "train_debug": "python -m ipdb /home/henrye/downloads/henrye_OpenNMT-py/train.py -data /home/henrye/projects/surface-realization-shallow-task/experiments/preprocess/config_tests/testing_translate_29-Nov_13.10/sr -save_model /home/henrye/projects/surface-realization-shallow-task/experiments/train/config_tests/testing_translate_29-Nov_13.10/sr --log_file /home/henrye/projects/surface-realization-shallow-task/experiments/train/config_tests/testing_translate_29-Nov_13.10/sr.log.txt --gpu_ranks 0 1 --world_size 2 --tensorboard --tensorboard_log_dir /home/henrye/projects/surface-realization-shallow-task/experiments/tensorboard/config_tests/testing_translate_29-Nov_13.10 --keep_checkpoint 5 --optim adam --learning_rate 0.001 --encoder_type brnn --batch_size 32 --share_embeddings --copy_attn --copy_attn_force --layers 2 --word_vec_size 300 --rnn_size 900 --report_every 125 --valid_steps 125 --save_checkpoint 125 --train_steps 1250 --start_decay_steps 11000 --decay_steps 750",
-    "translate_debug": "python -m ipdb /home/henrye/downloads/henrye_OpenNMT-py/translate.py -model /home/henrye/projects/surface-realization-shallow-task/experiments/train/config_tests/testing_translate_29-Nov_13.10/sr_acc_67.04_step_1250.pt -src /home/henrye/projects/surface-realization-shallow-task/experiments/src_and_tgt/config_tests/testing_translate_29-Nov_13.09/dev.src -tgt /home/henrye/projects/surface-realization-shallow-task/experiments/src_and_tgt/config_tests/testing_translate_29-Nov_13.09/dev.tgt -output /home/henrye/projects/surface-realization-shallow-task/experiments/translate/config_tests/testing_translate_29-Nov_13-25/sr.pred.txt -block_ngram_repeat 1 -batch_size 1 -gpu 0 -report_bleu -dynamic_dict -share_vocab -replace_unk --n_best 10 -beam_size 10"
+    "format": [
+        "python",
+        "{root_dir}/modules/format.py",
+        "--conll_sents_file_name",
+        "{root_dir}/data/srst/en_source/en-ud-dev.conll",
+        "--gen_sents_file_name",
+        "{root_dir}/experiments/translate/{exp_type}/{translate_sub_dir}/sr.pred.txt",
+        "-o",
+        "{root_dir}/experiments/format/{exp_type}/{format_sub_dir}",
+        "--n_best",
+        "10"
+    ],
+    "eval": [
+        "python",
+        "{root_dir}/modules/eval_Py3.py",
+        "{root_dir}/experiments/format/{exp_type}/{format_sub_dir}",
+        "{root_dir}/data/srst/dev_sents"
+    ],
+    "format_debug": "python -m ipdb /home/henrye/projects/surface-realization-shallow-task/modules/format.py --conll_sents_file_name /home/henrye/projects/surface-realization-shallow-task/data/srst/en_source/en-ud-dev.conll --gen_sents_file_name /home/henrye/projects/surface-realization-shallow-task/experiments/translate/config_tests/testing_translate_29-Nov_13-25/sr.pred.txt -o /home/henrye/projects/surface-realization-shallow-task/experiments/format/config_tests/testing_translate_30-Nov_11-55 --n_best 10",
+    "eval_debug": "python -m ipdb /home/henrye/projects/surface-realization-shallow-task/modules/eval_Py3.py /home/henrye/projects/surface-realization-shallow-task/experiments/format/config_tests/testing_translate_30-Nov_11-55 /home/henrye/projects/surface-realization-shallow-task/data/srst/dev_sents"
 }

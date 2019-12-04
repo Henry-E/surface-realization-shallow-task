@@ -3,8 +3,12 @@
 train/
 preprocess/
 src_and_tgt/
-vocab/*/*.txt
+vocabs/*/*.txt
 ._.DS_Store
 .DS_Store
 tensorboard/
 translate/
+configs/
+format/
+._*
+inflection_dicts/
