@@ -4,3 +4,4 @@ BLEU,DIST,NIST,run_name,last_run_datetime
 0.802,0.815,13.27335,long_training_lastest_translate,05-Dec_08-52
 0.808,0.818,13.315783,long_training_8_repeats,06-Dec_09-15
 0.798,0.805,13.20987,wiki_only_training,06-Dec_10-17
+0.803,0.814,13.279453,cnn_only_training,07-Dec_13-03

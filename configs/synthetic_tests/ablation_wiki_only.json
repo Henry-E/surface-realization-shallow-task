@@ -1,0 +1,98 @@
+{
+    "experiment_info":
+    {
+        "exp_type": "synthetic_tests",
+        "run_name": "wiki_only_training",
+        "available_actions": ["src_and_tgt", "shuffle", "preprocess", "train", "translate", "format", "eval"],
+        "actions_to_take": ["src_and_tgt", "shuffle", "preprocess"]
+    },
+    "src_and_tgt":
+    [
+       "python", "{root_dir}/modules/create_source_and_target.py",
+       "-i", "en-ud-train.conll", "en-ud-dev.conll",
+       "{root_dir}/data/synthetic/wikitext/wikitext_filtered.conllu",
+       "-o", "{root_dir}/experiments/src_and_tgt/{exp_type}/{src_and_tgt_sub_dir}",
+       "--form_suggestions_file_name", "{root_dir}/inflection_dicts/18th_october_tests/lemma_form_dict_sorted.json",
+       "--train_set_repeats", "30", "--synthetic_data_repeats", "8"
+    ],
+    "shuffle":
+    [
+    "paste -d '\t' {root_dir}/experiments/src_and_tgt/{exp_type}/{src_and_tgt_sub_dir}/train.src {root_dir}/experiments/src_and_tgt/{exp_type}/{src_and_tgt_sub_dir}/train.tgt > {root_dir}/experiments/src_and_tgt/{exp_type}/{src_and_tgt_sub_dir}/train.temp; shuffle-big-file --input_file {root_dir}/experiments/src_and_tgt/{exp_type}/{src_and_tgt_sub_dir}/train.temp --batch_size 1000000 --output_file {root_dir}/experiments/src_and_tgt/{exp_type}/{src_and_tgt_sub_dir}/train.out; awk -F '\t' '{{ print $1 > \"{root_dir}/experiments/src_and_tgt/{exp_type}/{src_and_tgt_sub_dir}/train.src\"; print $2 > \"{root_dir}/experiments/src_and_tgt/{exp_type}/{src_and_tgt_sub_dir}/train.tgt\"}}' {root_dir}/experiments/src_and_tgt/{exp_type}/{src_and_tgt_sub_dir}/train.out; rm -f {root_dir}/experiments/src_and_tgt/{exp_type}/{src_and_tgt_sub_dir}/train.out; rm -f {root_dir}/experiments/src_and_tgt/{exp_type}/{src_and_tgt_sub_dir}/train.temp"
+    ],
+    "preprocess":
+    [
+        "python", "{opennmt_dir}/preprocess.py",
+        "-train_src", "{root_dir}/experiments/src_and_tgt/{exp_type}/{src_and_tgt_sub_dir}/train.src",
+        "-train_tgt", "{root_dir}/experiments/src_and_tgt/{exp_type}/{src_and_tgt_sub_dir}/train.tgt",
+        "-valid_src", "{root_dir}/experiments/src_and_tgt/{exp_type}/{src_and_tgt_sub_dir}/dev.src",
+        "-valid_tgt", "{root_dir}/experiments/src_and_tgt/{exp_type}/{src_and_tgt_sub_dir}/dev.tgt",
+        "-save_data", "{root_dir}/experiments/preprocess/{exp_type}/{preprocess_sub_dir}/sr",
+        "-dynamic_dict", 
+        "-share_vocab", 
+        "-shard_size", "125000",
+        "-src_seq_length", "150",
+        "-tgt_seq_length", "100",
+        "-src_vocab", "{root_dir}/vocabs/wiki_only/vocab_min_10_total_68248.txt",
+        "-tgt_vocab", "{root_dir}/vocabs/wiki_only/vocab_min_10_total_68248.txt",
+        "-src_vocab_size", "68248",
+        "-tgt_vocab_size", "68248"
+    ],
+    "train":
+    [
+        "python", "{opennmt_dir}/train.py",
+        "-data", "{root_dir}/experiments/preprocess/{exp_type}/{preprocess_sub_dir}/sr",
+        "-save_model", "{root_dir}/experiments/train/{exp_type}/{train_sub_dir}/sr",
+        "--log_file", "{root_dir}/experiments/train/{exp_type}/{train_sub_dir}/sr.log.txt",
+        "--gpu_ranks", "0", "1",
+        "--world_size", "2",
+        "--tensorboard",
+        "--tensorboard_log_dir", "{root_dir}/experiments/tensorboard/{exp_type}/{tensorboard_sub_dir}",
+        "--keep_checkpoint", "10",
+        "--optim", "adam",
+        "--learning_rate", "0.001",
+        "--encoder_type", "brnn",
+        "--batch_size", "32",
+        "--share_embeddings",
+        "--copy_attn",
+        "--copy_attn_force",
+        "--layers", "2",
+        "--word_vec_size", "300",
+        "--rnn_size", "900",
+        "--report_every", "500",
+        "--valid_steps", "500",
+        "--save_checkpoint", "500",
+        "--train_steps", "550000",
+        "--start_decay_steps", "600000",
+        "--decay_steps", "750"
+    ],
+    "translate":
+    [
+    "python", "{opennmt_dir}/translate.py",
+    "-model", "{root_dir}/experiments/train/{exp_type}/{train_sub_dir}/{best_model_file}",
+    "-src", "{root_dir}/experiments/src_and_tgt/{exp_type}/{src_and_tgt_sub_dir}/dev.src",
+    "-tgt", "{root_dir}/experiments/src_and_tgt/{exp_type}/{src_and_tgt_sub_dir}/dev.tgt",
+    "-output", "{root_dir}/experiments/translate/{exp_type}/{translate_sub_dir}/sr.pred.txt",
+    "-block_ngram_repeat", "1",
+    "-batch_size", "1",
+    "-gpu", "0",
+    "-dynamic_dict",
+    "-share_vocab",
+    "-replace_unk",
+    "--n_best", "50",
+    "-beam_size", "50"
+    ],
+    "format":
+    [
+        "python", "{root_dir}/modules/format.py",
+        "--conll_sents_file_name", "{root_dir}/data/srst/en_source/en-ud-dev.conll",
+        "--gen_sents_file_name", "{root_dir}/experiments/translate/{exp_type}/{translate_sub_dir}/sr.pred.txt",
+        "-o", "{root_dir}/experiments/format/{exp_type}/{format_sub_dir}",
+        "--n_best", "50"
+    ],
+    "eval":
+    [
+        "python", "{root_dir}/modules/eval_Py3.py",
+        "{root_dir}/experiments/format/{exp_type}/{format_sub_dir}",
+        "{root_dir}/data/srst/dev_sents"
+    ]
+}

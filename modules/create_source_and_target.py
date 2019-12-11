@@ -163,9 +163,9 @@ def create_source_and_target(args, dataset_split, input_file_names):
             target_conllu_file_name = input_file_name
         elif data_type in ['test']:
             input_file_root = data_type
-            source_conllu_file_name = os.path.join(args.test_conllu_dir_name,
+            source_conllu_file_name = os.path.join(args.source_conllu_dir_name,
                                                    input_file_name)
-            target_conllu_file_name = os.path.join(args.test_conllu_dir_name,
+            target_conllu_file_name = os.path.join(args.source_conllu_dir_name,
                                                    input_file_name)
         else:
             input_file_root = data_type
@@ -227,8 +227,6 @@ def main():
     parser.add_argument('--target_conllu_dir_name',
                         default='/home/henrye/projects/surface-realization-shallow-task/data/srst/en_target',
                         help='folder with target conllu, hardcodedish')
-    parser.add_argument('--test_conllu_dir_name',
-                        default='/home/henrye/data/msr_2019/T1-test_en')
     parser.add_argument('--eval_set_repeats',
                         type=int,
                         default=1,
