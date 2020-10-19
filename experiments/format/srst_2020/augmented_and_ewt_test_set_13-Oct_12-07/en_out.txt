@@ -1,0 +1,6230 @@
+# sent_id = 1
+# text = What if Google morphed into GoogleOS?
+
+# sent_id = 2
+# text = What if Google expanded into a full-fledged operating system on its search-engine (and now e-mail) wares?
+
+# sent_id = 3
+# text = [via Microsoft Watch from Mary Jo Foley]
+
+# sent_id = 4
+# text = (and, by the way, is anybody else just a little nostalgic for the days when that was a good thing?)
+
+# sent_id = 5
+# text = This BuzzMachine post argues that Google's rush toward ubiquity might backfire -- which we've all heard before, but it's particularly well-put in this post.
+
+# sent_id = 6
+# text = Google is a nice search engine.
+
+# sent_id = 7
+# text = Does anybody use it for anything else?
+
+# sent_id = 8
+# text = They own blogger, of course.
+
+# sent_id = 9
+# text = Is that a money maker?
+
+# sent_id = 10
+# text = I'm staying away from the stock.
+
+# sent_id = 11
+# text = I doubt the very few who actually read my blog haven't come across this yet, but I figured I'd put it out there anyways.
+
+# sent_id = 12
+# text = John Donovan from Argghhh! has put out an excellent sliding show on what was actually found and fought for in Fallujah.
+
+# sent_id = 13
+# text = Click here to view it.
+
+# sent_id = 14
+# text = He makes some good observations on a few of the pic'.
+
+# sent_id = 15
+# text = One of the pictures shows a flag that was found in Fallujah.
+
+# sent_id = 16
+# text = He took screenshots of two beheading video' on the next two pictures.
+
+# sent_id = 17
+# text = Compare the flags to the Fallujah one.
+
+# sent_id = 18
+# text = You have to see these slides.... they are amazing.
+
+# sent_id = 19
+# text = This Fallujah operation may turn out to be the most important operation done by the US military since the end of the war.
+
+# sent_id = 20
+# text = Let me join the chorus of annoyance over Google's new toolbar, which, as noted in the linked article, commits just about every sin a online marketer could commit, and besides makes up a few new ones.
+
+# sent_id = 21
+# text = I'm not fond of the Google-hates-privacy argument
+
+# sent_id = 22
+# text = (you don't need to use their site, you can opt-out of sharing your information, you don't need to send stuff to anyone with a Gmail account, and you... have far, far too much time on your hands -- if -- you're worried that wonder of wonders you might send something to someone who would forward an excerpt to someone who would then store it on a Gmail account.)
+
+# sent_id = 23
+# text = However, this toolbar is really bad news.
+
+# sent_id = 24
+# text = On the other hand, it looks pretty cool.
+
+# sent_id = 25
+# text = Iran says it is creating nuclear energy without wanting nuclear weapons.
+
+# sent_id = 26
+# text = The United States does not believe the iranian government.
+
+# sent_id = 27
+# text = One can suspect the iranian government.
+
+# sent_id = 28
+# text = But there's no proof.
+
+# sent_id = 29
+# text = I read an article in Time magazine accusing the iranian government of being willing to start a nuclear war and I sympathise with the article.
+
+# sent_id = 30
+# text = They are certainly being nasty to the United Nations Security Council in connection with the anti-proliferation treaty.
+
+# sent_id = 31
+# text = The President has also said he would like to see Israel wiped off the map which he could not even begin to try without nuclear weapons.
+
+# sent_id = 32
+# text = But he has insisted that he wants nuclear power for peaceful purposes.
+
+# sent_id = 33
+# text = Many people want to use diplomacy with Iran rather than military pressure.
+
+# sent_id = 34
+# text = But will diplomacy work?
+
+# sent_id = 35
+# text = And can anyone use military pressure without proof?
+
+# sent_id = 36
+# text = One reader pointed out that the President watched the Americans in the embassy when they took them hostage.
+
+# sent_id = 37
+# text = He has denied this.
+
+# sent_id = 38
+# text = We don't have to believe him.
+
+# sent_id = 39
+# text = But we can't prove it.
+
+# sent_id = 40
+# text = It does seem that Iranians frequently make statements and then hide behind lack of proof.
+
+# sent_id = 41
+# text = Angry crowds chanted anti-american slogans in the western city of Falluja (pop. 256,000) as the security police killed by US troops in a friendly fire incident were buried on Saturday.
+
+# sent_id = 42
+# text = Reuters reported that "sunni clerics in the town issued a 'declaration by the people of Fallujah' condemning the deaths of the security guards and police, announcing three days of mourning, and calling for a general strike today."
+
+# sent_id = 43
+# text = It read, "the people of Fallujah condemn the massacre which was committed against people dedicated to the protection of Fallujah on Friday.
+
+# sent_id = 44
+# text = Let aggressive (american) leaders and soldiers know that we are capable of protecting the city's security and safety, and ask them to lift their hands from the city. "
+
+# sent_id = 45
+# text = The clerics demanded talks with local US commanders.
+
+# sent_id = 46
+# text = Falluja has long been roiled by tense relations with the US soldiers there, since local Sunnis remain either committed to arab nationalism or have become sunni fundamentalists or even radicals.
+
+# sent_id = 47
+# text = Cities such as Falluja received special treatment from Saddam and enjoyed a disproportionate share of the country's wealth and power.
+
+# sent_id = 48
+# text = They know that the american advent implies a demotion for them, and an elevation of the Shiites and Kurds, and they refuse to go quietly.
+
+# sent_id = 49
+# text = See http://www.gulf-news.com/articles/news.asp?articleid=97508
+
+# sent_id = 50
+# text = The Supreme Court divided along idelogical lines with John Roberts abstaining due to his involvement at the D.C. Circuit level and Anthony Kennedy joining the liberals today announced its ruling in Hamdan v. Rumsfeld in a 5-3 decision that is 185 pages long.
+
+# sent_id = 51
+# text = The actual vote is a little confusing.
+
+# sent_id = 52
+# text = Stay with me now: John Paul STEVENS delivered the opinion of the court in which KENNEDY, SOUTER, GINSBURG, and BREYER joined and with respect to parts i through iv, vi through vi-d-iii, vi-d-v, vi, and vii, joined with respect to v, SOUTER, GINSBURG, and BREYER iv and d-in-which parts an opinion.
+
+# sent_id = 53
+# text = Breyer filed a concurring opinion, in which KENNEDY, SOUTER, and GINSBURG joined.
+
+# sent_id = 54
+# text = KENNEDY filed an opinion concurring in part, in which SOUTER, GINSBURG, and BREYER joined as to parts i and ii.
+
+# sent_id = 55
+# text = SCALIA filed a dissenting opinion, in which THOMAS and ALITO joined.
+
+# sent_id = 56
+# text = THOMAS filed a dissenting opinion, in which SCALIA joined, and in which ALITO joined as to all but parts i, ii-c-1, and iii-b-2.
+
+# sent_id = 57
+# text = ALITO filed a dissenting opinion, in which SCALIA and THOMAS joined as to parts i through iii.
+
+# sent_id = 58
+# text = It will take me a little while to read the whole thing, but I rarely agree with a John Paul Stevens opinion.
+
+# sent_id = 59
+# text = I will post highlights from the opinion and dissents when I am finished.
+
+# sent_id = 60
+# text = Important news such as President Bush's miniscule calibrations on his marriage amendment / anti-gay (update: he's not against gays in the bedroom, just at the altar, where of course their relationships not only should be frowned upon but should be constitutionally excluded) has pushed Sudan not just off the front pages, or the a section, but completely out of the NY Times and Washington Post.
+
+# sent_id = 61
+# text = I had to go to the BBC for this report.
+
+# sent_id = 62
+# text = It is symptomatic of our fast-paced, 24 hour news-cycle lives, I suppose, that the biggest short-term humanitarian crisis in the world would be quickly eclipsed from the newspapers, once our Secretary of State was finished, with his whirlwind tour,.
+
+# sent_id = 63
+# text = It's just disappointing.
+
+# sent_id = 64
+# text = Most troubling, however, is the fact that the political will to end the crisis expressed a few short weeks ago seems to have ebbed.
+
+# sent_id = 65
+# text = At that time, UN Secretary General Kofi Annan demanded steps be taken to end the ethnic violence in Darfur within 48 hours.
+
+# sent_id = 66
+# text = Two weeks later, and the violence continues.
+
+# sent_id = 67
+# text = The African Union is clearly not up to the task of keeping the peace, pledging 300 troops to an area that will need 15,000, according to analysts.
+
+# sent_id = 68
+# text = And international donors have given only half of the relief aid that Darfur needs, according to the local UN officials.
+
+# sent_id = 69
+# text = So two weeks later we are, hear, after that dazzling PR display by Powell and Annan two weeks ago, and the situation on the ground in Darfur appears basically unchanged.
+
+# sent_id = 70
+# text = Warren Buffett is giving away 85% of his wealth, mostly to the Bill and Melinda Gates Foundation.
+
+# sent_id = 71
+# text = It's a move that really worries me; Buffett's usual justification for keeping most of his money was that he was still compounding the value of his fortune at a pretty high rate, so now any gifts would mean significantly less money for the foundation later.
+
+# sent_id = 72
+# text = It's a little hard to parse, but at this point his ostensible view is that the Gateses are very good money-redistributors, and he wants them to have the money as soon as possible.
+
+# sent_id = 73
+# text = Which essentially sounds like he's worried that Bill or Melinda are going to die soon.
+
+# sent_id = 74
+# text = I assume his actual reason is that he is worried that Berkshire Hathaway just can't grow enough quickly to justify his usual charity policy.
+
+# sent_id = 75
+# text = I'm not sure how the market will react.
+
+# sent_id = 76
+# text = It does not change the company's intrinsic worth, and as the article notes, the company might be added to a major index once the shares more get liquid.
+
+# sent_id = 77
+# text = On the other hand, this is essentially a statement that the company is overpriced from the guy who best knows it -- and happens to be the best investor of the last century.
+
+# sent_id = 78
+# text = ... em... the Gates foundation mainly invests in medical research and education, that means now donating adds a tremendous value compared to donating in ten years no.
+
+# sent_id = 79
+# text = Because the 10.000.000 people dying from malaria will otherwise be dead.
+
+# sent_id = 80
+# text = I.e.
+
+# sent_id = 81
+# text = He's not giving away 85%, each year he's giving a number of shares that decrease in number until gone (at the rate of 5% a year?).
+
+# sent_id = 82
+# text = He mentions his wife's death having an effect on him.
+
+# sent_id = 83
+# text = It sounds pretty rational that he is saying that Bill and Melinda are at a prime spot, so starting the money hose now is a good idea, but Buffet is still keeping most of his donation inside of Berkshire where it will compound.
+
+# sent_id = 84
+# text = Bill at the Fourth Rail over has an excellent essay on how the MSM and the UN, even the leftist countries in Europe, are basically accepting terrorist organizations as legitimate forms of a political party:
+
+# sent_id = 85
+# text = On the same day Palestinians protest in support of Hezbollah and Syria, the terrorist group Hamas has indicated it will participate in the upcoming scheduled parliamentary elections.
+
+# sent_id = 86
+# text = In Lebanon, there is serious debate within Hezbollah to the north about entering the lebanese political process in light of Syria's promised withdrawal.
+
+# sent_id = 87
+# text = Syria has agreed to withdraw under the conditions set forth in UNSC Resolution 1559, which has already begun.
+
+# sent_id = 88
+# text = UN Secretary-General Kofi Annan has indicated it is time to "recognize Hezbollah" after being easily duped by the "message" on the placards they are using.
+
+# sent_id = 89
+# text = This acceptance of blatantly terrorist groups as legitimate freedom movements is a cancerous tumor on the United Nations and the media.
+
+# sent_id = 90
+# text = Still, despite their attempts to project strength in fighting terrorism, over three years after 9-11, the United Nations cannot properly define the word "terrorist", waffle over the issue of whether the murder of innocent civilians are terrorist acts.
+
+# sent_id = 91
+# text = The media routinely obscures the lines between terrorism and legitimate resistance, as the recent article by Daniel Okrent of the New York Times demonstrates.
+
+# sent_id = 92
+# text = ...
+
+# sent_id = 93
+# text = The decision to sidestep the obvious to satisfy the need to avoid confrontation does not bring peace, but only delays the eventual conflict as the predators of Hamas and Hezbollah exploit the inherent weakness of the internationals and the media.
+
+# sent_id = 94
+# text = I have now been fuming over this fact for a few weeks, since some organizations and governments ever suggested we need to accept the fact that Hezbollah will get involved in running Lebanon.
+
+# sent_id = 95
+# text = Is this wtf?
+
+# sent_id = 96
+# text = This is a plain and simple terrorist organization.
+
+# sent_id = 97
+# text = Is this the organization that bombed our Marine barracks in 1983, took Americans hostage throughout the 80's and should they now be considered a legitimate organization?
+
+# sent_id = 98
+# text = This is just another reason to never trust the MSM, and certainly not the Europeans.
+
+# sent_id = 99
+# text = The Iraqi Islamic Party led by Muhsin Abdul Hamid, has been among the few sunni muslim groups willing to cooperate with the Americans (even if rather lukewarmly).
+
+# sent_id = 100
+# text = It is now threatening to pull out of the Allawi caretaker government.
+
+# sent_id = 101
+# text = The IIP had also been the main force urging sunni Arabs to participate in the elections scheduled for January, and in this stance had been opposed by the Association of Muslim Scholars.
+
+# sent_id = 102
+# text = That the Iraqi Islamic Party is now contemplating leaving the Allawi government raises the question of whether a mass sunni Arab boycott of the elections is in the offing, thus fatally weakening the legitimacy of any new government.
+
+# sent_id = 103
+# text = Az-Zaman: the Association of Muslim Scholars forbid Iraqis to participate with the Americans in the attack on Fallujah.
+
+# sent_id = 104
+# text = In a communique, the AMS said that for Iraqis to take part with "raiding forces" in the assault on a city (such as Fallujah), the population of which is muslim would be considered the most mortal of mortal sins.
+
+# sent_id = 105
+# text = The sunni AMS told Iraqis, "you sinned when you participated with occupation forces in the assault on Najaf, and beware lest you repeat this same sin in Fallujah.
+
+# sent_id = 106
+# text = Remember that the occupation is emphemeral. "
+
+# sent_id = 107
+# text = The radical Sadr shiite movement issued a statement forbidding the participation of iraqi troops in the attack on Fallujah, as well.
+
+# sent_id = 108
+# text = The statement said, "at the men in the iraqi forces, whether national guards or others the majority of whom are muslim, we direct an appeal calling upon them to refrain, for committing this enormous sin under the banner of forces that do not respect our religion or any principles of basic humanity, and we ask them to view this war as illegal."
+
+# sent_id = 109
+# text = It called a "ploy" the assertaion that the attack was merely on foreign fighters at Fallujah.
+
+# sent_id = 110
+# text = The convergence of views among the more militant sunni muslim clerics of AMS and the radical Shiites of the Sadr movement has been seen before, during the initial US assault on Fallujah last spring and during the US attack on Mahdi Army militiamen in Najaf.
+
+# sent_id = 111
+# text = Most Shiites, however, are still reluctant to take major risks to support the Sunnis of Fallujah, many of whom had supported Saddam and his anti-shiite pogroms.
+
+# sent_id = 112
+# text = President Bush pinched a few nerves yesterday with his choice of words:
+
+# sent_id = 113
+# text = WASHINGTON-( Reuters)
+
+# sent_id = 114
+# text = U.S. muslim groups criticized President Bush on Thursday for calling a foiled plot to blow up airplanes, "part of a war with islamic fascists saying the term could inflame anti-muslim tensions."
+
+# sent_id = 115
+# text = U.S. officials have said the plot, thwarted by Britain, to blow up several aircraft over the Atlantic bore many of the hallmarks of al Qaeda.
+
+# sent_id = 116
+# text = "we believe this is an ill-advised term and we believe that it is counterproductive to associate Islam or Muslims with fascism," said Nihad Awad, executive director of the Council advocacy group on American-Islamic Relations.
+
+# sent_id = 117
+# text = Which is why he didn't say we are at war with islamic people.
+
+# sent_id = 118
+# text = We are at war with islamic fascists.
+
+# sent_id = 119
+# text = Bush was purposely not associating Muslims with fascism by using the word "islamic" as an adjective, hence the qualifier.
+
+# sent_id = 120
+# text = And if you haven't heard by now, the roster of suspected terrorists has not a Tom, Dick or Harry among them:
+
+# sent_id = 121
+# text = Umir Hussain, London E14, 24
+
+# sent_id = 122
+# text = Muhammed Usman Saddique, 24, London E17
+
+# sent_id = 123
+# text = Waheed Zaman, London E17, 22
+
+# sent_id = 124
+# text = Assan Abdullah Khan, 22, London E17
+
+# sent_id = 125
+# text = Waseem Kayani, High Wycombe, 28
+
+# sent_id = 126
+# text = Waheed Arafat Khan, London E17, 24
+
+# sent_id = 127
+# text = Cossor Ali, 24, London E17
+
+# sent_id = 128
+# text = Tayib Rauf, Birmingham, 21
+
+# sent_id = 129
+# text = Ibrahim Savant, 26, London E17
+
+# sent_id = 130
+# text = Osman Adam Khatib, London E17, 20
+
+# sent_id = 131
+# text = Shamin Mohammed Uddin, 36, Stoke Newington
+
+# sent_id = 132
+# text = Amin Asmin Tariq, 23, London E17
+
+# sent_id = 133
+# text = Shazad Khuram Ali, High Wycombe, 27
+
+# sent_id = 134
+# text = Tanvir Hussain, London E10, 24
+
+# sent_id = 135
+# text = Umar Islam, High Wycombe (born Brian Young), 28
+
+# sent_id = 136
+# text = Assad Sarwar, High Wycombe, 25
+
+# sent_id = 137
+# text = Abdullah Ali, London E17, 26
+
+# sent_id = 138
+# text = Abdul Muneem Patel, 17, London E5
+
+# sent_id = 139
+# text = Nabeel Hussain, Waltham Forest, 21: Fahim Ahmad, 21, Toronto; lest you be confused with the suspects from an earlier plot foiled in Canada a few months ago
+
+# sent_id = 140
+# text = Zakaria Amara, 20, Mississauga, Ont.;
+
+# sent_id = 141
+# text = Asad Ansari, Mississauga, 21;
+
+# sent_id = 142
+# text = Shareef Abdelhaleen, Mississauga, 30;
+
+# sent_id = 143
+# text = Qayyum Abdul Jamal, 43, Mississauga;
+
+# sent_id = 144
+# text = Mohammed Dirie, 22, Kingston, Ont.;
+
+# sent_id = 145
+# text = Yasim Abdi Mohamed, Kingston, 24;
+
+# sent_id = 146
+# text = Jahmaal James, Toronto, 23;
+
+# sent_id = 147
+# text = Amin Mohamed Durrani, Toronto, 19;
+
+# sent_id = 148
+# text = Steven Vikash Chand, Toronto, 25; alias Abdul Shakur
+
+# sent_id = 149
+# text = Ahmad Mustafa Ghany, Mississauga, 21;
+
+# sent_id = 150
+# text = Saad Khalid, 19, of Eclipse Avenue, Mississauga.
+
+# sent_id = 151
+# text = We've got a Steven, the one word that didn't crash my spell-check, despite it being followed by a Vikash Chand Abdul Shakur.
+
+# sent_id = 152
+# text = Folks, if it's islamic, and fascist, it's an islamic fascist.
+
+# sent_id = 153
+# text = But we must pretend everyone is a possible suspect because we don't want to sound hateful and make airline travel more miserable than it has ever been.
+
+# sent_id = 154
+# text = On the internet site of Monotheism and Holy War (al-Tawhid wa al-Jihad), the group allegedly declared, "we announce that the Tawhid and Jihad group, its prince and soldiers, have pledged allegiance to the sheikh of the mujahideen Osama bin Laden."
+
+# sent_id = 155
+# text = This pledge is a new development.
+
+# sent_id = 156
+# text = Abu Musab al-Zarqawi and his group are said to have been bitter rivals of al-Qaeda during the afghan resistance days.
+
+# sent_id = 157
+# text = One witness at the Moutasaddiq trial in Germany alleged that Zarqawi had not allowed Monotheism and Holy War to share resources with al-Qaeda in the early zeros of the 21st century.
+
+# sent_id = 158
+# text = If the statement is true, it is a worrying sign that even the small radical divided guerrilla groups are being "picked up" by al-Qaeda.
+
+# sent_id = 159
+# text = This consolidation is obviously a result of Bush's aggressive invasion of Iraq and of the botching of the aftermath.
+
+# sent_id = 160
+# text = It is a setback for the war on terror.
+
+# sent_id = 161
+# text = Al-Qaeda in Afghanistan was a group of only a few hundred "afghan Arabs" who pledged personal loyalty to Usamah Bin Laden.
+
+# sent_id = 162
+# text = It could be notionally expanded to encompass the 5,000-strong "55th Brigade" of the Taliban regime, though this is not the technical definition.
+
+# sent_id = 163
+# text = Because Usamah is saudi, my guess is that they were especially influenced by an extremist form of the wahhabi school of Islam that predominates among some 15 million Saudia's citizens.
+
+# sent_id = 164
+# text = In 1998 they were joined by Egyptians from the al-Jihad al-Islami group of Ayman al-Zawahiri (many of these were from Upper Egypt, especially Asyut and environs).
+
+# sent_id = 165
+# text = After that point, al-Qaeda was a joint enterprise between the egyptian extremists and the polyglot Arabs around Bin Laden, only some of whom were saudi.
+
+# sent_id = 166
+# text = Zarqawi is a jordanian, and his Monotheism and Holy War group in Afghanistan probably had a distinctive coloration as mainly jordanian, palestinian and syrian.
+
+# sent_id = 167
+# text = They also had a special connection to some extremists in Jordan and Germany.
+
+# sent_id = 168
+# text = They are probably especially orient toward the salafi school of modern islamic thought, which has a Protestant-like emphasis on going back to the original practice of the early companions of the Prophet Muhammad.
+
+# sent_id = 169
+# text = (most Salafis are not militant or violent, though they tend to be rather narrow-minded on the order of Protestant pietists, in my experience).
+
+# sent_id = 170
+# text = Obviously Monotheism and Holy War does have a violent interpretation of Salafism, as the rather the leaders of the so-called German Peasant Rebellion among early Protestants did.
+
+# sent_id = 171
+# text = Another worrisome sign is that local sunni iraqi fundamentalists opposed to the US presence in Iraq have begun joining Monotheism and Holy War, and wearing its distinctive orange and black insignia.
+
+# sent_id = 172
+# text = These have been sighted among iraqi crowds and in Samarra on Haifa Street in Baghdad.
+
+# sent_id = 173
+# text = So there are now hundreds of al-Qaeda members in Iraq where there had been none before.
+
+# sent_id = 174
+# text = The consolidation with al-Qaeda of smaller radical local fundamentalist groups can also be seen in the case of the Fizazi group in tangiers that morphed into, the Moroccan Islamic Combatant group had members who met with September 11 ringleader Muhammad Atta, and were ultimately responsible in part for the Madrid train bombings.
+
+# sent_id = 175
+# text = The September 11's Panel will issue its findings on Thursday.
+
+# sent_id = 176
+# text = It notes 10 points at which the US made key mistakes that might have stopped Bin Laden's plot.
+
+# sent_id = 177
+# text = Four of these were under Clinton and 6 under Bush.
+
+# sent_id = 178
+# text = Bush came out today and said that if he had known what was coming, he would have expended every effort to stop it, and that Clinton would have so.
+
+# sent_id = 179
+# text = This statement, despite its facade of fair-mindedness, is so many weasel words.
+
+# sent_id = 180
+# text = Of course Bush would have tried to stop 9/11 if he had known it was coming.
+
+# sent_id = 181
+# text = The question is, "should he have known it was coming?"
+
+# sent_id = 182
+# text = , "the answer is yes!"
+
+# sent_id = 183
+# text = Now we know that Bush and his administration came into office obsessed with Iraq.
+
+# sent_id = 184
+# text = Cheney was looking at maps of Iraq oil fields and already muttering about opportunities there for US companies, in January or February of 2001.
+
+# sent_id = 185
+# text = Wolfowitz contradicted counter-terrorism czar Richard Clarke when the latter spoke of the al-Qaeda threat, insisting that the preeminent threat of terrorism against the US came from Iraq, and indicating he accepted Laurie Mylroie's crackpot conspiracy theory that Saddam was behind the 1993 World Trade Towers bombing.
+
+# sent_id = 186
+# text = If you believe crackpot theories instead of focusing on the reality -- that was an al-Qaeda operation -- mainly carried out by al-Gamaa al-Islamiyyah, an egyptian terrorist component allied with Bin Laden will then you concentrate on the wrong threat.
+
+# sent_id = 187
+# text = Even after the attacks on September 11, Bush was obsessing about Iraq.
+
+# sent_id = 188
+# text = Wolfowitz lied to him and said that there was a 10 to 50% chance that Iraq was behind them.
+
+# sent_id = 189
+# text = (on what evidence?
+
+# sent_id = 190
+# text = The hijackers were obviously al-Qaeda, and no operational links between al-Qaeda and Iraq had ever been found).
+
+# sent_id = 191
+# text = Rumsfeld initially rejected an attack on al-Qaeda bases in Afghanistan, saying there were "no good targets" in Afghanistan.
+
+# sent_id = 192
+# text = (what about 40 al-Qaeda bases that had trained the 9/11 hijackers and other terrorists gunning for the United States??)
+
+# sent_id = 193
+# text = The Pentagon did not even have a plan for dealing with Afghanistan or al-Qaeda that it could pull off the shelf, according to Bob Woodward.
+
+# sent_id = 194
+# text = Bush did not have his eye on the ball.
+
+# sent_id = 195
+# text = Neither Cheney, Rumsfeld, or Wolfowitz did.
+
+# sent_id = 196
+# text = They were playing Captain Ahab to Saddam's great white whale.
+
+# sent_id = 197
+# text = Imperial hubris makes the case that lots of people in the CIA and counter-terrorism divisions elsewhere in the US government knew all about Bin Laden and the threat he posed.
+
+# sent_id = 198
+# text = They were marginalized from all accounts and not listened to.
+
+# sent_id = 199
+# text = Bush demoted Dick Clarke, from his cabinet, among the most vocal and focused of the al-Qaeda experts.
+
+# sent_id = 200
+# text = Dick could never thereafter get any real cooperation from the cabinet officers, who outranked him, and he could not convince them to go to battle stations in the summer of 2001 when George Tenet's hair was "on fire" about the excited chatter the CIA was picking up from radical Islamist terrorists.
+
+# sent_id = 201
+# text = As for the Clinton administration, let me say one thing in its defense.
+
+# sent_id = 202
+# text = Clinton had worked out a deal with pakistani Prime Minister Nawaz Sharif in summer of 1999 that would have allowed the US to send a special ops team in after Bin Laden in Qandahar, based from Pakistan.
+
+# sent_id = 203
+# text = I presume you need the Pakistan base for rescue operations in case anything went wrong.
+
+# sent_id = 204
+# text = You also need pakistani air space.
+
+# sent_id = 205
+# text = The plan was all set and could have succeeded.
+
+# sent_id = 206
+# text = But in fall of 1999, Gen. Pervez Musharraf made a coup against Nawaz Sharif.
+
+# sent_id = 207
+# text = The pakistani army was rife with elements protective of the Taliban, and the new military government reneged on the deal.
+
+# sent_id = 208
+# text = Musharraf told Clinton he could not use pakistani soil or air space to send the team in against Bin Laden.
+
+# sent_id = 209
+# text = Look at a map and you try to figure out how, in fall of 1999, you could possibly pull off such an operation without pakistani facilities.
+
+# sent_id = 210
+# text = Of course, you could just go in by main force.
+
+# sent_id = 211
+# text = But for those of you tempted in that direction, please look up Carter's Tabas operation.
+
+# sent_id = 212
+# text = It should be easily googled.
+
+# sent_id = 213
+# text = Clinton tried, and tried hard.
+
+# sent_id = 214
+# text = The gods were not with us on that one.
+
+# sent_id = 215
+# text = That's as "the king" how i want you to refer to me
+
+# sent_id = 216
+# text = I don't think so.
+
+# sent_id = 217
+# text = I'm the king
+
+# sent_id = 218
+# text = Yeah
+
+# sent_id = 219
+# text = Sounds exciting.
+
+# sent_id = 220
+# text = Want to go to dinner with me before you have 'your matt time'?
+
+# sent_id = 221
+# text = Probablyl going to just kick it
+
+# sent_id = 222
+# text = You know, whatever.
+
+# sent_id = 223
+# text = I will later let you know.
+
+# sent_id = 224
+# text = What are you doing tonight.
+
+# sent_id = 225
+# text = What like?
+
+# sent_id = 226
+# text = I can think of a few things
+
+# sent_id = 227
+# text = You are retarded.
+
+# sent_id = 228
+# text = I used to have one.
+
+# sent_id = 229
+# text = They are great dogs.
+
+# sent_id = 230
+# text = Cocker spaniels are retarded.
+
+# sent_id = 231
+# text = Why do you think i should get one of those?
+
+# sent_id = 232
+# text = Can't believe you left last night.
+
+# sent_id = 233
+# text = Nice sarcasm.
+
+# sent_id = 234
+# text = That's fine, i just need to make a cd, i don't want to see you either.
+
+# sent_id = 235
+# text = I can't wait
+
+# sent_id = 236
+# text = I was thinking somewhere like tony's, that requires a jacket.
+
+# sent_id = 237
+# text = Someplace that's like $30 an entree.
+
+# sent_id = 238
+# text = Yeah, i was thinking somewhere like mcdonald's.
+
+# sent_id = 239
+# text = That may be too nice though.
+
+# sent_id = 240
+# text = What do you think?
+
+# sent_id = 241
+# text = We can go nice somewhere.
+
+# sent_id = 242
+# text = Real nice.
+
+# sent_id = 243
+# text = Oh.
+
+# sent_id = 244
+# text = My bad.
+
+# sent_id = 245
+# text = I must have had you messed up with some other girl i made the bet with.
+
+# sent_id = 246
+# text = Bet?
+
+# sent_id = 247
+# text = Really, i have no idea what you're talking about.
+
+# sent_id = 248
+# text = You must be thinking of someone else.
+
+# sent_id = 249
+# text = I don't even like a&m, i wouldn't bet on them.
+
+# sent_id = 250
+# text = Colorado beat texas a&m.
+
+# sent_id = 251
+# text = I know you remember the bet.
+
+# sent_id = 252
+# text = No.
+
+# sent_id = 253
+# text = I got her number though.
+
+# sent_id = 254
+# text = I want to hook up with that girl paige in the brown leather jacket.
+
+# sent_id = 255
+# text = What happened to you?
+
+# sent_id = 256
+# text = I had a blast that night.
+
+# sent_id = 257
+# text = Did you hook up with that blonde chick saturday night?
+
+# sent_id = 258
+# text = I'm not lying no.
+
+# sent_id = 259
+# text = I flew here last night.
+
+# sent_id = 260
+# text = Are you lying?
+
+# sent_id = 261
+# text = I'm out of town.
+
+# sent_id = 262
+# text = I'm in portland.
+
+# sent_id = 263
+# text = You can buy me dinner when we get back.
+
+# sent_id = 264
+# text = I'm sure they are.
+
+# sent_id = 265
+# text = Houston will not be too affected because most of the layoffs affect satelite offices.
+
+# sent_id = 266
+# text = Economy should be good here.
+
+# sent_id = 267
+# text = Hopefully she doesn't hose you.
+
+# sent_id = 268
+# text = I'll probably start looking next weekend.
+
+# sent_id = 269
+# text = I heard that more may be going up for sale in the next month or do.
+
+# sent_id = 270
+# text = Someone told me that Chase is planning a shitload of layoffs.
+
+# sent_id = 271
+# text = I'm not sure how reliable that is, though.
+
+# sent_id = 272
+# text = She's waiting to see if she can get financing.
+
+# sent_id = 273
+# text = Mike McConnell
+
+# sent_id = 274
+# text = 07/06/2000 14:57
+
+# sent_id = 275
+# text = John,
+
+# sent_id = 276
+# text = Hello from South America.
+
+# sent_id = 277
+# text = I just got your email and I certainly concur with Jeff making the call.
+
+# sent_id = 278
+# text = He has maintained a good relationship with Mulva.
+
+# sent_id = 279
+# text = This was a risk that we had but we did have assurances from Phillips regarding performance.
+
+# sent_id = 280
+# text = However I don't know how much it will help.
+
+# sent_id = 281
+# text = Richard Harper and Mary Nell Browning may have some ideas here but I'm sure you've already gone through it with them.
+
+# sent_id = 282
+# text = I'm amazed how the details get fuzzy on an old project.
+
+# sent_id = 283
+# text = When you discussed it, i was trying to think back to our remedies and discussions but the 3 years have made it difficult.
+
+# sent_id = 284
+# text = I don't know if there's anything I can do but I'm always willing to help.
+
+# sent_id = 285
+# text = Good luck,
+
+# sent_id = 286
+# text = Mike
+
+# sent_id = 287
+# text = These guys tried the Ken Lay route.
+
+# sent_id = 288
+# text = They are now part of your working group.
+
+# sent_id = 289
+# text = Hilary E. Ackermann phone hilary.ackermann@gs.com: Goldman Sachs: credit risk management & advisory 212-902-3724 fax: 212-428-1181 e-mail
+
+# sent_id = 290
+# text = Dear Mr. Lavorato:
+
+# sent_id = 291
+# text = Following up on your and Ken Lay's conversation with Gary Cohn, I would like to forward the following proposal, acting for each of Goldman Sachs Capital Markets and J. Aron.
+
+# sent_id = 292
+# text = Hilary E. Ackermann 212-902-3724: credit risk management & advisory hilary.ackermann@gs.com phone: Goldman Sachs fax: 212-428-1181 e-mail
+
+# sent_id = 293
+# text = Not going well
+
+# sent_id = 294
+# text = Hello Louise,
+
+# sent_id = 295
+# text = I know you must be going nuts with all the events, so I haven't called.
+
+# sent_id = 296
+# text = Hope you'll be sorted.
+
+# sent_id = 297
+# text = Call me if you have time.
+
+# sent_id = 298
+# text = M
+
+# sent_id = 299
+# text = Please update daily
+
+# sent_id = 300
+# text = Louise,
+
+# sent_id = 301
+# text = At this time there are only two counterparties who have overdue margin:
+
+# sent_id = 302
+# text = Original margin call margin due today
+
+# sent_id = 303
+# text = Kinder Morgan $3,500,000 $1,250,000
+
+# sent_id = 304
+# text = AEP $38,750,000 $19,250,000
+
+# sent_id = 305
+# text = ------------------------------
+
+# sent_id = 306
+# text = Totals $22,750,000 $40,000,000
+
+# sent_id = 307
+# text = Please let us know if you need any additional information.
+
+# sent_id = 308
+# text = Stephanie
+
+# sent_id = 309
+# text = Not sure, but i assume that the bluegrass songbook is mine.
+
+# sent_id = 310
+# text = Is it for guitar?
+
+# sent_id = 311
+# text = I will need to ponder.
+
+# sent_id = 312
+# text = I'll try to get back to you pronto.
+
+# sent_id = 313
+# text = Fyi.
+
+# sent_id = 314
+# text = We have this report?
+
+# sent_id = 315
+# text = David: hi
+
+# sent_id = 316
+# text = Thought that you might be interested.
+
+# sent_id = 317
+# text = Best,
+
+# sent_id = 318
+# text = Jeff
+
+# sent_id = 319
+# text = Well, he launched today.
+
+# sent_id = 320
+# text = Have you seen the materials from the press conference that he launched today?
+
+# sent_id = 321
+# text = I think this is actually a good thing -- makes our proposal look by comparison like a much more preferable alternative, makes our support in the process more important, and sets Harvey up as the Ralph Nader equivalent in the election to fix California's broken system --- a potential spoiler.
+
+# sent_id = 322
+# text = Hi.
+
+# sent_id = 323
+# text = Well, you wouldn't know it.
+
+# sent_id = 324
+# text = I'm not driving tonite, but I bet that we could hitch a ride back with Anil.
+
+# sent_id = 325
+# text = I'm not sure, but I think that he's got class tonite, too.
+
+# sent_id = 326
+# text = I will search him out before class or after that break and see if I can set it up.
+
+# sent_id = 327
+# text = Daily dose-on enron
+
+# sent_id = 328
+# text = We are finished.
+
+# sent_id = 329
+# text = I need to get a job at house of pies now because that's the only way to pay the bills.
+
+# sent_id = 330
+# text = The economy is down, and when enron collapses the energy industry is going to be in a world of hurt.
+
+# sent_id = 331
+# text = Not to mention the market is going to be flooded with enron folks.
+
+# sent_id = 332
+# text = Unless i get a free ticket can't go to any more lsu games.
+
+# sent_id = 333
+# text = Since work has gone to hell, I am hoping to find some excitement in the possibility that LSU may play in the Cotton Bowl (if Rohan "Alabama" Davey shows up for the next 3 games.)
+
+# sent_id = 334
+# text = A-lesson I learned following the Ark game last season, however don't purchase tickets until it's a done deal.
+
+# sent_id = 335
+# text = Http://www.theadvocate.com/sports/story.asp?storyid=16473
+
+# sent_id = 336
+# text = Http://www.theadvocate.com/sports/story.asp?storyid=16475
+
+# sent_id = 337
+# text = Http://www.nola.com/lsu/t-p/football/index.ssf?/lsustory/lsunotes08.html
+
+# sent_id = 338
+# text = Http://www.nola.com/lsu/t-p/football/index.ssf?/lsustory/secnotes08.html
+
+# sent_id = 339
+# text = Http://www.nola.com/lsu/t-p/football/index.ssf?/lsustory/lsufoe08.html
+
+# sent_id = 340
+# text = I have stronger will than you think.
+
+# sent_id = 341
+# text = I come here house of pies.
+
+# sent_id = 342
+# text = I'm sure i could have persuaded you to give me some action.
+
+# sent_id = 343
+# text = Why is enron blowing up?
+
+# sent_id = 344
+# text = I didn't want you to go.
+
+# sent_id = 345
+# text = I was just going to sleep anyway.
+
+# sent_id = 346
+# text = I was too tired to give you any action.
+
+# sent_id = 347
+# text = Enron is blowing up.
+
+# sent_id = 348
+# text = Vince,
+
+# sent_id = 349
+# text = We are still trying to work the pse swap transaction, now that the forex desk has been able to find a fix for cpi in the market.
+
+# sent_id = 350
+# text = Further to my voicemail, our colleagues in credit are calculating the reserve on the pse swap.
+
+# sent_id = 351
+# text = They are currently using 9.5% fixed based on the implied 1 year volatility.
+
+# sent_id = 352
+# text = Volatility of usd / dm has been in the range of between 7% and 11%.
+
+# sent_id = 353
+# text = One of your research staff can justify a suitable 20 year volalatility number for usd / euro.
+
+# sent_id = 354
+# text = Ideally, we'd like a fast turnaround.
+
+# sent_id = 355
+# text = In addition, there is someone who could consider the correlation between US cpi and the $/ euro exchange rate.
+
+# sent_id = 356
+# text = The credit guys are currently assuming that there is no correlation and consequently may be double dipping the credit reserve on this basis too.
+
+# sent_id = 357
+# text = Grateful for any help or suggestions you could provide.
+
+# sent_id = 358
+# text = Sid
+
+# sent_id = 359
+# text = Vincent,
+
+# sent_id = 360
+# text = I met you at the risk conference in Houston last week.
+
+# sent_id = 361
+# text = I enjoyed your presentations very much.
+
+# sent_id = 362
+# text = I was wondering if you could give me some references regarding the calculation of correlation coefficients from a garch model.
+
+# sent_id = 363
+# text = Thank you.
+
+# sent_id = 364
+# text = Magali Van Belle consultant MANAGEMENT and ECONOMIC CONSULTANTS PHB Hagler Bailly, Inc. direct dial (202) 828-3933 e-mail, D.C. 1776 (202) 296-3858 PHB, Eye Street N.W. Bailly Washington 20006-3700 Hagler facsimile mvanbell@haglerbailly.com
+
+# sent_id = 365
+# text = Andrew edison@enron
+
+# sent_id = 366
+# text = 06/02/2001 10:53 am
+
+# sent_id = 367
+# text = I have settled the Ecogas / Enron / Randy Maffett lawsuit.
+
+# sent_id = 368
+# text = No need to thank me, just send me gifts.
+
+# sent_id = 369
+# text = This morning, I talked seriously with Tom Hall and we agreed that Ecogas would pay him $53,000.
+
+# sent_id = 370
+# text = Hall has agreed to release Enron, Ecogas, Maffett and every affiliate, related party and subsidiary.
+
+# sent_id = 371
+# text = He will also release any and all patent issues.
+
+# sent_id = 372
+# text = The goal for he is to move on with his life and for us to move on as well.
+
+# sent_id = 373
+# text = I have asked Doug Daniels to prepare the settlement papers reflecting such an agreement.
+
+# sent_id = 374
+# text = Please handle.
+
+# sent_id = 375
+# text = Becky stephens@enron
+
+# sent_id = 376
+# text = 06/12/2000 10:20 am
+
+# sent_id = 377
+# text = Richard, below is a list of oc invoices sent to you on 5/30/00 for approval.
+
+# sent_id = 378
+# text = Please verify receipt at your earliest convenience.
+
+# sent_id = 379
+# text = Thank you for your help in tracking these invoices.
+
+# sent_id = 380
+# text = Holland & Hart, LLP #432785 dated 4/14/00;
+
+# sent_id = 381
+# text = Michael L. Beatty, & Associates PC #10461, #10469 & #10468 dated 5/28/00;.
+
+# sent_id = 382
+# text = Becky A. Stephens Enron Corp., litigation unit 713/853-5025 EB 4809
+
+# sent_id = 383
+# text = I'm on board.
+
+# sent_id = 384
+# text = If the px comes back again, I will call their in-house attys.
+
+# sent_id = 385
+# text = Christian Yoder / enron@enronxgate
+
+# sent_id = 386
+# text = 06/04/2001 05:54 pm
+
+# sent_id = 387
+# text = Can you pass this along to Elizabeth to ensure Sanders is on board as well?
+
+# sent_id = 388
+# text = We are renewing our l/c's per Sanders for the px on a month to month basis.
+
+# sent_id = 389
+# text = However, the request below is to "replenish the cash that was drawn down"... please advise.
+
+# sent_id = 390
+# text = I agree with Steve's position stated in his separate e'mail.
+
+# sent_id = 391
+# text = Don't give these guys a penny.
+
+# sent_id = 392
+# text = ---- cgy
+
+# sent_id = 393
+# text = Tracy, we do have concerns here.
+
+# sent_id = 394
+# text = We pointed out to the px that there was excess credit.
+
+# sent_id = 395
+# text = Are we not keeping required levels available by using collateral to pay these bills?
+
+# sent_id = 396
+# text = Sara,
+
+# sent_id = 397
+# text = Attached below is Davis Thames' presentation regarding the proposed Project Bruin.
+
+# sent_id = 398
+# text = I will forward the draft Bear Stearns term sheet separately.
+
+# sent_id = 399
+# text = Paul
+
+# sent_id = 400
+# text = Team, sorry for the delay on getting this around.
+
+# sent_id = 401
+# text = Please advise when you can meet to discuss issues related to your area.
+
+# sent_id = 402
+# text = Thanks-
+
+# sent_id = 403
+# text = Davis
+
+# sent_id = 404
+# text = Clint:
+
+# sent_id = 405
+# text = I spoke with Mike Collins [203-719-8385 (phone) and 203-719-7031 (fax) who conrfirm to me that the cap included the remaining + 2.5 million remaining shares].
+
+# sent_id = 406
+# text = Please return an executed copy of confirm to me.
+
+# sent_id = 407
+# text = Thanks.
+
+# sent_id = 408
+# text = Sara
+
+# sent_id = 409
+# text = My assistant Joanne Rozycki has cell, car numbers to reach me.
+
+# sent_id = 410
+# text = I'll be back on Monday.
+
+# sent_id = 411
+# text = Sara Shackleton, Enron wholesale services: 1400 Smith Street Houston, TX 77002 EB 3801a: ph (713) 853-5620 fax (713) 646-3490
+
+# sent_id = 412
+# text = Thanks.
+
+# sent_id = 413
+# text = SS
+
+# sent_id = 414
+# text = Sara,
+
+# sent_id = 415
+# text = We currently have a "blank sample" for our paragraph 13s which are attached to our sample isda for (a) corporate US, (b) hedge funds, (c) municipal.
+
+# sent_id = 416
+# text = I will extract the one for the US corporate paragraph 13 and email to your contact @ First Union Securities.
+
+# sent_id = 417
+# text = The sample includes "our caveat", so it should be fine.
+
+# sent_id = 418
+# text = Susan
+
+# sent_id = 419
+# text = Susan:
+
+# sent_id = 420
+# text = While Tanya is reviewing credit, you can please send a blank "form paragraph 13" for this master.
+
+# sent_id = 421
+# text = Just our standard.
+
+# sent_id = 422
+# text = Caveat: subject to credit review even though there are blanks.
+
+# sent_id = 423
+# text = Thanks.
+
+# sent_id = 424
+# text = Sara
+
+# sent_id = 425
+# text = First Union Securities, Inc.
+
+# sent_id = 426
+# text = Hi Sara,
+
+# sent_id = 427
+# text = I just wanted to follow up on whether you will have a chance to send a draft credit support annex (similar in form to the one previously executed with ENA).
+
+# sent_id = 428
+# text = I understand you may not have credit approval yet so in the meantime we can perhaps leave the appropriate sections blank.
+
+# sent_id = 429
+# text = Thanks and regards,
+
+# sent_id = 430
+# text = Vijay K. Suchdev First Union Securities, Inc. equity derivatives: facsimile (212) 891-5042: vice president telephone (212) 909-0951 email: vijay.suchdev@funb.com <> mailto:vijay.suchdev@funb.com
+
+# sent_id = 431
+# text = Michael olsen@enron
+
+# sent_id = 432
+# text = 12/07/2000 02:29 pm
+
+# sent_id = 433
+# text = Daren,
+
+# sent_id = 434
+# text = I was wondering if it would be ok for me to sit in with you one day to get a general feel of your end of the process.
+
+# sent_id = 435
+# text = Pat had told me before he left that it would help me better grasp the process as a whole.
+
+# sent_id = 436
+# text = I understand the imminent cold weather is making things crazy, so the best time to be in your way may not be now.
+
+# sent_id = 437
+# text = But let me know if I can spend a day, morning with you down there, or even just an afternoon whenever it's a good time.
+
+# sent_id = 438
+# text = I think it will help me very much in my role.
+
+# sent_id = 439
+# text = Thanks.
+
+# sent_id = 440
+# text = Mike
+
+# sent_id = 441
+# text = The new fixed price deal with Equistar is #365013.
+
+# sent_id = 442
+# text = D
+
+# sent_id = 443
+# text = Daren
+
+# sent_id = 444
+# text = We just did a deal for the rest of the month for 10,000 / d at 1552 meter #1 qe-@ $4.355.... can you let me and Robert Lloyd know what the sitara #is?
+
+# sent_id = 445
+# text = Thanks
+
+# sent_id = 446
+# text = Melissa,
+
+# sent_id = 447
+# text = I show that we also had 20.000 at ls hpl for the 13th.
+
+# sent_id = 448
+# text = Daren
+
+# sent_id = 449
+# text = August 11, 2000
+
+# sent_id = 450
+# text = Teco Tap / HPL IFERC / Enron 108.333; 20.000
+
+# sent_id = 451
+# text = LS HPL LSK IC / Enron 20.000
+
+# sent_id = 452
+# text = August 12, 2000
+
+# sent_id = 453
+# text = Teco Tap / HPL IFERC Enron / 85.000; 20.000
+
+# sent_id = 454
+# text = LS HPL LSK IC / Enron 20.000
+
+# sent_id = 455
+# text = August 13, 2000
+
+# sent_id = 456
+# text = Teco Tap / HPL IFERC; Enron / 32.500 20.000
+
+# sent_id = 457
+# text = I'm working hard for you!
+
+# sent_id = 458
+# text = Now at 83.5.
+
+# sent_id = 459
+# text = I need a new lawnmower, so I'll try to bump it up a little more.
+
+# sent_id = 460
+# text = Hope you're doing good.
+
+# sent_id = 461
+# text = D
+
+# sent_id = 462
+# text = ???
+
+# sent_id = 463
+# text = Keep up the good work.
+
+# sent_id = 464
+# text = ?
+
+# sent_id = 465
+# text = We at home love it at $80 +++
+
+# sent_id = 466
+# text = ?
+
+# sent_id = 467
+# text = KEN
+
+# sent_id = 468
+# text = These have been sold.
+
+# sent_id = 469
+# text = Geoff,
+
+# sent_id = 470
+# text = Thanks for the pictures.
+
+# sent_id = 471
+# text = Looks like the kids had a great time!
+
+# sent_id = 472
+# text = I hope you don't mind, but I've taken liberty to turn them into a web photo album at http://24.27.98.30/pictures/08-05_garrett_gayle_bday.
+
+# sent_id = 473
+# text = If you want to pass along this web site address to other folks, feel free.
+
+# sent_id = 474
+# text = If you want a cd copy of this web site, give me a yell.
+
+# sent_id = 475
+# text = Thanks,
+
+# sent_id = 476
+# text = Ram Tackett (281) 651-7106, Abacus Technologies owner, Loring Lane Spring, TX 17611 (281) 528-8636, 77388-5746 (mailto:rtackett@abacustech.net); web http://www.abacustech.net fax:
+
+# sent_id = 477
+# text = -ram (e-mail) tackett 4222 .vcf
+
+# sent_id = 478
+# text = Debra Perlingiere
+
+# sent_id = 479
+# text = Please give me a call to discuss Nov transaction.
+
+# sent_id = 480
+# text = Debra Perlingiere
+
+# sent_id = 481
+# text = Are you free for lunch some day this week?
+
+# sent_id = 482
+# text = Also, I have an extra ticket for the Comets game on Sat. you said you wanted to go?
+
+# sent_id = 483
+# text = The game is at 12: Sat @ Compaq Center.
+
+# sent_id = 484
+# text = Would love for you to join us.
+
+# sent_id = 485
+# text = I am bringing two of my girlfriends from LJ.
+
+# sent_id = 486
+# text = Debra Perlingiere
+
+# sent_id = 487
+# text = Here's the master draft we discussed Stacey.
+
+# sent_id = 488
+# text = I'm sending you a version with comments.
+
+# sent_id = 489
+# text = Dp
+
+# sent_id = 490
+# text = Could one of you please email me a copy of the standard template you use for Enfolio gas purchasing agreements?
+
+# sent_id = 491
+# text = As we're getting more and more of those agreements, I'd like to add a template in global contracts.
+
+# sent_id = 492
+# text = Thanks!
+
+# sent_id = 493
+# text = Stacey Barclay Richardson Enron Net Works, LLC-global contracts office (713) 853-0569 fax (713) 646-2495 pager (713) 710-6084 stacey.richardson@enron.com
+
+# sent_id = 494
+# text = 12:30 today is good?
+
+# sent_id = 495
+# text = Cafeteria is fine.
+
+# sent_id = 496
+# text = I'm free any day but Tuesday.
+
+# sent_id = 497
+# text = I better pass on the Comets game.
+
+# sent_id = 498
+# text = My weekends seem to be taken up with condo matters, house hunting.
+
+# sent_id = 499
+# text = Thank you though.
+
+# sent_id = 500
+# text = You are free for lunch today.
+
+# sent_id = 501
+# text = I want to go to the cafeteria for vegetables.
+
+# sent_id = 502
+# text = Let me know if you are interested.
+
+# sent_id = 503
+# text = Janette Elbertson, administrative coordinator EWS Legal: e-mail address janette.elbertson@enron.com: facsimile (713) 646-2600 telephone (713) 853-7906: eb3326
+
+# sent_id = 504
+# text = Are you free for lunch some day this week?
+
+# sent_id = 505
+# text = Also, I have an extra ticket for the Comets game on Sat. you said you wanted to go?
+
+# sent_id = 506
+# text = The game is at 12: Sat @ Compaq Center.
+
+# sent_id = 507
+# text = Would love for you to join us.
+
+# sent_id = 508
+# text = I am bringing two of my girlfriends from LJ.
+
+# sent_id = 509
+# text = Debra Perlingiere
+
+# sent_id = 510
+# text = Ok call me
+
+# sent_id = 511
+# text = Maybe 12:15?
+
+# sent_id = 512
+# text = Janette Elbertson administrative coordinator, EWS Legal: e-mail address janette.elbertson@enron.com: facsimile (713) 646-2600 telephone (713) 853-7906: eb3326
+
+# sent_id = 513
+# text = 12:30 today is good?
+
+# sent_id = 514
+# text = Cafeteria is fine.
+
+# sent_id = 515
+# text = I'm free any day but Tuesday.
+
+# sent_id = 516
+# text = I better pass on the Comets game.
+
+# sent_id = 517
+# text = My weekends seem to be taken up with condo matters, house hunting.
+
+# sent_id = 518
+# text = Thank you though.
+
+# sent_id = 519
+# text = You are free for lunch today.
+
+# sent_id = 520
+# text = I want to go to the cafeteria for vegetables.
+
+# sent_id = 521
+# text = Let me know if you're interested.
+
+# sent_id = 522
+# text = Janette Elbertson, administrative coordinator EWS Legal: e-mail address janette.elbertson@enron.com (713) 646-2600: facsimile (713) 853-7906 telephone: eb3326
+
+# sent_id = 523
+# text = Move-team@enron
+
+# sent_id = 524
+# text = 09/20/2000 03:22 pm
+
+# sent_id = 525
+# text = Sent by: john salinardo@enron
+
+# sent_id = 526
+# text = It's to late for me to add changes.
+
+# sent_id = 527
+# text = We will have to correct them after the churning.
+
+# sent_id = 528
+# text = Thank you for you patience.
+
+# sent_id = 529
+# text = The Dow topped out at 995 in February of 1966.
+
+# sent_id = 530
+# text = By September of that year the Dow had tumbled to 744.
+
+# sent_id = 531
+# text = The Dow then rallied to a high of 943 in September of '67.
+
+# sent_id = 532
+# text = The Dow had fallen to 825 by March of '68, only to climb to a highly speculative peak of 985 in December of '68.
+
+# sent_id = 533
+# text = The Dow then sink to 631 in December of '70.
+
+# sent_id = 534
+# text = The Dow had climbed back to 950 by April of '71, only to fall to 869 in February of '72.
+
+# sent_id = 535
+# text = A big rally then took the Dow (unconfirmed) to a record high of 1051 in January of '73, turning everyone bullish.
+
+# sent_id = 536
+# text = But the Dow had collapsed to 788 by December of '73.
+
+# sent_id = 537
+# text = Think that was bad-the Dow had sink to a bear market low of 577 by December of '74.
+
+# sent_id = 538
+# text = At that time, the guru and genius of Wall Street were predicting a Dow 250 and many were talking openly about the end of capitalism.
+
+# sent_id = 539
+# text = Of course, that was the bottom
+
+# sent_id = 540
+# text = And that's the way the greatest bearing market since the Depression worked its way down.
+
+# sent_id = 541
+# text = Investors were dizzy by late 1974, they were desperate, were they wrought-out, they had left Wall Street, many for good.
+
+# sent_id = 542
+# text = Great, we look forward to seeing you.
+
+# sent_id = 543
+# text = DEBRA PERLINGIERE
+
+# sent_id = 544
+# text = 09/20/2000 09:32 am
+
+# sent_id = 545
+# text = I won't be there at 7:30, but will see you arond 9:30 on Tuesday.
+
+# sent_id = 546
+# text = Many thanks!
+
+# sent_id = 547
+# text = Debra Perlingiere
+
+# sent_id = 548
+# text = Edward Terry
+
+# sent_id = 549
+# text = 09/08/2000 09:55 am
+
+# sent_id = 550
+# text = Fyi,
+
+# sent_id = 551
+# text = Per the memo, ENA's storage account will be reduced by 420,588 mmbtu!!!!!!
+
+# sent_id = 552
+# text = Robert D Morgan
+
+# sent_id = 553
+# text = 09/08/2000 09:36 am
+
+# sent_id = 554
+# text = The results of the February 26th pvt test conducted on Nville have been discussed with each of you over the last three months.
+
+# sent_id = 555
+# text = Effective Sep 13th.... as we have discussed, Anita will make the adjustments to Enron's inventory and pad gas to reflect the February 26th results.
+
+# sent_id = 556
+# text = I talked with Gary Wilson, and he confirmed that the revised values are correct.
+
+# sent_id = 557
+# text = Attached is a spreadsheet that contains the values.
+
+# sent_id = 558
+# text = The correction to the working gas includes two corrections.
+
+# sent_id = 559
+# text = The results of the February 26th test reduces the working gas by 398,487 mmbtu.
+
+# sent_id = 560
+# text = In addition, there is a reduction of 22,101 mmbtu which is the difference between the scada values that available (best) Anita showed on the February 29th storage sheet and the official "February 29th values that Gary Wilson received from mips".
+
+# sent_id = 561
+# text = Now: Enron's pad gas will be 3,993,310 mmbtu, instead of 4,223,000 mmbtu to summarize.
+
+# sent_id = 562
+# text = Enron's working gas will be reduced by 420,588 mmbtu.
+
+# sent_id = 563
+# text = Call me if there are any questions.
+
+# sent_id = 564
+# text = Fyi
+
+# sent_id = 565
+# text = I also got yelled at yeah.
+
+# sent_id = 566
+# text = I tried to say i wasn't that drunk but z wasn't having any of that conversation.
+
+# sent_id = 567
+# text = She told me that after friday and saturday she felt i was slowly regressing.
+
+# sent_id = 568
+# text = Then i told her i felt i should be able to screw missy just once.
+
+# sent_id = 569
+# text = She said that was ok.
+
+# sent_id = 570
+# text = This weekend you did get in as much trouble as I did-Lori seems to think I need to get help-I told her it's normal to drink at a bar all day, then go to dinner where you don't know half the people there and proceed to get extremely fucked up
+
+# sent_id = 571
+# text = ******************* internet email confidentiality footer *******************
+
+# sent_id = 572
+# text = Confidential / privileged information may be contained in this message.
+
+# sent_id = 573
+# text = If you are not the addressee (indicated in this message or responsible for delivery of the message to such person), you may not copy or deliver this message to anyone.
+
+# sent_id = 574
+# text = In such case, you should destroy this message and kindly notify the sender by reply email.
+
+# sent_id = 575
+# text = Please advise immediately if you or your employer do not consent to internet email for messages of this kind.
+
+# sent_id = 576
+# text = Opinions, conclusions and other information in this message that do not relate to the official business of my firm shall be understood as neither given nor endorsed by it.
+
+# sent_id = 577
+# text = Job id: j12746km
+
+# sent_id = 578
+# text = Job title: attorney
+
+# sent_id = 579
+# text = Location: Houston, Texas USA
+
+# sent_id = 580
+# text = Compensation: $60000-70000
+
+# sent_id = 581
+# text = Description:
+
+# sent_id = 582
+# text = Our client is a small law firm that is looking for an individual to join their team handling toxic tort with some minor pi defense.
+
+# sent_id = 583
+# text = They offer an exceptional compensation package including a healthy salary, comprehensive benefits program, and ample room for associates to grow within the firm.
+
+# sent_id = 584
+# text = KM
+
+# sent_id = 585
+# text = Requirements:
+
+# sent_id = 586
+# text = You will be able to use your 1-4 years of experience with toxic tort to complement your desire to stay with the firm.
+
+# sent_id = 587
+# text = Company:
+
+# sent_id = 588
+# text = Marvel Consultants, Inc. phone 216-292-2855: 28601 Chagrin Blvd. Cleveland, Ohio USA 44122 fax: 216-292-7207 email: recruiters@marvelconsultants.com <mailto:recruiters@marvelconsultants.com >
+
+# sent_id = 589
+# text = Thanks
+
+# sent_id = 590
+# text = I have thought about you a few times in the last few months, did not want to intrude with my bullshit questions upon an already bad situation.
+
+# sent_id = 591
+# text = I'm hearing some pretty depressing stuff from the people I know at ENE.
+
+# sent_id = 592
+# text = I wish I had the capital to open my own shop?
+
+# sent_id = 593
+# text = There will soon be a plenty talent and opportunity on the market.
+
+# sent_id = 594
+# text = Will I ask around?
+
+# sent_id = 595
+# text = I've got some friends from b-school, at Duke and Dynegy (the Gianoucous brothers John (spelling and Dimitri from elementary school) started their own outfit a while back, and my old man is at Schlumberger and has good contacts (in general) if you're not married to a trading environment) are n't.
+
+# sent_id = 596
+# text = Give me a few days, and I will be in touch.
+
+# sent_id = 597
+# text = Michael
+
+# sent_id = 598
+# text = Guys you have any job opening for ex natural gas traders that made their now almost defunctc ompany over 40 million in the last two years?
+
+# sent_id = 599
+# text = Not sure how much longer ene is going to be around and i'm checking out my options!
+
+# sent_id = 600
+# text = Rodgers
+
+# sent_id = 601
+# text = As we discussed, here is a first effort at a revised tva offer letter.
+
+# sent_id = 602
+# text = I drafted the into tva option as a series of calls tied to the mopa delivery term and quantity-not sure if this anything close to what you all had in mind.
+
+# sent_id = 603
+# text = Please let me know what shape you all think the offer ought to take and we can revise accordingly.
+
+# sent_id = 604
+# text = Thanks
+
+# sent_id = 605
+# text = Elizabeth 36349
+
+# sent_id = 606
+# text = See you there at 4:00 unless I call you
+
+# sent_id = 607
+# text = Mark E Haedicke
+
+# sent_id = 608
+# text = Sent by: Janette Elbertson
+
+# sent_id = 609
+# text = 02/28/2001 03:16 pm
+
+# sent_id = 610
+# text = Please use the form attached when preparing the top ten risks for your businesses.
+
+# sent_id = 611
+# text = Please be brief!
+
+# sent_id = 612
+# text = Mark E Haedicke
+
+# sent_id = 613
+# text = Sent by: Janette Elbertson
+
+# sent_id = 614
+# text = 02/28/2001 04:41 pm
+
+# sent_id = 615
+# text = Please update the attached legal risk report.
+
+# sent_id = 616
+# text = Send the revised report by e-mail.
+
+# sent_id = 617
+# text = Thank you.
+
+# sent_id = 618
+# text = Mike Curry
+
+# sent_id = 619
+# text = 11/14/2000 11:37 am
+
+# sent_id = 620
+# text = With Elizabeth's comments added to summary...
+
+# sent_id = 621
+# text = Yuk.
+
+# sent_id = 622
+# text = So sorry to have to cancel
+
+# sent_id = 623
+# text = That deal is making like it wants to close and the traders scheduled a 430 call to wrap it up
+
+# sent_id = 624
+# text = They don't know we have better things to do
+
+# sent_id = 625
+# text = Here's to getting back on track after thanksgiving
+
+# sent_id = 626
+# text = Sorry again
+
+# sent_id = 627
+# text = My per vm
+
+# sent_id = 628
+# text = John lamb@enron
+
+# sent_id = 629
+# text = 11/15/2000 11:58 am
+
+# sent_id = 630
+# text = Attached are clean and blackline drafts of the Enron guaranties to be made in support of EPMI's obligations under the Indian Mesa II Renewable Energy Purchase Agreement ("PPA") and Green Premium Sharing Agreement ("GSPA").?
+
+# sent_id = 631
+# text = The guaranty for the PPA is blackline in favor of the banks against the Enron epc contract guaranty and the GPSA guaranty is blackline against the PPA guaranty which was granted in connection with our Cabazon Wind Power project (the project most recently financed by EWC).
+
+# sent_id = 632
+# text = As we discussed last week, since the Enron guaranties will need to be in a form that will acceptable to our project lenders and equity participants, we thought that we should start with a form that was used in our last financing and that was negotiated by Enron and the banks.
+
+# sent_id = 633
+# text = We plan to use the same basic form for the Enron guaranty that will be made in favor of EPMI with respect to the seller's obligations under the PPA.
+
+# sent_id = 634
+# text = We will forward to you the draft of that guaranty later today.
+
+# sent_id = 635
+# text = Please feel free to give me a call if you have any questions concerning the attached guaranties.
+
+# sent_id = 636
+# text = Thank you.
+
+# sent_id = 637
+# text = -ppa guaranty.doc
+
+# sent_id = 638
+# text = -gpsa guaranty.doc
+
+# sent_id = 639
+# text = -gpsa redline guaranty.doc
+
+# sent_id = 640
+# text = -ppa redline guaranty.doc
+
+# sent_id = 641
+# text = ?
+
+# sent_id = 642
+# text = Sheila Tweed
+
+# sent_id = 643
+# text = 03/26/2001 08:58 pm
+
+# sent_id = 644
+# text = Mary Hain
+
+# sent_id = 645
+# text = 03/23/2001 12:24 pm
+
+# sent_id = 646
+# text = I am going to be the senior regulatory counsel at ISO New England starting on April 9, 2001.
+
+# sent_id = 647
+# text = My last day in the Portland area will be March 31, 2001.
+
+# sent_id = 648
+# text = I enjoyed working with you and wish you the best of everything.
+
+# sent_id = 649
+# text = My new address will be: Mary Hain senior regulatory counsel Sullivan Road Holyoke, MA 01040-2841 (413) 535-4000 ISO new England Inc.One mhain@iso-ne.com
+
+# sent_id = 650
+# text = Mark
+
+# sent_id = 651
+# text = Here's a revised draft of the cdwr risk memo.
+
+# sent_id = 652
+# text = Events change everyday.
+
+# sent_id = 653
+# text = This morning's paper reports that a rate increase of 40% may be imposed by the CDWR as early as today and the new bond issue amount is purported to be 16 billion (rather than the 10 initially discussed)
+
+# sent_id = 654
+# text = Mark
+
+# sent_id = 655
+# text = As we discussed, here's a copy of the draft memo.
+
+# sent_id = 656
+# text = Thanks
+
+# sent_id = 657
+# text = Elizabeth 36349
+
+# sent_id = 658
+# text = See you there on court 10
+
+# sent_id = 659
+# text = Ps I may have to come back to work for a 615 call
+
+# sent_id = 660
+# text = Here's latest draft of risk memo (still in draft form).
+
+# sent_id = 661
+# text = I faxed comments to you on dash.
+
+# sent_id = 662
+# text = Do you have any current info on deal status?
+
+# sent_id = 663
+# text = Thanks
+
+# sent_id = 664
+# text = Elizabeth 36349
+
+# sent_id = 665
+# text = Vince,
+
+# sent_id = 666
+# text = Are you going to be able to make the power var meeting on Thursday?
+
+# sent_id = 667
+# text = Frank
+
+# sent_id = 668
+# text = Sheridan,
+
+# sent_id = 669
+# text = I've just checked with rac (David Gorte) and we have a green light to go ahead with the project.
+
+# sent_id = 670
+# text = Tomorrow I shall you to discuss the details.
+
+# sent_id = 671
+# text = Vince
+
+# sent_id = 672
+# text = Sheridan Titman on 01/24/2001 02:45:50 pm <titman@mail.utexas.edu >
+
+# sent_id = 673
+# text = Vince:
+
+# sent_id = 674
+# text = I just wanted to check with you regarding the consulting arrangement we discussed a couple of weeks ago.
+
+# sent_id = 675
+# text = Perhaps, we should start with just a 1 or 2 day contract where I give some thoughts to the kind of issues that we discussed and come to Houston to present my preliminary thoughts and possible avenues for additional work.
+
+# sent_id = 676
+# text = Regards,
+
+# sent_id = 677
+# text = Sheridan
+
+# sent_id = 678
+# text = Sheridan Titman University of Texas Austin, Texas College of finance (phone 512-232-2787) 78712-1179 (512-471-5073) department of Business Administration titman@mail.utexas.edu fax
+
+# sent_id = 679
+# text = Bryan,
+
+# sent_id = 680
+# text = Did you have a chance to take a look at the resume I sent you?
+
+# sent_id = 681
+# text = He looked like a great guy for your group.
+
+# sent_id = 682
+# text = Vince
+
+# sent_id = 683
+# text = David,
+
+# sent_id = 684
+# text = A reminder.
+
+# sent_id = 685
+# text = We discussed a consulting arrangement with Prof. Sheridan Titman from UT a few days ago.
+
+# sent_id = 686
+# text = Any feedback from Rick Buy?
+
+# sent_id = 687
+# text = Please, let me know.
+
+# sent_id = 688
+# text = 42299
+
+# sent_id = 689
+# text = Vince
+
+# sent_id = 690
+# text = Kevin kindall@enron
+
+# sent_id = 691
+# text = 01/24/2001 03:51 pm
+
+# sent_id = 692
+# text = Per our conversation... yesterday
+
+# sent_id = 693
+# text = Hi Kevin,
+
+# sent_id = 694
+# text = Attached further to your call is a presentation I gave in Edmonton at the Canadian Risk Managers Conference in the fall of 2000.
+
+# sent_id = 695
+# text = I will try and send one of Peter Cox's as well but may have some problems due to file size.
+
+# sent_id = 696
+# text = In any event, my presentation should give you a starting point.
+
+# sent_id = 697
+# text = Mike
+
+# sent_id = 698
+# text = -cfoforum.ppt
+
+# sent_id = 699
+# text = Darrell,
+
+# sent_id = 700
+# text = Thanks a lot.
+
+# sent_id = 701
+# text = A quick question: we haven't received your invoice for the last few model / paper reviews.
+
+# sent_id = 702
+# text = Please, make sure that we are billed.
+
+# sent_id = 703
+# text = Clewlow / Strickland book is out.
+
+# sent_id = 704
+# text = I shall send you a copy today.
+
+# sent_id = 705
+# text = Vince
+
+# sent_id = 706
+# text = Darrell Duffie on 01/24/2001 03:17:01 pm <duffie@stanford.edu >
+
+# sent_id = 707
+# text = Please respond to Darrell Duffie <duffie@stanford.edu >
+
+# sent_id = 708
+# text = Vince / Taiichi
+
+# sent_id = 709
+# text = In case you are interested, I attach this paper on gas storage value modeling.
+
+# sent_id = 710
+# text = Best,
+
+# sent_id = 711
+# text = Darrell
+
+# sent_id = 712
+# text = _____________________________________________
+
+# sent_id = 713
+# text = Darrell Duffie phone 650 1976 723 mail GSB Stanford 94305-5015 CA USA fax 725 650 7979 web http://www.stanford.edu/~duffie/ email duffie@stanford.edu
+
+# sent_id = 714
+# text = _____________________________________________
+
+# sent_id = 715
+# text = -paper4.pdf
+
+# sent_id = 716
+# text = Al,
+
+# sent_id = 717
+# text = I have spoken with Mark Lay and he is interested.
+
+# sent_id = 718
+# text = Even if we can't help you here in Enron, he may be able to put you in touch with other cv groups in town.
+
+# sent_id = 719
+# text = Please, call him directly and give my name as a reference.
+
+# sent_id = 720
+# text = (713) 853-7408
+
+# sent_id = 721
+# text = Good luck.
+
+# sent_id = 722
+# text = Vince
+
+# sent_id = 723
+# text = Vince J Kaminski
+
+# sent_id = 724
+# text = 01/24/2001 11:21 am
+
+# sent_id = 725
+# text = Al,
+
+# sent_id = 726
+# text = I have called Mark Lay and left a message on his voice mail.
+
+# sent_id = 727
+# text = Vince
+
+# sent_id = 728
+# text = Al Arfsten on 01/24/2001 11:16:25 am <arfsten@bflassociates.com >
+
+# sent_id = 729
+# text = Vince:
+
+# sent_id = 730
+# text = Your suggestion to introduce the concept discussed with one of the Lays is welcomed.
+
+# sent_id = 731
+# text = I hope that this would mean that you would remain involved at some level.
+
+# sent_id = 732
+# text = The design of the model and its potential economics could be key to how worthy the effort might be.
+
+# sent_id = 733
+# text = Enron could be an ideal environment from which the concept enhancement through to commercialization could be successfully accomplished to.
+
+# sent_id = 734
+# text = Please share matters confidentially as you think best and advise me of the interest generated.
+
+# sent_id = 735
+# text = I'm ready to meet there at your building or elsewhere that's appropriate.
+
+# sent_id = 736
+# text = Best regards,
+
+# sent_id = 737
+# text = Al Arfsten 713 2158 965
+
+# sent_id = 738
+# text = Martin,
+
+# sent_id = 739
+# text = No problem.
+
+# sent_id = 740
+# text = Please, ask Stinson as well.
+
+# sent_id = 741
+# text = Vince
+
+# sent_id = 742
+# text = I thought that since Chonawee has an optimization background, he would be good to have he go to dinner with Dr. Lasdon on Thrusday as well.
+
+# sent_id = 743
+# text = Would this be fine?
+
+# sent_id = 744
+# text = Thanks,
+
+# sent_id = 745
+# text = Martin
+
+# sent_id = 746
+# text = We're still trying to figure out some of the cash traders.
+
+# sent_id = 747
+# text = Once we get the word from Lavo we will let you know.
+
+# sent_id = 748
+# text = Thanks
+
+# sent_id = 749
+# text = KK
+
+# sent_id = 750
+# text = Kam,
+
+# sent_id = 751
+# text = Are there any new developments in the trader world?
+
+# sent_id = 752
+# text = We still have the traders and books that you provided last week, but need to know if there are any changes to this.
+
+# sent_id = 753
+# text = Please let us know if you need a change so that the deals will bridge with the correct books.
+
+# sent_id = 754
+# text = Thanks,
+
+# sent_id = 755
+# text = Dawn
+
+# sent_id = 756
+# text = Hey,
+
+# sent_id = 757
+# text = I'm going to have to miss your wedding.
+
+# sent_id = 758
+# text = Unfortunately, I will be in Plano that weekend.
+
+# sent_id = 759
+# text = I wish I could make it.
+
+# sent_id = 760
+# text = What's going on with the ubs weather position?
+
+# sent_id = 761
+# text = Has that gone anywhere or are the other possibilities you had better?
+
+# sent_id = 762
+# text = Talk to you, soon
+
+# sent_id = 763
+# text = Kam
+
+# sent_id = 764
+# text = Hey guys,
+
+# sent_id = 765
+# text = I'm being told by my better half that we need to get an accurate head count of who will be attending our wedding.
+
+# sent_id = 766
+# text = If you would be so kind, could you possibly let me know of your status over the next couple of days?
+
+# sent_id = 767
+# text = For those of you who already sent us a rsvp response recently, please disregard.
+
+# sent_id = 768
+# text = Thanks for your help!
+
+# sent_id = 769
+# text = Jeff
+
+# sent_id = 770
+# text = WT Cal has been added.
+
+# sent_id = 771
+# text = Could you run those additional post-id'?
+
+# sent_id = 772
+# text = There are deals in the Aruba book so I'm not sure why you're not picking those up.
+
+# sent_id = 773
+# text = The deals are listed below.
+
+# sent_id = 774
+# text = Thanks
+
+# sent_id = 775
+# text = Ey4096.1 performance p-01-feb-02 $250,393 6,363,217
+
+# sent_id = 776
+# text = Ey4096.3 performance $195,610 01-feb-02 p 202,989
+
+# sent_id = 777
+# text = Ey4096.4 F 01-feb-02 performance 0 $31,180
+
+# sent_id = 778
+# text = Ey4096.7 $55,678 performance-01-feb-02 p-6,363,217
+
+# sent_id = 779
+# text = Ey4106.6-performance 01-feb-02 P-$ 32,387 1,993,045
+
+# sent_id = 780
+# text = Ey4106.7 performance p-01-feb-02 $43,548 1,993,045
+
+# sent_id = 781
+# text = Ey4106.9 $27,361 performance p 01-feb-02 27,886
+
+# sent_id = 782
+# text = Ey4108.e p-performance 01-feb-02 $265,932 12,514,373
+
+# sent_id = 783
+# text = Ey4108.f $110,555 performance p 01-feb-02 112,610
+
+# sent_id = 784
+# text = Ey4108.h-performance p-01-feb-02 $36,398 2,239,879
+
+# sent_id = 785
+# text = Ey4108.i-performance p-01-feb-02 $166,960 10,274,494
+
+# sent_id = 786
+# text = Thanks
+
+# sent_id = 787
+# text = As seen below,
+
+# sent_id = 788
+# text = Please start using the ena 0102 dpr file rather than the 2002 ews dpr file to send to Chris.
+
+# sent_id = 789
+# text = The positions needed to be divided to reflect bcf's.
+
+# sent_id = 790
+# text = Thanks
+
+# sent_id = 791
+# text = Kam
+
+# sent_id = 792
+# text = Could you also cc me the first few times you send it?
+
+# sent_id = 793
+# text = While our established schedules of Tuesday and Friday dpr's would have we reporting tomorrow's activity on Monday, we will change that for month end.
+
+# sent_id = 794
+# text = Please email the January 31st dpr information for your respective groups to my attention by noon on Friday.
+
+# sent_id = 795
+# text = You should use the same spreadsheet format used for the 1/29/02 dpr.
+
+# sent_id = 796
+# text = All p&l and prma numbers should be in $'000'.
+
+# sent_id = 797
+# text = Starting in February, you will be able to export the data, as opposed to using the spreadsheets.
+
+# sent_id = 798
+# text = Thanks,
+
+# sent_id = 799
+# text = Chris Abel manager global risk controls risk operations, 713.853.3102 <mailto:chris.abel@enron.com> chris.abel@enron.com
+
+# sent_id = 800
+# text = Kristen,
+
+# sent_id = 801
+# text = Attached are all live financial deals by risk type.
+
+# sent_id = 802
+# text = As you can see, the price data is too large to fit into one tab.
+
+# sent_id = 803
+# text = After tomorrow, I will no longer have access to the estate files.
+
+# sent_id = 804
+# text = Greg Couch will be taking over the responsibility for the estate risk group and going forward will be able to assist you with your requests.
+
+# sent_id = 805
+# text = Thanks
+
+# sent_id = 806
+# text = Kam
+
+# sent_id = 807
+# text = Ed,
+
+# sent_id = 808
+# text = Here's a list of the risk people that will be with the estate.
+
+# sent_id = 809
+# text = After this weekend, we will no longer have access to the estate files, these people will be able to help you with any of your questions.
+
+# sent_id = 810
+# text = We will still be around to assist them if needed.
+
+# sent_id = 811
+# text = Thanks
+
+# sent_id = 812
+# text = KK
+
+# sent_id = 813
+# text = You go here...
+
+# sent_id = 814
+# text = AC
+
+# sent_id = 815
+# text = Sanjeev,
+
+# sent_id = 816
+# text = I should have a list of post-id' for you by 4:30 today.
+
+# sent_id = 817
+# text = After friday, I will no longer have access to the estate, so I would appreciate it if you could shoot this off over night so I could have something to work with in the morning.
+
+# sent_id = 818
+# text = Let me know if that doesn't seem possible.
+
+# sent_id = 819
+# text = Thanks
+
+# sent_id = 820
+# text = Kam
+
+# sent_id = 821
+# text = Hi I am from Brazil and I want to know of book 06.
+
+# sent_id = 822
+# text = Is good or bad?
+
+# sent_id = 823
+# text = What's your opinion?
+
+# sent_id = 824
+# text = Kisses
+
+# sent_id = 825
+# text = Leli
+
+# sent_id = 826
+# text = It's good.
+
+# sent_id = 827
+# text = U must read it.
+
+# sent_id = 828
+# text = Pairing up of harry and ginny is cool
+
+# sent_id = 829
+# text = It's awesome-better than book 5
+
+# sent_id = 830
+# text = An orphaned, two-month old african elephant named Olly received an extremely uplifting Christmas present this year: an airplane ride just for him, courtesy of the International Fund for Animal Welfare and their friends' the Bateleurs'.
+
+# sent_id = 831
+# text = Animal News Center webmaster
+
+# sent_id = 832
+# text = Hello,
+
+# sent_id = 833
+# text = We've started a new forum for an interactive and absorbing discussion on astrology & palmistry and everything in between including gemology, feng shui / vaastu shastra.
+
+# sent_id = 834
+# text = We look forward to your active participation to make this forum an exciting meeting place for like minded individuals.
+
+# sent_id = 835
+# text = Regards
+
+# sent_id = 836
+# text = Swetha
+
+# sent_id = 837
+# text = Play through this little integrated amp, your cd's, 8-tracks, reel to reels, cassettes, vinyl 33 / 45's, and shellac 78's you will get a big eye opener!
+
+# sent_id = 838
+# text = Complete with original Magnavox tubes-stereo amp-all tubes have been tested are they all good
+
+# sent_id = 839
+# text = Heterosexuals increasingly back gay marriage
+
+# sent_id = 840
+# text = By Deb Price / the Detroit News
+
+# sent_id = 841
+# text = Deb Price
+
+# sent_id = 842
+# text = When baptist pastor Stephen Jones talks about what makes for a happy marriage with Janice, his wife of 35 years, one special ingredient might surprise you: double-dating with coupled friends who happen to be gay.
+
+# sent_id = 843
+# text = *
+
+# sent_id = 844
+# text = Twinkle, twinkle lazy star, kitna soyega uthja le chai, then call me up and say "hi", sun has rose so high above the world in the sky up uthke jaldi pee yaar
+
+# sent_id = 845
+# text = **
+
+# sent_id = 846
+# text = Good * morning *
+
+# sent_id = 847
+# text = Have a nice day * **
+
+# sent_id = 848
+# text = **
+
+# sent_id = 849
+# text = --
+
+# sent_id = 850
+# text = Thanks and regard
+
+# sent_id = 851
+# text = Rajendra
+
+# sent_id = 852
+# text = Rajendra.o...@gmail.com
+
+# sent_id = 853
+# text = Image_gif_part
+
+# sent_id = 854
+# text = Download 81 k
+
+# sent_id = 855
+# text = I just finish reading a really good book from some new series called the the Tale of Terra (it was actually an ebook).
+
+# sent_id = 856
+# text = The story had brillant battle scenes, lovable hero and villians, a compelling story line go to taleofterra.com to learn more about it, and it left me dying for the next part of the series:)
+
+# sent_id = 857
+# text = Email: Roving Mouse <s...@tack.net >
+
+# sent_id = 858
+# text = Groups: alt.animals, alt.animals.cat, alt.animals.ethics.vegetarian, talk.politics.animals
+
+# sent_id = 859
+# text = Followup-to: alt.animals
+
+# sent_id = 860
+# text = You will always find fascinating links at: arts, history, animals, music, games, politics, technology, fun and more (nice urban wildlife post http://extremewebsurfs.blogspot.com/) & me http://maartenvt.blogspot.com/ and the Web today Extreme Web Surfs!
+
+# sent_id = 861
+# text = ..
+
+# sent_id = 862
+# text = Email: franz371...@gmail.com
+
+# sent_id = 863
+# text = We have a date for the release of RAGNAROK ONLINE 2 (beta anyway) September 16-18, this was announced by Gravity ceo Kim Jung-Ryool on either 16th or 17th of july and i got it here GameSpot as i don't want to take someone's credit' ^^
+
+# sent_id = 864
+# text = By the way we now have a "forum" in the post link
+
+# sent_id = 865
+# text = Reply
+
+# sent_id = 866
+# text = Email: "Ian" <ian.gilb...@btinternet.com >
+
+# sent_id = 867
+# text = Groups: alt.animals.cat
+
+# sent_id = 868
+# text = We have updated our site to include a lost and founding page and you can now join our branch and make a secure on-line donation to the charity.
+
+# sent_id = 869
+# text = Please do visit us and feel free to browse the site at www.southbhamcats.org.uk
+
+# sent_id = 870
+# text = Ps-we also have more cats coming in for re-homing see our 'homes wanted' page
+
+# sent_id = 871
+# text = Thanks for looking
+
+# sent_id = 872
+# text = Ian-webmaster www.southbhamcats.org.uk
+
+# sent_id = 873
+# text = Key Delhi blast suspect arrested
+
+# sent_id = 874
+# text = Police in the indian capital Delhi say they have arrested the suspected co-ordinator and financier of last month's deadly bomb blasts in the city.
+
+# sent_id = 875
+# text = Delhi police chief K K Paul named the man as Tariq Ahmed Dar, and said police were hunting for four accomplices.
+
+# sent_id = 876
+# text = He said Mr Dar, 33, was arrested in indian-administered Kashmir and belonged to the outlawed Lashkar-e-Toiba militant group.
+
+# sent_id = 877
+# text = The India Diaries
+
+# sent_id = 878
+# text = I like the way Otto Jespersen aptly summarised the nature of language changes (in 'language: its nature, Development and Origin') by comparing it with one of the theories of the Manchester School of Economics:
+
+# sent_id = 879
+# text = If no artificial hindrances are only put in the way of free exchange 'everything is for the best in the best of all possible worlds, for demand and supply will regulate everything better than any government would be able to.'
+
+# sent_id = 880
+# text = Portia
+
+# sent_id = 881
+# text = This is a beautiful site and a wonderful idea.
+
+# sent_id = 882
+# text = And a portion of each package or memorial purchased goes to a charity on their database.
+
+# sent_id = 883
+# text = So be sure to get your pet's memorial on the site, and if you have a charity / rescue make sure it's listed on their database so you can receive some of the profits from the site.
+
+# sent_id = 884
+# text = Best,
+
+# sent_id = 885
+# text = Cindy
+
+# sent_id = 886
+# text = "... there's no companion so quite devoted as a rat, so communicative, so loving and so mesmerizing."
+
+# sent_id = 887
+# text = ~ CGoehring
+
+# sent_id = 888
+# text = Email: Beavers Anthony <cognitivesciencen...@gmail.com >
+
+# sent_id = 889
+# text = Inhibitory systems control the pattern of activity in the cortex
+
+# sent_id = 890
+# text = "inhibitory systems are essential, according to a Yale School of Medicine study in Neuron.... for controlling the pattern of activity in the cortex, which has important implications for the mechanisms of cortical operation
+
+# sent_id = 891
+# text = The findings demonstrate the inhibitory network is central to controlling not only the amplitude, extent and duration of activation of recurrent excitatory cortical networks, but also the precise timing of action potentials, and, thus, network synchronization... "
+
+# sent_id = 892
+# text = --
+
+# sent_id = 893
+# text = Posted by Anthony Beavers to Cognitive Science News at 8/28/2005 07:18:20 am
+
+# sent_id = 894
+# text = Email: "engin i. erdem" <erdemen...@gmail.com >
+
+# sent_id = 895
+# text = **
+
+# sent_id = 896
+# text = * Worldwatch projects catastrophe will be most costly weather-related disaster in history *
+
+# sent_id = 897
+# text = * Washington, D.C.-*
+
+# sent_id = 898
+# text = The overwhelming human and financial impacts of Hurricane Katrina are powerful evidence that political and economic decisions made in the United States and other countries have failed to account for our dependence on a healthy resource base, according to an assessment released today by the Worldwatch Institute.
+
+# sent_id = 899
+# text = Alteration of the Mississippi River and the destruction of wetlands at its mouth have left the area around New Orleans abnormally vulnerable to the forces of nature.
+
+# sent_id = 900
+# text = According to many scientists, the early results of global warming-90 degree Fahrenheit water temperatures and rising sea levels in the gulf-may have exacerbated the destructive power of Katrina.
+
+# sent_id = 901
+# text = *... *
+
+# sent_id = 902
+# text = Http://reflectioncafe.blogspot.com/2005/09/unnatural-disasterthe-less...
+
+# sent_id = 903
+# text = Email: n3td3v <xploita...@gmail.com >
+
+# sent_id = 904
+# text = N3td3v saw this story on BBC News Online and thought you should see it.
+
+# sent_id = 905
+# text = ** Google defies US over search data **
+
+# sent_id = 906
+# text = Web giant Google is resisting an attempt by the US to force it to reveal what users are searching for.
+
+# sent_id = 907
+# text = < http://news.bbc.co.uk/go/em/fr/-/1/hi/technology/4630694.stm >
+
+# sent_id = 908
+# text = ** BBC Daily E-mail **
+
+# sent_id = 909
+# text = Choose the news and sport headlines you want-all in one daily e-mail, when you want them
+
+# sent_id = 910
+# text = < http://www.bbc.co.uk/dailyemail/ >
+
+# sent_id = 911
+# text = ** disclaimer **
+
+# sent_id = 912
+# text = The BBC is not responsible for the content of this e-mail, and anything written in this e-mail does not necessarily reflect the BBC's views or opinions.
+
+# sent_id = 913
+# text = Please note that neither the e-mail address nor name of the sender have been verified.
+
+# sent_id = 914
+# text = If you don't wish to receive such e-mails in the future or want to know more about the BBC's email a friend service, please read our frequently asked questions.
+
+# sent_id = 915
+# text = Http://news.bbc.co.uk/1/hi/help/4162471.stm
+
+# sent_id = 916
+# text = [http://www.reuters.co.uk/newspackagearticle.jhtml?type=worldnews&storyid=624569&section=news]
+
+# sent_id = 917
+# text = With protests going on (from the economic summit) in the chilean capital of Santiago, President Bush visited chinese President Hu Jintao and other key allies in Santiago.
+
+# sent_id = 918
+# text = The talk of the day was North Korea besides a more level playing field with China.
+
+# sent_id = 919
+# text = China has been a great help at getting North Korea to the table and Bush is hoping that Korea can become a nuclear free peninsula with their cooperation.
+
+# sent_id = 920
+# text = REUTERS / Jason Reed
+
+# sent_id = 921
+# text = U.S. President George W. Bush shakes hands with chinese President Hu Jintao in a bilateral meeting in Santiago.
+
+# sent_id = 922
+# text = Bush is in Santiago for the annual Asia-Pacific Economic Cooperation (APEC) leaders meeting.
+
+# sent_id = 923
+# text = Hopefully President Bush can accomplish these goals not only which will help strengthen our chinese allies, but will also help fight the war on terror.
+
+# sent_id = 924
+# text = Selah!
+
+# sent_id = 925
+# text = --
+
+# sent_id = 926
+# text = Posted by Hidden Nook to Hidden Nook at 11/20/2004 03:10:35 pm
+
+# sent_id = 927
+# text = Email: BlackBayou <blackba...@excite.com >
+
+# sent_id = 928
+# text = Groups: alt.animals.cat
+
+# sent_id = 929
+# text = I started this page to help with my boredom.
+
+# sent_id = 930
+# text = I have chronic Lyme disease, so I'm stuck at home.
+
+# sent_id = 931
+# text = I started collecting animations & jokes just to help with my boredom and depression.
+
+# sent_id = 932
+# text = I enjoyed the animations and wanted to share them with my friends.
+
+# sent_id = 933
+# text = So I started a small mailing list and added their addresses to it.
+
+# sent_id = 934
+# text = Along with an area on the page for those to join the mailing list.
+
+# sent_id = 935
+# text = I started with 21 email addresses.
+
+# sent_id = 936
+# text = Now we have over 5000 addresses.
+
+# sent_id = 937
+# text = My wife and I would love for you to come and visit our page
+
+# sent_id = 938
+# text = Http://www.myshutter.com/flash.htm our collection of comedy
+
+# sent_id = 939
+# text = Http://www.myshutter.com, I was an avid amateur photographer before becoming disabled.. come and visit and sign our guestbook
+
+# sent_id = 940
+# text = -----= =----- posted via newsfeeds.com, uncensored usenet news
+
+# sent_id = 941
+# text = Http://www.newsfeeds.com-the #1 newsgroup service in the world!
+
+# sent_id = 942
+# text = -----== over 100,000 newsgroups-19 different servers! =-----
+
+# sent_id = 943
+# text = Handcrafted wholesale furry animals, now call for a catalog!
+
+# sent_id = 944
+# text = 732-657-3416
+
+# sent_id = 945
+# text = Has wholesale life like animal figurines made from rabbit and goat fur, feathers and sheep's wool.
+
+# sent_id = 946
+# text = You name it, dogs, cats, rabbits, wolves, moose, horses, we have it.
+
+# sent_id = 947
+# text = People love to buy these cute little cuddly animals for gifts and collectables.
+
+# sent_id = 948
+# text = They are very well made and realistic.
+
+# sent_id = 949
+# text = Retail stores & vendors: attention
+
+# sent_id = 950
+# text = We are looking to expand our wholesale clients across the nation.
+
+# sent_id = 951
+# text = If you own a retail store or are a professional vendor who exhibits at sport, hunting, or craft shows, please give us a call and are interested in selling our products!
+
+# sent_id = 952
+# text = 732-657-3416
+
+# sent_id = 953
+# text = We have a full color catalog and wholesale price list ready to mail to you today!
+
+# sent_id = 954
+# text = No minimum order amount.
+
+# sent_id = 955
+# text = Any orders at or over $500.00 an additional 10% off the total order.
+
+# sent_id = 956
+# text = We accecpt: Visa, MasterCard, Amex, Dinner's Club / Carte Blanche, & personal checks / money orders.
+
+# sent_id = 957
+# text = Animals r us.net 1027 Jolson Court Bill Schmidt 732-657-3416 Manchester, N.J. 08759 animalsr...@aol.com
+
+# sent_id = 958
+# text = Wei's magic cubes
+
+# sent_id = 959
+# text = Wei Ligang, a rising star of modern art in China, just had an exhibition in Hong Kong in mid-July, 2005.
+
+# sent_id = 960
+# text = He is now lecturing in USA.
+
+# sent_id = 961
+# text = His art combines painting and chinese calligraphy perfectly.
+
+# sent_id = 962
+# text = He is regarded as one of the leading avant-garde artist of modern calligraphy.
+
+# sent_id = 963
+# text = His artworks were selected and exhibited in British Museum in 2002.
+
+# sent_id = 964
+# text = "Wei has given some virtuoso performances with brush and ink, often incorporating several different techniques into a single work," said Gordon S. Barrass, curator of the exhibition.
+
+# sent_id = 965
+# text = In the world of Wei's "magic cubes," all seem to be ingeniously planned and tricky.
+
+# sent_id = 966
+# text = All are mathematical, all are linguistic.
+
+# sent_id = 967
+# text = In Wei's art, a logician could see mathematical logic, a cellist could see a ripple of nine bass notes, a country girl could see straw, and Harry Potter could see two green accompanied blazes.
+
+# sent_id = 968
+# text = "to gaze at Wei's art... is like entering a floating world of dreams."
+
+# sent_id = 969
+# text = --- the Art of Calligraphy (in Modern China) British Museum Press, 2002
+
+# sent_id = 970
+# text = [http://news.zdnet.co.uk/internet/0,39020369,39187928,00.htm]
+
+# sent_id = 971
+# text = Photo from Technology News
+
+# sent_id = 972
+# text = Wiki Media Foundation, the group behind the online Wikipedia encyclopedia project, said Friday that search giant Google has volunteered to host some of its content on company servers.
+
+# sent_id = 973
+# text = (ZD Net)
+
+# sent_id = 974
+# text = It looks like the war between Microsoft and Google is quickly brewing on the horizon.
+
+# sent_id = 975
+# text = Microsoft is 4-0 (they took down Netscape, Suns Systems, MAC and IBM) and Google may be their next target.
+
+# sent_id = 976
+# text = Google is probably making this move to counter Microsoft Search using Encarta (it's online dictionary).
+
+# sent_id = 977
+# text = More below.
+
+# sent_id = 978
+# text = But it looks like Google is not opening it's mouth about the reason behind the offer as Linux News reports:
+
+# sent_id = 979
+# text = "while we don't have anything specific to announce today, Google and the Wikimedia Foundation are collaboratively evaluating creative ways to support wikipedia.org and its community."
+
+# sent_id = 980
+# text = Sure, although this would put it on coarse for global domination of the internet by 2014 Google.
+
+# sent_id = 981
+# text = It will be interesting to see whether or not Google will finally slay the Microsoft goliath, who has known no major defeat and seeks to vanquish all competition.
+
+# sent_id = 982
+# text = Selah!
+
+# sent_id = 983
+# text = --
+
+# sent_id = 984
+# text = Posted to Hidden Nook by Hidden Nook at 07:03:00 2/14/2005 pm
+
+# sent_id = 985
+# text = Email: "Ruth" <ruth.penyc...@bbc.co.uk >
+
+# sent_id = 986
+# text = Hello there
+
+# sent_id = 987
+# text = Action Network is a BBC website for people who are taking action on issues that concern them.
+
+# sent_id = 988
+# text = I'm getting in touch because I think it could be useful to people campaigning about hospital closures.
+
+# sent_id = 989
+# text = We've got a page (http://www.bbc.co.uk/dna/actionnetwork/c55153) dedicated to issues around hospitals and a group called NHS SOS have already put up a campaign about ward closures in Cumbria.
+
+# sent_id = 990
+# text = I'm hoping to build this up to be a hub for all the campaigners-a place where people can exchange ideas and advice.
+
+# sent_id = 991
+# text = It would be great if the person from CHANT who started this page would put up a short description of the campaign on the Action Network site and a list to this group page.
+
+# sent_id = 992
+# text = Action Network is also a good place to post details of events, or try to rally a group together if you want to take action in your area.
+
+# sent_id = 993
+# text = You can attach anything you write to pages for your local area, as well as to the 'issue' pages.
+
+# sent_id = 994
+# text = I'm more than happy to help people with the site or answer any questions about Action Network-just drop me a message.
+
+# sent_id = 995
+# text = Otherwise, hope to see you there!
+
+# sent_id = 996
+# text = Kind regards
+
+# sent_id = 997
+# text = Ruth Penycate www.bbc.co.uk/actionnetwork
+
+# sent_id = 998
+# text = Winston Peters is visiting a school.
+
+# sent_id = 999
+# text = In one class, he asks the students if anyone can give him an example of a "tragedy".
+
+# sent_id = 1000
+# text = One little boy stands up and offers that "if my best friend who lives next door was playing in the street, when a car came along and killed him, that would be a tragedy".
+
+# sent_id = 1001
+# text = "no," Winston says, "that would be an accident."
+
+# sent_id = 1002
+# text = A girl raises her hand.
+
+# sent_id = 1003
+# text = "if a school bus carrying fifty children drove off a cliff, killing everyone involved... that would be a tragedy".
+
+# sent_id = 1004
+# text = "I'm afraid not," Winston explains, "that's what we would call a great loss."
+
+# sent_id = 1005
+# text = The room is silent, none of the other children volunteer.
+
+# sent_id = 1006
+# text = "what?" isn't there any one here who can give me an example of a tragedy? "asks Winston,"
+
+# sent_id = 1007
+# text = Finally, a boy in the back raises his hand.
+
+# sent_id = 1008
+# text = In a timid voice, he says: "if an airplane carrying Winston Peters was blown up by a bomb, that would be a tragedy".
+
+# sent_id = 1009
+# text = "Winston!" beams wonderful.
+
+# sent_id = 1010
+# text = "marvelous!
+
+# sent_id = 1011
+# text = And can you tell me why that would be a tragedy? "
+
+# sent_id = 1012
+# text = "well, because it wouldn't be an" accident, "the boy says, and it would certainly not be a great loss!"
+
+# sent_id = 1013
+# text = [http://www.space.com/astronotes/astronotes.html]
+
+# sent_id = 1014
+# text = Photo from space.com
+
+# sent_id = 1015
+# text = (space.com)
+
+# sent_id = 1016
+# text = It looks like the Lunar Transportation Systems, Inc. is visualizing a "space highway" going from the moon) to Earth (and back again.
+
+# sent_id = 1017
+# text = "our new lunar transportation system utilizes a unique architecture that will establish the equivalent of a two-way highway between the Earth and the Moon," Kistler told space.com.
+
+# sent_id = 1018
+# text = "our plans include raising private capital to develop, build, flight test, and operate this Earth-Moon highway for the benefit of the country and the benefit of our investors."
+
+# sent_id = 1019
+# text = Wise decision to go through the private sector -- NASA budget's may be kinda tight to fund a project like this.
+
+# sent_id = 1020
+# text = This group does sound pretty interesting though.
+
+# sent_id = 1021
+# text = The Lunar Transporatation Systems (LTS) is actually being funded by two space businessmen, Walter Kistler and Bob Citron.
+
+# sent_id = 1022
+# text = Both of these men are heavily involved in the private sector of the space industry, and both are also involved with another space company called SPACEHAB.
+
+# sent_id = 1023
+# text = They want to use LTS to tie into NASA's vision for space exploration, and seem pleased that the White House is moving in that direction.
+
+# sent_id = 1024
+# text = "we are so excited that the White House and the recent new government space policy underscores the need to involve the private sector in assisting NASA develop its plans for the new vision for space exploration," said Walter Kistler, LTS co-founder and chairman.
+
+# sent_id = 1025
+# text = With their proposal of an "Earth-Moon" highway, it looks like space tourism may become a reality sooner than we think.
+
+# sent_id = 1026
+# text = Selah!
+
+# sent_id = 1027
+# text = --
+
+# sent_id = 1028
+# text = Posted by Hidden Nook to Hidden Nook at 2/15/2005 05:12:00 pm
+
+# sent_id = 1029
+# text = [http://www.space.com/missionlaunches/ft_050829_ksc_spacefuture.html]
+
+# sent_id = 1030
+# text = (space.com)
+
+# sent_id = 1031
+# text = U.S. astronauts will launch to the moon on sleek, single, shuttle booster rockets and the first new upper-stage rocket this country has developed in more than a decade, NASA and the Pentagon have told the White House.
+
+# sent_id = 1032
+# text = Lunar landers and other gear needed for extended visits to the moon will be lofted by gargantuan launchers as big as the Apollo-era Saturn 5, the most powerful rockets ever flown.
+
+# sent_id = 1033
+# text = It looks as if NASA is transitioning away from the shuttle model, as they have proved in the past to be quite dangerous as Columbia has recently proved.
+
+# sent_id = 1034
+# text = Although these new rockets are probably more expensive, they will be able to go at a much greater range than it's shuttle cousins, as they cannot only break free from the atmosphere but reach the moon as well.
+
+# sent_id = 1035
+# text = "NASA will initiate development of a crew launch vehicle derived from space shuttle solid rocket boosters with a new upper stage for human spaceflight," said the letter, signed by NASA administrator Mike Griffin and the Pentagon's top space official, ex-astronaut Ron Sega...
+
+# sent_id = 1036
+# text = "NASA then plans to develop a new 100-metric-ton-class launch vehicle derived from existing capabilities with the external space shuttle tanks and solid rocket boosters for future missions to the moon," the letter said.
+
+# sent_id = 1037
+# text = NASA is planning on using these new shuttles to replace the current models, with industry forecasters predicting as early a launch as 2014.
+
+# sent_id = 1038
+# text = The new rocket design will differ slightly from it's predecessors, in the fact that the crew and cargo would each launch separately from two different rockets and join up in space later on.
+
+# sent_id = 1039
+# text = Hopefully launching this way will avoid future disasters, giving more support towards NASA revisiting the stars.
+
+# sent_id = 1040
+# text = --
+
+# sent_id = 1041
+# text = Posted by Hidden Nook to Hidden Nook at 8/30/2005 09:36:00 pm
+
+# sent_id = 1042
+# text = George and Lynne
+
+# sent_id = 1043
+# text = Image001.jpg
+
+# sent_id = 1044
+# text = 51 k download
+
+# sent_id = 1045
+# text = Funny stuff
+
+# sent_id = 1046
+# text = Lifted from another list
+
+# sent_id = 1047
+# text = Amy :-)
+
+# sent_id = 1048
+# text = ------
+
+# sent_id = 1049
+# text = We could certainly slow down the aging process if it had to work its way through Congress.
+
+# sent_id = 1050
+# text = -Will Rogers
+
+# sent_id = 1051
+# text = I had a rose named after me and I was very flattered.
+
+# sent_id = 1052
+# text = But I wasn't pleased to read the description in the catalog: "no good in a bed, but fine against a wall."
+
+# sent_id = 1053
+# text = -Eleanor Roosevelt
+
+# sent_id = 1054
+# text = ------
+
+# sent_id = 1055
+# text = Santa Claus has the right idea.
+
+# sent_id = 1056
+# text = Visit people only once a year.
+
+# sent_id = 1057
+# text = -Victor borges
+
+# sent_id = 1058
+# text = ------
+
+# sent_id = 1059
+# text = "by all means, marry.
+
+# sent_id = 1060
+# text = If you get a good wife, you'll become happy; if you get a bad one, you'll become a philosopher.
+
+# sent_id = 1061
+# text = -Socrates
+
+# sent_id = 1062
+# text = ------
+
+# sent_id = 1063
+# text = I was married by a judge.
+
+# sent_id = 1064
+# text = I should have asked for a jury.
+
+# sent_id = 1065
+# text = -Groucho Marx
+
+# sent_id = 1066
+# text = ------
+
+# sent_id = 1067
+# text = My wife has a slight impediment in her speech.
+
+# sent_id = 1068
+# text = Every now and then she stops to breathe.
+
+# sent_id = 1069
+# text = -Jimmy Durante
+
+# sent_id = 1070
+# text = ------
+
+# sent_id = 1071
+# text = I have never hated a man enough to give back his diamonds.
+
+# sent_id = 1072
+# text = -Zsa Zsa Gabor
+
+# sent_id = 1073
+# text = ------
+
+# sent_id = 1074
+# text = Only irish coffee provides all four essential food groups: alcohol, caffeine, sugar and fat in a single glass.
+
+# sent_id = 1075
+# text = -Alex Levine
+
+# sent_id = 1076
+# text = ------
+
+# sent_id = 1077
+# text = Money cannot buy you happiness... but it does bring you a more pleasant form of misery.
+
+# sent_id = 1078
+# text = -Spike Milligan
+
+# sent_id = 1079
+# text = ------
+
+# sent_id = 1080
+# text = Until I was thirteen, I thought my name was shut up.
+
+# sent_id = 1081
+# text = -Joe Namath
+
+# sent_id = 1082
+# text = ------
+
+# sent_id = 1083
+# text = Youth would be an ideal state if it came a little later in life.
+
+# sent_id = 1084
+# text = -Herbert Henry Asquith
+
+# sent_id = 1085
+# text = ------
+
+# sent_id = 1086
+# text = I don't feel old.
+
+# sent_id = 1087
+# text = I don't feel anything until noon.
+
+# sent_id = 1088
+# text = Then it's time for my nap.
+
+# sent_id = 1089
+# text = -Bob Hope
+
+# sent_id = 1090
+# text = ------
+
+# sent_id = 1091
+# text = Don't worry about avoiding temptation... as you grow older, it will avoid you.
+
+# sent_id = 1092
+# text = -Winston Churchill
+
+# sent_id = 1093
+# text = ------
+
+# sent_id = 1094
+# text = Maybe it's true that life begins at fifty... but everything else starts to wear out, fall out, or spread out.
+
+# sent_id = 1095
+# text = -Phyllis Diller
+
+# sent_id = 1096
+# text = ------
+
+# sent_id = 1097
+# text = By the time a man is wise enough to watch his step, he's too old to go anywhere.
+
+# sent_id = 1098
+# text = -Billy Crystal
+
+# sent_id = 1099
+# text = __________________________________________________
+
+# sent_id = 1100
+# text = Do you yahoo!?
+
+# sent_id = 1101
+# text = Tired of spam?
+
+# sent_id = 1102
+# text = Yahoo! Mail has the best spam protection around
+
+# sent_id = 1103
+# text = Image_jpg_part
+
+# sent_id = 1104
+# text = 52 k download
+
+# sent_id = 1105
+# text = What language is talked in Iguazu?
+
+# sent_id = 1106
+# text = Portuguese
+
+# sent_id = 1107
+# text = Spanish
+
+# sent_id = 1108
+# text = Green tea or white tea?
+
+# sent_id = 1109
+# text = Green
+
+# sent_id = 1110
+# text = Green tea.
+
+# sent_id = 1111
+# text = Green tea
+
+# sent_id = 1112
+# text = What is this Miramar?
+
+# sent_id = 1113
+# text = It's a place in Argentina lol
+
+# sent_id = 1114
+# text = Does anyone know any good restaurants in cordoba?
+
+# sent_id = 1115
+# text = Sorry not me.
+
+# sent_id = 1116
+# text = Does anyone know of any good food in iguazu?
+
+# sent_id = 1117
+# text = Sorry not me.
+
+# sent_id = 1118
+# text = Which wonderful contact of mine is thumbs upping all my best answers? ^^
+
+# sent_id = 1119
+# text = =)
+
+# sent_id = 1120
+# text = What are some major land forms in Ireland?
+
+# sent_id = 1121
+# text = Mountains, cliffs, peat bogs, valleys
+
+# sent_id = 1122
+# text = Do you know the online streaming link for Red FM delhi 93.5?
+
+# sent_id = 1123
+# text = Any format url?
+
+# sent_id = 1124
+# text = Yes.
+
+# sent_id = 1125
+# text = How fare of kolkatta?
+
+# sent_id = 1126
+# text = Kolkatta is an indian state.
+
+# sent_id = 1127
+# text = Lol... Kolkata is not for sale!!!!!!
+
+# sent_id = 1128
+# text = Roflmao
+
+# sent_id = 1129
+# text = Which crab or shrimp do you prefer?
+
+# sent_id = 1130
+# text = I like shrimp, fried, grilled, or steamed.
+
+# sent_id = 1131
+# text = Crab
+
+# sent_id = 1132
+# text = Shrimp
+
+# sent_id = 1133
+# text = How much does it cost to join world resorts international?
+
+# sent_id = 1134
+# text = Couldn't find any info online
+
+# sent_id = 1135
+# text = Email them at address below
+
+# sent_id = 1136
+# text = E-mail: memberservices@worldresortsinternational.com
+
+# sent_id = 1137
+# text = M
+
+# sent_id = 1138
+# text = Who is artist Gunther Uecker; explain?
+
+# sent_id = 1139
+# text = Http://www.kettererkunst.com/bio/guntheruecker-1930.shtml
+
+# sent_id = 1140
+# text = His work
+
+# sent_id = 1141
+# text = Http://www.google.com/search?hl=en&rlz=1g1gglq_enus359&q=gunther+uecker+biography&gs_sm=c&gs_upl=484l484l0l5093l1l1l0l0l0l0l328l328l3-1l1l0&um=1&ie=utf-8&tbm=isch&source=og&sa=n&tab=wi&biw=1221&bih=756&sei=xvg5tqrrgoxk2axg0ry-bw#um=1&hl=en&rlz=1g1gglq_enus359&tbm=isch&sa=1&q=gunther+uecker+artist&pbx=1&oq=gunther+uecker+&aq=1s&aqi=g1g-s3&aql=&gs_sm=c&gs_upl=10219l10219l0l13797l1l1l0l0l0l0l125l125l0.1l1l0&bav=on.2,or.r_gc.r_pw.,cf.osb&fp=13ddcdc64cbf5fd&biw=1221&bih=756
+
+# sent_id = 1142
+# text = How much does it cost in your area to buy a Big Mac meal?
+
+# sent_id = 1143
+# text = Here in Indiana it's like $3 or $4 for a meal I think.
+
+# sent_id = 1144
+# text = In and out of the chicago area?
+
+# sent_id = 1145
+# text = Which burger chain do you think besides five guys and smashburger is as good or better in the chicago area as in and out?
+
+# sent_id = 1146
+# text = Where to buy bodybuilding supplements in Delhi?
+
+# sent_id = 1147
+# text = Any particular shop and their number that you know of.
+
+# sent_id = 1148
+# text = Atal Pharmacy, Karol Bag.
+
+# sent_id = 1149
+# text = Contact laxmi nagar zim kindly in delhi..
+
+# sent_id = 1150
+# text = Do you think there are any koreans in Miramar?
+
+# sent_id = 1151
+# text = Heck there must be at least 1 korean.
+
+# sent_id = 1152
+# text = But no, I do believe some Koreans reside in the country of ha-ha!
+
+# sent_id = 1153
+# text = Can you use the 'find my phone' feature to track someone else's phone?
+
+# sent_id = 1154
+# text = You'd need their Apple id and password, if you had that yes then you can track any iPhone.
+
+# sent_id = 1155
+# text = Besides eating good foods, what else do people do in Miramar?
+
+# sent_id = 1156
+# text = Well, they have a variety of sports that they play like basketball, soccer, etc.
+
+# sent_id = 1157
+# text = Well they play the Wii like me:)
+
+# sent_id = 1158
+# text = Is Hank Green awesome?
+
+# sent_id = 1159
+# text = The Hank Green I know is hardly awesome.
+
+# sent_id = 1160
+# text = He needs a shower, and he picks his nose all the time.
+
+# sent_id = 1161
+# text = He's at his best when he's doing his nerd impression...
+
+# sent_id = 1162
+# text = Weather in Tremblant in december?
+
+# sent_id = 1163
+# text = It's typically cold.
+
+# sent_id = 1164
+# text = There may or may not be snow, depending on local weather conditions.
+
+# sent_id = 1165
+# text = In the ski resort areas, there will likely be man-made snow on the slopes.
+
+# sent_id = 1166
+# text = Is it necessary to varnish my oil paintings or just leave they be jay?
+
+# sent_id = 1167
+# text = Thx for your ans.?
+
+# sent_id = 1168
+# text = As in the old days, varnish is often used as a protective film against years of dirt, grease, smoke, etc.
+
+# sent_id = 1169
+# text = Fun picture websites? (:
+
+# sent_id = 1170
+# text = I'm looking for websites like flickr.com and tumblr.com autocorrects.com but ones that aren't very common and have a variety of funny pictures!
+
+# sent_id = 1171
+# text = Please give me lots of links and places to look!
+
+# sent_id = 1172
+# text = Thank you (:
+
+# sent_id = 1173
+# text = Ifunny.com
+
+# sent_id = 1174
+# text = How do you mold silicone or rubber into a mermaid tail?
+
+# sent_id = 1175
+# text = Carve one in your chosen medium.
+
+# sent_id = 1176
+# text = Make a mold.
+
+# sent_id = 1177
+# text = Cast.
+
+# sent_id = 1178
+# text = Depending on scale, just buy a fish and make a mold from that
+
+# sent_id = 1179
+# text = They sell these kits in most hobby and craft stores.
+
+# sent_id = 1180
+# text = Do you prefer ham, bacon or sausages with your breakfast?
+
+# sent_id = 1181
+# text = Without a doubt..... bacon!:)
+
+# sent_id = 1182
+# text = Thick cut bacon or really good sausages
+
+# sent_id = 1183
+# text = I like bacon and sausage with my breakfast when I have a big breakfast like a grand slam with pancakes and the works.
+
+# sent_id = 1184
+# text = Can police trace a cell phone even if it's switched off?
+
+# sent_id = 1185
+# text = Can police trace a cell phone even if it's switched off?
+
+# sent_id = 1186
+# text = Yeah you get to burn it.. that's the only way
+
+# sent_id = 1187
+# text = Yes, they all have secret locator chips, just like gps
+
+# sent_id = 1188
+# text = Yes.
+
+# sent_id = 1189
+# text = Mazzoni's deli best italian food in phila pa?
+
+# sent_id = 1190
+# text = Mazzoni's deli at 3901 conshocken ave in phila pa is really the best italian food in the country???
+
+# sent_id = 1191
+# text = So because all of the food blogs I have read say and if that is true I will travel from maryland
+
+# sent_id = 1192
+# text = Yep
+
+# sent_id = 1193
+# text = Dinner and dancing in Chicago?
+
+# sent_id = 1194
+# text = I'm under 21 + and looking for a nice place to take my boyfriend out for dinner where they play music and there's a dance floor.
+
+# sent_id = 1195
+# text = It's okay if it's a little pricier.
+
+# sent_id = 1196
+# text = Any good suggestions would really be appreciated.
+
+# sent_id = 1197
+# text = Rumba Room
+
+# sent_id = 1198
+# text = Courage the cowardly dog?
+
+# sent_id = 1199
+# text = In the episode "so are we Two in Louvre," their diffrent painting / how many scupltures are and who are the artists?
+
+# sent_id = 1200
+# text = Link to video: http://www.livevideo.com/video/c8f5bbec570c4a4dbc326f694d79942a/courage-the-cowardly-dog-so-.aspx
+
+# sent_id = 1201
+# text = You should really ask this in the art section.
+
+# sent_id = 1202
+# text = They are probably just drawn for the show anyways.
+
+# sent_id = 1203
+# text = Name something you find at a carnival that comes on a stick?
+
+# sent_id = 1204
+# text = Cotton candy
+
+# sent_id = 1205
+# text = Corn dog
+
+# sent_id = 1206
+# text = Candy apple
+
+# sent_id = 1207
+# text = Meat kabob
+
+# sent_id = 1208
+# text = Ship on a stick (prize at various trivia type contests on board.)
+
+# sent_id = 1209
+# text = All of those ;d
+
+# sent_id = 1210
+# text = Monkey brain.
+
+# sent_id = 1211
+# text = What country are we talking about?
+
+# sent_id = 1212
+# text = I like my monkey brain on a stick for sure.
+
+# sent_id = 1213
+# text = How come no one bothers to ask any questions in this section?
+
+# sent_id = 1214
+# text = Of course I mean besides me.
+
+# sent_id = 1215
+# text = Obviously because most people have never even heard of this section.
+
+# sent_id = 1216
+# text = Someone had to be first.
+
+# sent_id = 1217
+# text = I've never been there.
+
+# sent_id = 1218
+# text = Well, I don't ask questions here because I have no clue what "Iguazu" is...
+
+# sent_id = 1219
+# text = What do you think of Air France?
+
+# sent_id = 1220
+# text = I love Air France!
+
+# sent_id = 1221
+# text = Their service is top-notch and I especially love the free french champagne served even in economy.
+
+# sent_id = 1222
+# text = I also find their food way better than many other airlines.
+
+# sent_id = 1223
+# text = Plus you land in a preferential terminal...
+
+# sent_id = 1224
+# text = I go out of my way to use Air France.
+
+# sent_id = 1225
+# text = Expensive
+
+# sent_id = 1226
+# text = What is the difference between indian and african ringnecks and alexandrine parrots??
+
+# sent_id = 1227
+# text = I was fixing, did a bunch of research, to buy an indian ringneck (I am a very experienced bird owner, macaws, amazons, cockatoos,)
+
+# sent_id = 1228
+# text = And noticed two other breeds that look a lot alike.
+
+# sent_id = 1229
+# text = So does anyone know what the difference is?
+
+# sent_id = 1230
+# text = Thanks
+
+# sent_id = 1231
+# text = Can someone else pick it up for me if i preorder a game at gamestop?
+
+# sent_id = 1232
+# text = I put down $5 bucks for it too.
+
+# sent_id = 1233
+# text = They won't be able to no some gamestops don't check id for the pre-order but a lot of store want to see your id and / or your reciept of the pre-order so some ppl can get away with doing this
+
+# sent_id = 1234
+# text = Has anyone ever worked for steiner leisure cruises?
+
+# sent_id = 1235
+# text = I am considering taking a job with Steiner and noticed I have to pay for all my travel.
+
+# sent_id = 1236
+# text = Was wondering if anyone knew a rough estimate of how much it costs with travel and training
+
+# sent_id = 1237
+# text = I haven't personally but I know a couple of people who have.
+
+# sent_id = 1238
+# text = Wendi has worked for them have a look at her blog.
+
+# sent_id = 1239
+# text = Best pos system in Philadelphia?
+
+# sent_id = 1240
+# text = What's the best pos system I can buy in philadelphia pa?
+
+# sent_id = 1241
+# text = I need something reliable and good looking.
+
+# sent_id = 1242
+# text = Prosperity pos makes the best pos systems.
+
+# sent_id = 1243
+# text = I use them for my restaurant and always get compliments on the sleek look of the mac system not to mention how good the support is.
+
+# sent_id = 1244
+# text = Do yourself a favor and give them a call.
+
+# sent_id = 1245
+# text = Http://www.prosperitypos.com?p=ya
+
+# sent_id = 1246
+# text = What are "" good speakers?
+
+# sent_id = 1247
+# text = I've been looking at the bose sound dock 10, i've currently got a jvc mini hifi system i was wondering what would be a good set of speakers.
+
+# sent_id = 1248
+# text = I like music very loud and with a lot of bass.
+
+# sent_id = 1249
+# text = I was also wondering, it's true that the better the speakers are the bigger.
+
+# sent_id = 1250
+# text = Thanks
+
+# sent_id = 1251
+# text = B & w.
+
+# sent_id = 1252
+# text = Bose is not good
+
+# sent_id = 1253
+# text = USPS delivery in Auckland, NZ?
+
+# sent_id = 1254
+# text = I have ordered Bose headfone worth 300 usd.
+
+# sent_id = 1255
+# text = They have been shipped using USPS priority mail international parcels.
+
+# sent_id = 1256
+# text = I will have to pay customs in NZ.
+
+# sent_id = 1257
+# text = It's a gift from my brother.
+
+# sent_id = 1258
+# text = Why will hav to pay customs if it is a gift...??
+
+# sent_id = 1259
+# text = I always thought there's no custom charges for gifts.
+
+# sent_id = 1260
+# text = Yup.
+
+# sent_id = 1261
+# text = Yes, you must pay customs duties.
+
+# sent_id = 1262
+# text = Fast 24 hour resturants near by?
+
+# sent_id = 1263
+# text = Well there's Mc. Donald's, Burger King, Taco Bell.....
+
+# sent_id = 1264
+# text = But my resturant is way better than all of them... and it's quite close.
+
+# sent_id = 1265
+# text = It's just up the highway and right around the corner....
+
+# sent_id = 1266
+# text = What nearby?
+
+# sent_id = 1267
+# text = Loop, North Side, South Side, near suburbs, far suburbs?
+
+# sent_id = 1268
+# text = Chicago is a big area.
+
+# sent_id = 1269
+# text = PORTILLO's OR WHITE CASTLE :d!
+
+# sent_id = 1270
+# text = NZers: have you decided you're going to vote for who?
+
+# sent_id = 1271
+# text = And has this changed from previous years?
+
+# sent_id = 1272
+# text = I'm just curious.
+
+# sent_id = 1273
+# text = Are you even-old enough Bay of Plenty to vote?
+
+# sent_id = 1274
+# text = Hahaha
+
+# sent_id = 1275
+# text = Not sure yet
+
+# sent_id = 1276
+# text = John Key, and no
+
+# sent_id = 1277
+# text = Maybe Labour.
+
+# sent_id = 1278
+# text = John Key is too busy looking after his rich mates, while the rest of us pay.
+
+# sent_id = 1279
+# text = Yes, I have usually voted National.
+
+# sent_id = 1280
+# text = I do see myself as a conservative
+
+# sent_id = 1281
+# text = Arriving in Auckland on a direct flight from Canada.?
+
+# sent_id = 1282
+# text = Will we be allowed to take duty free bottles onto our connecting flight to Christchurch?
+
+# sent_id = 1283
+# text = In our hand luggage or do we have to put it into our checked luggage?
+
+# sent_id = 1284
+# text = Yes.
+
+# sent_id = 1285
+# text = I don't think it matters
+
+# sent_id = 1286
+# text = We'll see you on 'border patrol'
+
+# sent_id = 1287
+# text = Yes you can carry your duty free bottles, and liquids onto your connection as it is only a domestic flight :-)
+
+# sent_id = 1288
+# text = Studying in Quebec, Canada?
+
+# sent_id = 1289
+# text = If I went into the "pre-university" direction with business administration in mind.
+
+# sent_id = 1290
+# text = Say after I finished those 2 years and I found a job.
+
+# sent_id = 1291
+# text = Would I be able to go back to school after a year break at a university to get a Bachelor's degree in business administration?
+
+# sent_id = 1292
+# text = Any information would help.
+
+# sent_id = 1293
+# text = Thank you
+
+# sent_id = 1294
+# text = You should be no problem able to.
+
+# sent_id = 1295
+# text = Whatever age you are universities will take you.
+
+# sent_id = 1296
+# text = What would you call the device that hold up your photography backdrop?
+
+# sent_id = 1297
+# text = And where can I find them?
+
+# sent_id = 1298
+# text = Background support systems.
+
+# sent_id = 1299
+# text = Or background stands
+
+# sent_id = 1300
+# text = Buy them in any good photography supplies shop.
+
+# sent_id = 1301
+# text = Frame
+
+# sent_id = 1302
+# text = Thumbs down???
+
+# sent_id = 1303
+# text = Odd: considering this is a search on the net
+
+# sent_id = 1304
+# text = Http://www.google.co.uk/search?q=backdrop+frame&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-us:official&client=firefox-a&safe=active&sout=1
+
+# sent_id = 1305
+# text = Backdrop stand.
+
+# sent_id = 1306
+# text = Google the term or find photography supplies websites and put it in the search box (or look for studio equipment supplies).
+
+# sent_id = 1307
+# text = Which is the best and why out of carnival (cruises), royal caribbean, and norweigan?
+
+# sent_id = 1308
+# text = I prefer Royal Caribbean out of all these.
+
+# sent_id = 1309
+# text = There's so much to do onboard.
+
+# sent_id = 1310
+# text = The new NCL Epic does sound amazing, although I have not sailed on her yet.
+
+# sent_id = 1311
+# text = None of the above.
+
+# sent_id = 1312
+# text = Of these three, it's a toss-up between Royal and Carnival.
+
+# sent_id = 1313
+# text = NCL is below either a notch, in terms of quality and service.
+
+# sent_id = 1314
+# text = Will usb cell phone chargers still charge even if they're hooked up to a computer that's turned off?
+
+# sent_id = 1315
+# text = Mine does.
+
+# sent_id = 1316
+# text = I have the HTC Evo.
+
+# sent_id = 1317
+# text = Depends on the computer
+
+# sent_id = 1318
+# text = If the computer is completely shut off, the usb ports are not getting power, so they won't charge your phone
+
+# sent_id = 1319
+# text = Many pc now have sleep & charge, that allow the pc to go into sleep mode, and still allow the usb ports to charge things like phones.
+
+# sent_id = 1320
+# text = What is a good slogan for an argentinian restaurant?
+
+# sent_id = 1321
+# text = "in Argentina, beef is revere, respected, and praised.
+
+# sent_id = 1322
+# text = Come see how we continue this tradition. "
+
+# sent_id = 1323
+# text = A taste of Argentina.
+
+# sent_id = 1324
+# text = Here are some articles that discuss the details of slogan writing.
+
+# sent_id = 1325
+# text = Why certain slogans work and some do not why.
+
+# sent_id = 1326
+# text = You will find these helpful in writing a new slogan.
+
+# sent_id = 1327
+# text = A look at slogans-http://www.small-business-software.net/look-at-slogans.htm
+
+# sent_id = 1328
+# text = Unique selling proposition-http://www.small-business-software.net/unique-selling-proposition.htm
+
+# sent_id = 1329
+# text = Good luck!
+
+# sent_id = 1330
+# text = No mad cow --- guaranteed!
+
+# sent_id = 1331
+# text = Which compact system camera should I get...?
+
+# sent_id = 1332
+# text = I'm looking for a camera that has really good zoom during a video and pictures; and good quality pictures / videos
+
+# sent_id = 1333
+# text = I am planning on buying a compact system camera at best buy; so please list the one (s) I should purchase.
+
+# sent_id = 1334
+# text = How much do compact system cameras also drop on boxing day?
+
+# sent_id = 1335
+# text = ** and i can upload my pictures and videos on the computer (facebook)
+
+# sent_id = 1336
+# text = Have a look at sony wx10
+
+# sent_id = 1337
+# text = I need creative art ideas?
+
+# sent_id = 1338
+# text = What are some cool ideas for making a poster using the word mad on a white paper in a weird or artsy way?
+
+# sent_id = 1339
+# text = The actual word "mad" has to be on the cover and incorporated into the image.
+
+# sent_id = 1340
+# text = Mad means crazy, or angry, so you do a lot with it, i'd put a gorrilla, screaming just the face, and just throw a lot of brushes fifferent colors in, make it look artistic.
+
+# sent_id = 1341
+# text = Use photoshop.
+
+# sent_id = 1342
+# text = Madonna tttthhhhh!
+
+# sent_id = 1343
+# text = What is the fall of hanoi?
+
+# sent_id = 1344
+# text = Can anyone tell me exactly what it is and what took place?
+
+# sent_id = 1345
+# text = I can't find any information about it
+
+# sent_id = 1346
+# text = The Viet Minh was in control of the Red River Delta when the French returned to Indochina at the end of WW II.
+
+# sent_id = 1347
+# text = They chased the Communists out of the capital (Hanoi) and retook control.
+
+# sent_id = 1348
+# text = That's what you're referring to?
+
+# sent_id = 1349
+# text = You need to check out the french Indochina War (1946-1954) not the Vietnam War (1957-1975).
+
+# sent_id = 1350
+# text = Does a pacman absolutely need a uv lamp?
+
+# sent_id = 1351
+# text = Or maybe something humid or heat?
+
+# sent_id = 1352
+# text = I assume you are talking about a pacman frog.
+
+# sent_id = 1353
+# text = No, they don't need a uvb light technically; they are nocturnal.
+
+# sent_id = 1354
+# text = However, it certainly would not hurt if you wanted to provide one.
+
+# sent_id = 1355
+# text = A pacman frog will need a heat source that creates a basking temp in the upper 80's F for at least 10-12 hours a day.
+
+# sent_id = 1356
+# text = Don't forget to use a calcium supplement twice a week; captive reptiles are prone to calcium deficiency.
+
+# sent_id = 1357
+# text = Surprise cheap date romantic night san francisco?
+
+# sent_id = 1358
+# text = Looking for a surprise spot to take my bf.
+
+# sent_id = 1359
+# text = A bar would be nice but also something extremely unique.
+
+# sent_id = 1360
+# text = I'd like to have one of those surprisingly nice super random nights out... suggestions?
+
+# sent_id = 1361
+# text = O and the cheaper the better thanks (we're trying to save money now, that would be sooo.. helpful)
+
+# sent_id = 1362
+# text = Why not put together a bottle of champagne, a picnic and have a date on Treasure Island.
+
+# sent_id = 1363
+# text = Cheap, great view, time together.
+
+# sent_id = 1364
+# text = There are plenty of cheap restaurants.
+
+# sent_id = 1365
+# text = Try sanfranguide.com
+
+# sent_id = 1366
+# text = Are my lhasa apso hind legs not working?
+
+# sent_id = 1367
+# text = She has been shivering for the past few days and will not eat but she could walk.. her hind legs are not working now but she is back to her self what should i do.?
+
+# sent_id = 1368
+# text = Just pray for her and try to help your dog and do some physical therapy on the hind legs and take her to the vet and feed her by hand since she is not eating and ask help from you friends and family ig it costs a whole lot
+
+# sent_id = 1369
+# text = Take her to the vet.
+
+# sent_id = 1370
+# text = Obviously take her to the vet
+
+# sent_id = 1371
+# text = How much would it cost for me to take me and three friends to Andiamo's restaurant for dinner?
+
+# sent_id = 1372
+# text = Hi, i'm looking to take out myself and my best friend and his girl friend to dinner for my birthday and this girl i really like.
+
+# sent_id = 1373
+# text = I really want to go to andiamo's for my birthday and i was just wondering how much it would cost for the four of us to eat there
+
+# sent_id = 1374
+# text = Have no idea what kind of restaurant this is or where it is.
+
+# sent_id = 1375
+# text = No matter what best count on $50 per person.
+
+# sent_id = 1376
+# text = Or more if you have drinks.
+
+# sent_id = 1377
+# text = I need suggestions for San Francisco restaurants with good food and good catering service.?
+
+# sent_id = 1378
+# text = I need suggestions on restaurants in San Francisco with good food and good catering service.
+
+# sent_id = 1379
+# text = I have two upcoming events and another is for 21 one is for 200.
+
+# sent_id = 1380
+# text = American food, soul food, mexican, italian, and chinese are the options.
+
+# sent_id = 1381
+# text = Here's a great list of different restaurants in San Francisco
+
+# sent_id = 1382
+# text = Http://sanfranguide.com/restaurants/
+
+# sent_id = 1383
+# text = Well, i recommend Hakka Restaurant for chinese food since i don't know your budget
+
+# sent_id = 1384
+# text = It's cheap and it's good!
+
+# sent_id = 1385
+# text = Prime ribs have very good food but it's super expensive
+
+# sent_id = 1386
+# text = Try yelp.com
+
+# sent_id = 1387
+# text = How many ounces in ireland in a pint?
+
+# sent_id = 1388
+# text = What depends of.
+
+# sent_id = 1389
+# text = Ounces measure weight, pints measure volume.
+
+# sent_id = 1390
+# text = If you mean fluid ounces, 20, as opposed to the 16 in America.
+
+# sent_id = 1391
+# text = An irish pint is larger than a US one.
+
+# sent_id = 1392
+# text = Fluid 20 ounces in Ireland in a pint
+
+# sent_id = 1393
+# text = As R-G said, there are only 16 in an american one.
+
+# sent_id = 1394
+# text = Know this well because i remember 'an irish' pub in the town in canada i grew up in used to advertise the cheapest pints of guinness in town, but they served them in american sized pints.
+
+# sent_id = 1395
+# text = That place did not stay open too long :d
+
+# sent_id = 1396
+# text = Need help finding irish music?
+
+# sent_id = 1397
+# text = I love the Script and know the are from iraland.
+
+# sent_id = 1398
+# text = I'd like more bands like them pleasseee
+
+# sent_id = 1399
+# text = The thing about the Script is they don't sound that irish, I was surprised to hear they were from Dublin.
+
+# sent_id = 1400
+# text = If you're interested well, I suggest you have a look at General Fiasco, Two Door Cinema Club and Wallis Bird.
+
+# sent_id = 1401
+# text = I think you'll be pleased.
+
+# sent_id = 1402
+# text = I doubt you will get a sensible answer in the "travel" section.
+
+# sent_id = 1403
+# text = * Ireland
+
+# sent_id = 1404
+# text = And there's nothing distinctly irish about them.
+
+# sent_id = 1405
+# text = You would find similar bands to them that are from the UK and US.
+
+# sent_id = 1406
+# text = Women's rain coat... where can I find one?
+
+# sent_id = 1407
+# text = I'm going on a trip to Europe soon, and I need to find a good, quality raincoat.
+
+# sent_id = 1408
+# text = I've looked and looked, but can't find one anywhere!
+
+# sent_id = 1409
+# text = I would prefer a simple, fitted black one.
+
+# sent_id = 1410
+# text = It actually needs to be relatively waterproof-the last one I bought had soaked me in anything more than moderate / light rain.
+
+# sent_id = 1411
+# text = I will pay up to 200-250 for it if I have to.
+
+# sent_id = 1412
+# text = Look on the debenhams website
+
+# sent_id = 1413
+# text = In the craghoppers section
+
+# sent_id = 1414
+# text = They do some good waterproof raincoats
+
+# sent_id = 1415
+# text = Here's the link:
+
+# sent_id = 1416
+# text = Http://www.debenhams.com/women/craghoppers#catalogid=10001&lid=//productsuniverse/en_gb/product_online0y/categories%3c0productsuniverse_186610/brand_description0.000000e+000craghoppers0/categories%3c0productsuniverse_18661_186820&ps=default&sfn=categories&sfv=coats+%26amp0+jackets&storeid=10001
+
+# sent_id = 1417
+# text = I have a Kodak camera (10.2 megapixels)... optical Kodak AF 5x lens... how do I pause it while recording?
+
+# sent_id = 1418
+# text = I have a Kodak camera (10.2 megapixels) Kodak optical AF 5x lens... how do I pause it while recording...?
+
+# sent_id = 1419
+# text = You do n't... there's no thing such as "pause" in digital recording.
+
+# sent_id = 1420
+# text = That's because of the buffer that holds the data until it's ready to be recorded to the memory card.
+
+# sent_id = 1421
+# text = When you press the button to stop recording the data is moved from the buffer to the memory card-no pause.
+
+# sent_id = 1422
+# text = All you can do is take each section (individual video) and edit them together on software.
+
+# sent_id = 1423
+# text = I have a Nacho Libre question.?
+
+# sent_id = 1424
+# text = When nacho is driving to cure the influenza guy he does say to the man with the cow i like your blouse or i like your cow because my friend thinks he says i like your blouse, but that wouldn't make sense.
+
+# sent_id = 1425
+# text = I know it's in the wrong category, but for a reason, I still wrote this question, for you not to criticize me.
+
+# sent_id = 1426
+# text = First, in the dining out in Argentina category, you've posted a question about an american movie, set in Mexico, okay.
+
+# sent_id = 1427
+# text = Do you get what's wrong with this picture?
+
+# sent_id = 1428
+# text = No... that's all.
+
+# sent_id = 1429
+# text = No second.
+
+# sent_id = 1430
+# text = Nacho Libre is supposed to be inspired in Mexicans, not in Argentineans.
+
+# sent_id = 1431
+# text = Is there any good places to get an ice-cream sundae from in Invercargill New Zealand?
+
+# sent_id = 1432
+# text = So i live in Invercargill New Zealand and i want to know if lol there are any good places other than mc donald's to buy an ice-cream sundae from
+
+# sent_id = 1433
+# text = Fast food chains, supermarkets, dairies
+
+# sent_id = 1434
+# text = You live in NZ and you eat McDonald's ice cream?
+
+# sent_id = 1435
+# text = You're mad!
+
+# sent_id = 1436
+# text = Any of the tip-top places have great ice-cream, get them to mix it up.
+
+# sent_id = 1437
+# text = Any ice cream in NZ no matter where as New Zealand has the best bl**dy ice cream in the world I'll go back just to eat some ice cream I was in NZ for a few weeks had some ice cream and really enjoyed it
+
+# sent_id = 1438
+# text = Best burger chain in the Chicago area?
+
+# sent_id = 1439
+# text = Which is the best burger chain in the chicago metro area like burger king for example portillo's white castle which one do like the best?
+
+# sent_id = 1440
+# text = Red Robin.
+
+# sent_id = 1441
+# text = Onion rings are great and the fries are endless.
+
+# sent_id = 1442
+# text = Fudrucker's.
+
+# sent_id = 1443
+# text = Idk ur choice
+
+# sent_id = 1444
+# text = Chain?
+
+# sent_id = 1445
+# text = Does 5 make a chain?
+
+# sent_id = 1446
+# text = Hackney's has a great burger formula that started about 80 years ago.
+
+# sent_id = 1447
+# text = There are currently 5 locations:
+
+# sent_id = 1448
+# text = Http://www.hackneys.net/
+
+# sent_id = 1449
+# text = The latest spot for a real Hackney's is Printers' Row:
+
+# sent_id = 1450
+# text = Http://www.hackneysprintersrow.net/
+
+# sent_id = 1451
+# text = See: what DD & D showed at the original place on Harms Rd in Glenview
+
+# sent_id = 1452
+# text = Http://www.youtube.com/watch?v=q2ldf0xu3ni
+
+# sent_id = 1453
+# text = Try a brick of onion rings along with the great burger if you're with someone.
+
+# sent_id = 1454
+# text = A 1/2 brick will be fine: otherwise
+
+# sent_id = 1455
+# text = Http://www.flickr.com/photos/jellybeanjill13/532522805/
+
+# sent_id = 1456
+# text = My dog has thrown up yellow bile for two days but doesn't have dhirea.
+
+# sent_id = 1457
+# text = What should I do?
+
+# sent_id = 1458
+# text = I have tried bland white rice but he won't eat anything.
+
+# sent_id = 1459
+# text = What could it be?
+
+# sent_id = 1460
+# text = Should I be concerned?
+
+# sent_id = 1461
+# text = Call a vet would be a good idea with a sick dog
+
+# sent_id = 1462
+# text = Very concerned!!!
+
+# sent_id = 1463
+# text = Bring your dog to the vet asap plz!!!
+
+# sent_id = 1464
+# text = If it had only once happened and could get him to eat right away-if esp not eating-it could have been you missed his meal time and he needed to eat-then since it sounds like it has happened several times over two days-he may have gotten int to something that needs to be attended to right away!!!
+
+# sent_id = 1465
+# text = And has acquired some type of disease or too that needs to be attended to...
+
+# sent_id = 1466
+# text = Why are there two statues of David?
+
+# sent_id = 1467
+# text = I doing a research paper on donatello and i notice that there are two statues of David, a bronze one and marble one.
+
+# sent_id = 1468
+# text = Michelangelo made the marble one but why did he do another if Donatello had already made one?
+
+# sent_id = 1469
+# text = So i'm a little confused, why is there two statues of David?
+
+# sent_id = 1470
+# text = Different generations, the donatello is of a boy david as a young sheep herder, the Michelangelo is the grown up man david as slayer and king
+
+# sent_id = 1471
+# text = Because he liked making statues of David! :d
+
+# sent_id = 1472
+# text = Obviously, he should have been arrested and jailed-imagine making a statue or painting on the same subject as another artist clearly insulting and disrespecting-wasted time that could have been used making a statue with clothes on .-
+
+# sent_id = 1473
+# text = Name of specific Hibachi restaurant in Chicago?
+
+# sent_id = 1474
+# text = I have a friend out in Chicago this week, and i'm trying to remember the name of an awesome hibachi style restaurant i visited while out there a couple years ago.
+
+# sent_id = 1475
+# text = I think it was in the Lincoln Square area but don't quote me on that.
+
+# sent_id = 1476
+# text = It's' gimmick 'was that you cafeteria-style fill your bowl from raw ingredients and leave it on the counter with a chopstick listing your table number on it.
+
+# sent_id = 1477
+# text = Four guys around a large square open hibachi cook your food, and a server brings it to your table when it's finished.
+
+# sent_id = 1478
+# text = All-you can-eat style deal.
+
+# sent_id = 1479
+# text = It was pretty epic as I remember and would love to send my friend there.
+
+# sent_id = 1480
+# text = Any help?
+
+# sent_id = 1481
+# text = That's Flat Top Grill
+
+# sent_id = 1482
+# text = What is the best time to start a trip around the world?
+
+# sent_id = 1483
+# text = Well, I'm about to graduate in less a year than, and I'm planning to study medical school.
+
+# sent_id = 1484
+# text = But since it lasts 6 years in my country for minimum, and I want to go around the world, what do you think, should I do it before or after medical school?
+
+# sent_id = 1485
+# text = Then, if you can afford to go before, go by all means.
+
+# sent_id = 1486
+# text = If you have to wait, due to financial reasons, then wait.
+
+# sent_id = 1487
+# text = I would much rather put it off until I can afford to have the vacation of a lifetime as I am sure this trip is intended to be.
+
+# sent_id = 1488
+# text = Airfare alone will be incredibly expensive so make sure you have the money and of course free time to take your time and have a great time.
+
+# sent_id = 1489
+# text = Canon t2i stops working?
+
+# sent_id = 1490
+# text = My canon t2i stops working at times as in the power bottom is switched to "on" but the camera does not respond to any function.
+
+# sent_id = 1491
+# text = When i take out the battery and put it back in the camera only begins to work again.
+
+# sent_id = 1492
+# text = Did anyone have this issue?
+
+# sent_id = 1493
+# text = Is it worthy to send in for warranty repair?
+
+# sent_id = 1494
+# text = Thanks!
+
+# sent_id = 1495
+# text = Sounds to me simple enough.
+
+# sent_id = 1496
+# text = Your camera is normally not acting, you got warranty, let Canon deal with it.
+
+# sent_id = 1497
+# text = I would agree.
+
+# sent_id = 1498
+# text = I shoot a t1i and have not had such an issue.
+
+# sent_id = 1499
+# text = I also agree it is under warranty so get in touch with Canon.
+
+# sent_id = 1500
+# text = It sounds like a firmware issue and the camera requires a re-boot just like what happens in a computer-from time to time needs a re-start but it shouldn't be happening in a camera.
+
+# sent_id = 1501
+# text = Call Canon
+
+# sent_id = 1502
+# text = Cheapest airline ticket from Raleigh to Philippines?
+
+# sent_id = 1503
+# text = I'm going on a vacation to the Philippines in May 2012, and I'm starting from Raleigh, NC (RDU Airport).
+
+# sent_id = 1504
+# text = Which airlines should I look into and when should I buy my ticket?
+
+# sent_id = 1505
+# text = The sooner the better but I would probably wait until after the holidays.
+
+# sent_id = 1506
+# text = Use Travelocity or Expedia and see what you come up with.
+
+# sent_id = 1507
+# text = My friend goes to the Phils every 6 months or so and she has found that Korean Air has had the cheapest fares lately.
+
+# sent_id = 1508
+# text = Raleigh to Chicago, Chicago to Seoul and then Seoul to Manila.
+
+# sent_id = 1509
+# text = Compare compare that's the key to getting the best deal-compare.
+
+# sent_id = 1510
+# text = Ask a travel agent!
+
+# sent_id = 1511
+# text = On my last 6 trips here from the states I used "Fly genesis" based in Seattle, Wa.
+
+# sent_id = 1512
+# text = They gave the best service & rates I could find.
+
+# sent_id = 1513
+# text = What's the best place to get discounts for San Francisco restaurants?
+
+# sent_id = 1514
+# text = I just moved into the city, and I'm wondering if there's a place I can get good deals on restaurants here.
+
+# sent_id = 1515
+# text = I don't want to have to deal with those deal-a-day websites like Groupon.
+
+# sent_id = 1516
+# text = I just want a simple way to get a good deal to whatever restaurant I want, whenever I want.
+
+# sent_id = 1517
+# text = Any suggestions would be really helpful, thanks!
+
+# sent_id = 1518
+# text = I usually use ZebraKlub.
+
+# sent_id = 1519
+# text = They basically buy daily deals from Groupon, Living Social, and all sorts of other places.
+
+# sent_id = 1520
+# text = So you can pretty much get whatever deal you want anytime.
+
+# sent_id = 1521
+# text = Most of the deals let you eat for 500 ff, and some of the deals are even free.
+
+# sent_id = 1522
+# text = If you want to eat cheaply without worrying about all those daily deal emails every day, ZebraKlub should be perfect for you.
+
+# sent_id = 1523
+# text = Where can I go on a first date (adults)?
+
+# sent_id = 1524
+# text = Looking for something on the casual side and we want it to be fun.
+
+# sent_id = 1525
+# text = May seem a little silly, but taking a long ride on the Metra system or the "L" system, is a great way to see the city and sites without spending a fortune.
+
+# sent_id = 1526
+# text = Or how about visiting the Chicago Botanical Gardens and see the change of colors and enjoy the air, food is pretty to good, they also have many inside exhibits you might enjoy.
+
+# sent_id = 1527
+# text = Go to starbucks:) don't spend more than 20 bucks
+
+# sent_id = 1528
+# text = Bike ride in the park, followed by coffee.
+
+# sent_id = 1529
+# text = You're busy, you don't have to sit face to face to try
+
+# sent_id = 1530
+# text = To make convo, it's short, so if things go great, you can
+
+# sent_id = 1531
+# text = Extend, and if you want to end it, bye, you just say
+
+# sent_id = 1532
+# text = Gotten to go.
+
+# sent_id = 1533
+# text = I decided to get a 150 gal aquarium, what can I fill it with?
+
+# sent_id = 1534
+# text = Was I thinking cichlids?
+
+# sent_id = 1535
+# text = Possibly a freshwater tank with a ton of different species in there.
+
+# sent_id = 1536
+# text = I've never kept cichlids though.
+
+# sent_id = 1537
+# text = I know saltwater is a possibility, can you give me a possible stocking option for that too?
+
+# sent_id = 1538
+# text = I will choose the one that sounds the best after looking into all the fish:)
+
+# sent_id = 1539
+# text = Here is the stocking for my 150 gallon tank a 200 gallon with 6 pairs of breeding angel fish fire mouth honey gourami 5 8 inch clownloach a krib with 16 cory cats 5 australian rainbows and 5 1 inch clown loach i upgraded it to 200 at the weekend because of the clownloach
+
+# sent_id = 1540
+# text = If you took out the clown loach it would make a nice 150 gallon tank.
+
+# sent_id = 1541
+# text = Fill it with water:) lol
+
+# sent_id = 1542
+# text = Every time i would suggest oscars or piranha for a tank that size awesome fish!!
+
+# sent_id = 1543
+# text = Never response the phone call
+
+# sent_id = 1544
+# text = Great deals, great pizza!
+
+# sent_id = 1545
+# text = Great gym and great services.
+
+# sent_id = 1546
+# text = Dr. White is the best!
+
+# sent_id = 1547
+# text = Good clean store nice car wash
+
+# sent_id = 1548
+# text = It's well cool.:)
+
+# sent_id = 1549
+# text = Awesome service with a smile:)
+
+# sent_id = 1550
+# text = What a great deal thank you
+
+# sent_id = 1551
+# text = The pancakes are to die for.
+
+# sent_id = 1552
+# text = Best fried shrimp in the state!
+
+# sent_id = 1553
+# text = Fast and great service on pool covers
+
+# sent_id = 1554
+# text = Friendliest place I've ever stayed!
+
+# sent_id = 1555
+# text = The best pilates on the Gold Coast!
+
+# sent_id = 1556
+# text = It taste better than In and Out....
+
+# sent_id = 1557
+# text = Good local steakhouse, I recommend it!
+
+# sent_id = 1558
+# text = Dessert was good.
+
+# sent_id = 1559
+# text = Rest was oily too.
+
+# sent_id = 1560
+# text = For me it was a little too high dollar
+
+# sent_id = 1561
+# text = Very informative website with a lot of good work
+
+# sent_id = 1562
+# text = Wow wow. wow
+
+# sent_id = 1563
+# text = The bast cab in minneapolis
+
+# sent_id = 1564
+# text = Great food and nice people very pleasant experience.
+
+# sent_id = 1565
+# text = Tire Gooroo
+
+# sent_id = 1566
+# text = David Bundren is the Tire GooRoo.
+
+# sent_id = 1567
+# text = Good
+
+# sent_id = 1568
+# text = It's a nice and quiet little cute library
+
+# sent_id = 1569
+# text = They recovered the pics geeksquad deleted.
+
+# sent_id = 1570
+# text = Many thanks
+
+# sent_id = 1571
+# text = Local crew!!!
+
+# sent_id = 1572
+# text = Home team for playing-thanks!!!
+
+# sent_id = 1573
+# text = Great service, thanks Don.
+
+# sent_id = 1574
+# text = Nice top lights.
+
+# sent_id = 1575
+# text = Best ceviche that I had had so far!:)
+
+# sent_id = 1576
+# text = A very nice park.
+
+# sent_id = 1577
+# text = The architecture is simplz splendid.
+
+# sent_id = 1578
+# text = The service is quick.
+
+# sent_id = 1579
+# text = And the people are sweet:)
+
+# sent_id = 1580
+# text = Yeah they ruined some shirts I had too.
+
+# sent_id = 1581
+# text = Horrible!
+
+# sent_id = 1582
+# text = Very reasonable prices.
+
+# sent_id = 1583
+# text = Quick in & out.
+
+# sent_id = 1584
+# text = Friendly service.
+
+# sent_id = 1585
+# text = This is my favorite coffee store.
+
+# sent_id = 1586
+# text = Just ask American Express
+
+# sent_id = 1587
+# text = Too many kids, too many knifing, too many tasering.
+
+# sent_id = 1588
+# text = Thank you for fixing the leak on my bathroom!
+
+# sent_id = 1589
+# text = Thanks!
+
+# sent_id = 1590
+# text = This is the Sam's worst club I've ever been to
+
+# sent_id = 1591
+# text = Gotten to love this place.
+
+# sent_id = 1592
+# text = Everyone is relaxed and having fun!!!
+
+# sent_id = 1593
+# text = Friendly service.
+
+# sent_id = 1594
+# text = Attentive to the needs of customer.
+
+# sent_id = 1595
+# text = Thanks again!
+
+# sent_id = 1596
+# text = This place is awesome
+
+# sent_id = 1597
+# text = Great work, good price.
+
+# sent_id = 1598
+# text = Going back definetely
+
+# sent_id = 1599
+# text = Great product, great service!!!
+
+# sent_id = 1600
+# text = Installed Biometrics and got excellent service.
+
+# sent_id = 1601
+# text = Feels like you're in Brooklyn, but people watching is entertaining.
+
+# sent_id = 1602
+# text = Green curry and red curry is awesome!
+
+# sent_id = 1603
+# text = Remember to ask for extra vege
+
+# sent_id = 1604
+# text = Usually very quick and timely.
+
+# sent_id = 1605
+# text = Doctor Bogomilsky knows her stuff too.
+
+# sent_id = 1606
+# text = The best supermarket in Bay Ridge have everything what a customer needs.
+
+# sent_id = 1607
+# text = Wonderful wonderful people!
+
+# sent_id = 1608
+# text = I often refer to VNHH and love you guys.
+
+# sent_id = 1609
+# text = Did a great job of removing my tree in Conyers.
+
+# sent_id = 1610
+# text = Thanks Southland.
+
+# sent_id = 1611
+# text = Nice locally owned little greek bar and grill.
+
+# sent_id = 1612
+# text = Good food.
+
+# sent_id = 1613
+# text = Great wings!
+
+# sent_id = 1614
+# text = Don't bother.
+
+# sent_id = 1615
+# text = It is impossible to understand how this place has survived.
+
+# sent_id = 1616
+# text = The finest german bedding and linens store.
+
+# sent_id = 1617
+# text = Quality and service come here first.
+
+# sent_id = 1618
+# text = Place is legit.
+
+# sent_id = 1619
+# text = We got upgraded to a corner suite!
+
+# sent_id = 1620
+# text = Room was amazing.
+
+# sent_id = 1621
+# text = Hard to forgive such an awful margarita and steep prices but the food can be good
+
+# sent_id = 1622
+# text = Linda
+
+# sent_id = 1623
+# text = I would highly recommend Landscape by Hiro.
+
+# sent_id = 1624
+# text = Excellent customer service and quality work.
+
+# sent_id = 1625
+# text = I love this place and school is across the street lots of people to talk to!
+
+# sent_id = 1626
+# text = All the way over drove from the highway... closed at 7.
+
+# sent_id = 1627
+# text = Who does that?!
+
+# sent_id = 1628
+# text = You are the only one auto glass repair shop in the area I would count on.
+
+# sent_id = 1629
+# text = Great job on my roof and the pricing was fair.
+
+# sent_id = 1630
+# text = Will use again in the future.
+
+# sent_id = 1631
+# text = Kyle with Bullwark
+
+# sent_id = 1632
+# text = Great job!
+
+# sent_id = 1633
+# text = Listened to my problem and took care of it.
+
+# sent_id = 1634
+# text = Thanks!
+
+# sent_id = 1635
+# text = Awesome food!
+
+# sent_id = 1636
+# text = Make sure to put oily sauces on your food to make it moist!
+
+# sent_id = 1637
+# text = Yum
+
+# sent_id = 1638
+# text = This is a Ralph's
+
+# sent_id = 1639
+# text = I just called this number and it's a Ralph's Market.
+
+# sent_id = 1640
+# text = Hospitality.!
+
+# sent_id = 1641
+# text = Very good hospitality offered.!
+
+# sent_id = 1642
+# text = Keep it up.
+
+# sent_id = 1643
+# text = -Shree Ghatkopar Bhatia Mitra Mandal
+
+# sent_id = 1644
+# text = Close to my house, this is the only reason I would go to this particular QT.
+
+# sent_id = 1645
+# text = Men and boys' barbers, on the number 9 bus route.
+
+# sent_id = 1646
+# text = Ladies room, Sundays open
+
+# sent_id = 1647
+# text = This is a great place to get a permit
+
+# sent_id = 1648
+# text = I had to get a permit here, it was cool
+
+# sent_id = 1649
+# text = Best
+
+# sent_id = 1650
+# text = Best pedis mani I've ever had.
+
+# sent_id = 1651
+# text = Darla is amazing, I would recoment her to anyone.
+
+# sent_id = 1652
+# text = You guys do everything wonderful!
+
+# sent_id = 1653
+# text = We honestly can't think of even 1 thing we didn't like!
+
+# sent_id = 1654
+# text = Kudos to Allentown Post Office staff
+
+# sent_id = 1655
+# text = The staff in Allentown are friendly, helpful and a delight to know..
+
+# sent_id = 1656
+# text = Great, fun, amazing beers.
+
+# sent_id = 1657
+# text = Service could be a little better but it's a place good all round
+
+# sent_id = 1658
+# text = Amazing service!
+
+# sent_id = 1659
+# text = I just had the best experience at this Kal Tire location.
+
+# sent_id = 1660
+# text = Courteous, fast and friendly.
+
+# sent_id = 1661
+# text = Quality has fallen over the years, but the still best go-to burger place on the East Bay.
+
+# sent_id = 1662
+# text = Stay away
+
+# sent_id = 1663
+# text = Horrible service.
+
+# sent_id = 1664
+# text = Absolutely rude.
+
+# sent_id = 1665
+# text = Did services I asked them not to do and was still charged.
+
+# sent_id = 1666
+# text = Highly recommended
+
+# sent_id = 1667
+# text = My 8 year old daughter loves this place.
+
+# sent_id = 1668
+# text = The best climbing club around.
+
+# sent_id = 1669
+# text = Hooray for Craggy.
+
+# sent_id = 1670
+# text = The food is excellent, but very overpriced.
+
+# sent_id = 1671
+# text = How do you run a cafe, with no refills on coffee-?
+
+# sent_id = 1672
+# text = Telephone number
+
+# sent_id = 1673
+# text = The telephone number is incorrect-our new mobile number is 07551310002 or landline 710033 01634.
+
+# sent_id = 1674
+# text = Thank you
+
+# sent_id = 1675
+# text = The team at barton car wash was very friendly.
+
+# sent_id = 1676
+# text = And did great job.
+
+# sent_id = 1677
+# text = I was very pleased with the service.
+
+# sent_id = 1678
+# text = I appreciate the quick, good service and the reasonable prices and will definitely use American Pride Irrigation & Landscaping again.
+
+# sent_id = 1679
+# text = I like I move CA-Los Angeles Movers, they moved me before, but this time they were awesome:)
+
+# sent_id = 1680
+# text = Poor taste
+
+# sent_id = 1681
+# text = There's no lower rating for Noonan's Liquor, owners and employees.
+
+# sent_id = 1682
+# text = A negative number is not available.
+
+# sent_id = 1683
+# text = CLH
+
+# sent_id = 1684
+# text = Very friendly people offering a brilliant service.
+
+# sent_id = 1685
+# text = Sent scented flowers home instead of postcards.
+
+# sent_id = 1686
+# text = Recommend you call in for a look.
+
+# sent_id = 1687
+# text = Worst experience ever like a sardine can and the bartender downstairs is the rudest person I have ever met.
+
+# sent_id = 1688
+# text = Don't go here
+
+# sent_id = 1689
+# text = Restaurant on top was renovated, food was decent, new decor seems tacky, price was way too high for quality for Duluth
+
+# sent_id = 1690
+# text = Rude and untrustworthy
+
+# sent_id = 1691
+# text = These guys took 101 customer service from a Neanderthal.
+
+# sent_id = 1692
+# text = They are especially rude to women.
+
+# sent_id = 1693
+# text = Don't trust them!
+
+# sent_id = 1694
+# text = Good food, good location, and good prices.
+
+# sent_id = 1695
+# text = But the servers don't pay attention to you whether it's busy or not.
+
+# sent_id = 1696
+# text = One of the better vegetarian sandwiches I've had in Seattle.
+
+# sent_id = 1697
+# text = And from a place that specializes in high quality meat, too.
+
+# sent_id = 1698
+# text = Old time grocery, best steaks I've ever had!
+
+# sent_id = 1699
+# text = Great meats that are already cooked, easy to take home for dinner.
+
+# sent_id = 1700
+# text = Inford Media
+
+# sent_id = 1701
+# text = Media, software, fun and games, website design, web promotion, b2b, business promotion, search engine optimization.
+
+# sent_id = 1702
+# text = Relish
+
+# sent_id = 1703
+# text = A top quality sandwich made to artistic standards.
+
+# sent_id = 1704
+# text = The best darlington has to offer in contemporary sandwicheering.
+
+# sent_id = 1705
+# text = Drum and bass as standard.
+
+# sent_id = 1706
+# text = Never will use again.
+
+# sent_id = 1707
+# text = Very rude and unprofessional.
+
+# sent_id = 1708
+# text = The workers speeded up and down the street with no mind to the small children playing.
+
+# sent_id = 1709
+# text = Ipad reiew
+
+# sent_id = 1710
+# text = They are the best orthodontics in the world.
+
+# sent_id = 1711
+# text = I went there since i was four.
+
+# sent_id = 1712
+# text = Now i'll have really straight teeth.
+
+# sent_id = 1713
+# text = Pam the Pom
+
+# sent_id = 1714
+# text = Fantastic couple of days.
+
+# sent_id = 1715
+# text = Breathtaking views and fabulous accommodation.
+
+# sent_id = 1716
+# text = Nothing too much trouble for Ian, thanks for a great stay.
+
+# sent_id = 1717
+# text = Daniel and his assistant both did a great job.
+
+# sent_id = 1718
+# text = Very professional and great results.
+
+# sent_id = 1719
+# text = Many thanks from myself and all of our wedding guests!
+
+# sent_id = 1720
+# text = What a mind blowing servicing
+
+# sent_id = 1721
+# text = They treat there employees with respect and concern and expect that they will extend the same politeness to there customers.
+
+# sent_id = 1722
+# text = Absolutely fantastic experience getting my iphone upgraded at Zion...
+
+# sent_id = 1723
+# text = Sheer contrast to getting it done at karol bagh which is done under the wooden planking
+
+# sent_id = 1724
+# text = Decent place to stay, I would stay there again.
+
+# sent_id = 1725
+# text = Rooms were clean, and safe part of town plenty of things near hotel, to do.
+
+# sent_id = 1726
+# text = Best electrician in Florence
+
+# sent_id = 1727
+# text = I've been using Steele Electric for years.
+
+# sent_id = 1728
+# text = They have always done a great job at a reasonable price.
+
+# sent_id = 1729
+# text = Highly recommended.
+
+# sent_id = 1730
+# text = Not impressed.
+
+# sent_id = 1731
+# text = Overpriced and the doctor acted arrogant and rushed at a time when there were few very clients in the facility.
+
+# sent_id = 1732
+# text = I won't return.
+
+# sent_id = 1733
+# text = A thoroughly comprehensive service; excellent communication and they are best of transparent with their fee (nothing is simply ie implied or assumed).
+
+# sent_id = 1734
+# text = I gave Dr. Rohatgi 2 stars because her assistant was very pleasant.
+
+# sent_id = 1735
+# text = However, I did not find her very helpful and her receptionist was rude.
+
+# sent_id = 1736
+# text = Extremely greasy.
+
+# sent_id = 1737
+# text = Hit or miss on the service.
+
+# sent_id = 1738
+# text = My fries weren't fully cooked last time I went there.
+
+# sent_id = 1739
+# text = Pretty spendy for not really great quality
+
+# sent_id = 1740
+# text = The management and staff are superb.
+
+# sent_id = 1741
+# text = I worked with Sam Mones who took great care of me.
+
+# sent_id = 1742
+# text = This is by far the best run dealership in Miami.
+
+# sent_id = 1743
+# text = The company gets busy but you never have to wait long because they are orginizied, so you are in, out, and well paid for your scrap
+
+# sent_id = 1744
+# text = Winning attorney!
+
+# sent_id = 1745
+# text = The only 10.0 AVVO rated "perfect score" attorney I've ever met.
+
+# sent_id = 1746
+# text = I highly recommend the law offices of Dale Gribow,!!
+
+# sent_id = 1747
+# text = Sanctuary is amazing!
+
+# sent_id = 1748
+# text = Sanctuary serves somewhat healthy, delicious food in a great restaurant / fast food style.
+
+# sent_id = 1749
+# text = The employees are really friendly.
+
+# sent_id = 1750
+# text = And they deliver!
+
+# sent_id = 1751
+# text = What a preschool!
+
+# sent_id = 1752
+# text = If you want the best for your child, don't hesitate in visiting this wornderful school.
+
+# sent_id = 1753
+# text = This is the very best in the Gables.
+
+# sent_id = 1754
+# text = What a dump!
+
+# sent_id = 1755
+# text = The food is terrible.
+
+# sent_id = 1756
+# text = The place smells and the owner is very very rude!
+
+# sent_id = 1757
+# text = I could go on and on!
+
+# sent_id = 1758
+# text = Just don't go there.
+
+# sent_id = 1759
+# text = House closing
+
+# sent_id = 1760
+# text = Mrs. Tolchin provided us with excellent service and came with a great deal of knowledge and professionalism!
+
+# sent_id = 1761
+# text = Her flexibility and accessibility made for an easy closing.
+
+# sent_id = 1762
+# text = Food is often expired so check the dates every time!
+
+# sent_id = 1763
+# text = You also end up more often than not with a healthy dose of nasty rude attitude from the employees!
+
+# sent_id = 1764
+# text = No complaints
+
+# sent_id = 1765
+# text = I have no complaints about the service I received.
+
+# sent_id = 1766
+# text = This man was polite, professional, clean and quick.
+
+# sent_id = 1767
+# text = I never felt worried and walked away satisfied.
+
+# sent_id = 1768
+# text = The teaching there sucks!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+# sent_id = 1769
+# text = So all of the teachers there are mean they get mad at you for nothing!!!!!!!!!!!!!!!!!!!
+
+# sent_id = 1770
+# text = This is the worst school I have been to!!!!!!
+
+# sent_id = 1771
+# text = Staten Island Computers
+
+# sent_id = 1772
+# text = Superior work-always comes through when we need him.
+
+# sent_id = 1773
+# text = We have tried many different computer people until now-we will stick with Qualitech Computers!!!
+
+# sent_id = 1774
+# text = Not impressive enough
+
+# sent_id = 1775
+# text = It's a fine place, I'm just a little mystified about the Michelin star.
+
+# sent_id = 1776
+# text = Nothing wrong with it, just better options at this price point.
+
+# sent_id = 1777
+# text = Exelent job
+
+# sent_id = 1778
+# text = "thank you so much for the well done superior job.
+
+# sent_id = 1779
+# text = We love everything about the fence.
+
+# sent_id = 1780
+# text = Your company and services will be recommended by us to everyone. "
+
+# sent_id = 1781
+# text = An hour of Prego bliss!
+
+# sent_id = 1782
+# text = I schedule my weekly appointment here just to get a chance to lie comfortably on my tummy.
+
+# sent_id = 1783
+# text = And the massages are heavenly!
+
+# sent_id = 1784
+# text = Very friendly place.
+
+# sent_id = 1785
+# text = Love Hop City
+
+# sent_id = 1786
+# text = This place is great!
+
+# sent_id = 1787
+# text = Craig and Nate are wonderful.
+
+# sent_id = 1788
+# text = Now I know where to get all of my wine and beer.
+
+# sent_id = 1789
+# text = No need to go to a grocer again.
+
+# sent_id = 1790
+# text = Excellent energy efficiency
+
+# sent_id = 1791
+# text = Compact's Corona dryers remove twice as much water at least as the previous dryers, allowing a production increase of over 10% and a significant energy saving.
+
+# sent_id = 1792
+# text = We would like to thank our emergency plumbers who visted our shop in Morningside Road today.
+
+# sent_id = 1793
+# text = A fast service, saved a bad situation getting a lot worse.
+
+# sent_id = 1794
+# text = Many thanks 2scompany...
+
+# sent_id = 1795
+# text = The best thai food I've ever had in Australia, very fresh and so much favor of authentic thai.
+
+# sent_id = 1796
+# text = The restaurant is the most beautiful thai restaurant in Geelong... just love it
+
+# sent_id = 1797
+# text = Fresh and unic!
+
+# sent_id = 1798
+# text = Very professional, talented, unic and fresh work.
+
+# sent_id = 1799
+# text = Paula has an amazing gift, vision for creativity and the ability to combine art to / with commercial purpose.
+
+# sent_id = 1800
+# text = Bravo!
+
+# sent_id = 1801
+# text = Ok food, slow service
+
+# sent_id = 1802
+# text = The food was incredibly bland.
+
+# sent_id = 1803
+# text = Their thali was not brought out as described (no) saag.
+
+# sent_id = 1804
+# text = Expensive for the level of food and the quality of service.
+
+# sent_id = 1805
+# text = Fantastic professional service-
+
+# sent_id = 1806
+# text = These guys really know their stuff.. they have almost anything you could want in terms of spy and surviellance equipment.
+
+# sent_id = 1807
+# text = James bond style truly stuff... would recommend
+
+# sent_id = 1808
+# text = So delightful.
+
+# sent_id = 1809
+# text = What a group!
+
+# sent_id = 1810
+# text = I wouldn't want any other company in my time of need.
+
+# sent_id = 1811
+# text = Great people!
+
+# sent_id = 1812
+# text = So professional!
+
+# sent_id = 1813
+# text = These guys know what they're doing!
+
+# sent_id = 1814
+# text = Way to go!
+
+# sent_id = 1815
+# text = Terrible customer service
+
+# sent_id = 1816
+# text = Fried rice has no flavor, it literally taste like water.
+
+# sent_id = 1817
+# text = When I tried to return it they refused, so I had to leave without a refund and still hungry.
+
+# sent_id = 1818
+# text = Wow, the representative went way above and beyond in helping me with my account set up.
+
+# sent_id = 1819
+# text = I wish the other utilities i had to set up had people like this to work with..
+
+# sent_id = 1820
+# text = Bad service
+
+# sent_id = 1821
+# text = Will not be returning definately.
+
+# sent_id = 1822
+# text = Traveled 40 mins after calling to see if a product was in stock.
+
+# sent_id = 1823
+# text = Told that they had plenty.
+
+# sent_id = 1824
+# text = Get there and there was nothing.
+
+# sent_id = 1825
+# text = Not impressed!!!
+
+# sent_id = 1826
+# text = Would not recommend I was in a fair amount of pain for several weeks.
+
+# sent_id = 1827
+# text = His clinic is very very dirty he is a real disaster to go not totally organized for every step he takes.
+
+# sent_id = 1828
+# text = Best limo limousine service in all of Dallas
+
+# sent_id = 1829
+# text = Great Limos company in the DFW fort Worth metro area.
+
+# sent_id = 1830
+# text = I use their limo services for all of my airport car services and airport transportation needs
+
+# sent_id = 1831
+# text = Very knowledgeable and friendly design building firm.
+
+# sent_id = 1832
+# text = They specialize in financial institutions, medical, and retail projects.
+
+# sent_id = 1833
+# text = These guys know what they are doing and helped me in all phases of our project.
+
+# sent_id = 1834
+# text = The waiting staff is really friendly, the manager is really sweet and the food.. no complaints from me, it's like every one knows each other well.
+
+# sent_id = 1835
+# text = Yes, it's that good.
+
+# sent_id = 1836
+# text = They have fresh flowers, lasted in the vase a long while, and the two ladies at the shop know the business well.
+
+# sent_id = 1837
+# text = I had no problem with my delivery.
+
+# sent_id = 1838
+# text = I will go there again.
+
+# sent_id = 1839
+# text = Out of business?
+
+# sent_id = 1840
+# text = I think this location is no longer in business.
+
+# sent_id = 1841
+# text = If you check recwarehouse.com, they don't list this as a location.
+
+# sent_id = 1842
+# text = You'll have to drive to Allen 10 miles down 75.
+
+# sent_id = 1843
+# text = Awesome landscaping job
+
+# sent_id = 1844
+# text = MFJ Inc transformed our run down back yard into a place of beauty.
+
+# sent_id = 1845
+# text = The work was completed within one week, and everything was cleaned up on completion.
+
+# sent_id = 1846
+# text = Highly recommended landscaper!!!
+
+# sent_id = 1847
+# text = Spot on
+
+# sent_id = 1848
+# text = This kebab shop is one of around the best, keep them lovely kebabs coming and a new happy year to all the staff the meat is good and fresh and the chilly sauce is the best
+
+# sent_id = 1849
+# text = Feel good
+
+# sent_id = 1850
+# text = I just wanted to try your clinic because I was not totally happy with my current therapist I regularly see.
+
+# sent_id = 1851
+# text = Now I have found someone who can manage to do what I really want.
+
+# sent_id = 1852
+# text = Worst tasting pizza
+
+# sent_id = 1853
+# text = This place had the worst tasting pizza I've ever tasted it was the worst possible food I've ever eaten.
+
+# sent_id = 1854
+# text = I do not recommend this place to anyone or even anything to eat.
+
+# sent_id = 1855
+# text = Not so good
+
+# sent_id = 1856
+# text = Not worth the money.
+
+# sent_id = 1857
+# text = Bland and over cooked.
+
+# sent_id = 1858
+# text = I felt as if I was in an over priced Olive Garden.
+
+# sent_id = 1859
+# text = I was hoping to have found a regular place to eat.
+
+# sent_id = 1860
+# text = But not so.
+
+# sent_id = 1861
+# text = I have used Bright Futures for the last 7 years.
+
+# sent_id = 1862
+# text = I have 3 children there and they are the best.
+
+# sent_id = 1863
+# text = They're like family.
+
+# sent_id = 1864
+# text = Your children will be taken care of and loved by a professional staff.
+
+# sent_id = 1865
+# text = Great service great people
+
+# sent_id = 1866
+# text = Bisconti wanted over $300 to fix my laptop and these guys fixed it for $90!
+
+# sent_id = 1867
+# text = Call them today!
+
+# sent_id = 1868
+# text = Had it fixed within a few days (had to order a part).
+
+# sent_id = 1869
+# text = Great manicure
+
+# sent_id = 1870
+# text = This place offers a great manicure and pedicure.
+
+# sent_id = 1871
+# text = My nails looked great for the better part of 2 weeks!
+
+# sent_id = 1872
+# text = Also very friendly and the stylists are not in the "been there / done that" mood!
+
+# sent_id = 1873
+# text = Fast service called them one hour ago and they just left my house five minutes ago.
+
+# sent_id = 1874
+# text = My house already feels fresh and good thanks to the Battery Park Pest I am much better enjoying my time indoors.
+
+# sent_id = 1875
+# text = No feathers in stock!!!!
+
+# sent_id = 1876
+# text = When I went to Mother Plucker I was very upset, they had no feathers and the quality is terrible.
+
+# sent_id = 1877
+# text = I had to dig in a bag to find one nice feather, what a joke!
+
+# sent_id = 1878
+# text = Gets the job done
+
+# sent_id = 1879
+# text = We have now utilized Mr. Pozza and his firm twice in our family and have been very pleased both times.
+
+# sent_id = 1880
+# text = I would not hesitate to use him again or refer him to my family or friends.
+
+# sent_id = 1881
+# text = Farrell Electric is a very good electrical contractor.
+
+# sent_id = 1882
+# text = I'm pleased that someone referred me to them for my commercial business.
+
+# sent_id = 1883
+# text = I own a property management firm and need a contractor with the credentials that Farrell Electric has.
+
+# sent_id = 1884
+# text = Cleanest guesthouse i've been to
+
+# sent_id = 1885
+# text = Stayed here for 2 nights.
+
+# sent_id = 1886
+# text = The owner was very friendly and helpful.
+
+# sent_id = 1887
+# text = The rooms were very clean and the breakfast was excellent.
+
+# sent_id = 1888
+# text = Good location and off road parking made our stay very convenient.
+
+# sent_id = 1889
+# text = These guys do great work at very reasonable prices.
+
+# sent_id = 1890
+# text = I've use them four times for fixing items from pushing out a dent in a bumper to fixing the fender on my beloved Miata.
+
+# sent_id = 1891
+# text = I have never been disappointed.
+
+# sent_id = 1892
+# text = Don't waste your money on the jukebox
+
+# sent_id = 1893
+# text = The bartender is a douchebag and he has a little console behind the bar where he can delete songs he doesn't like, and you end up paying for it.
+
+# sent_id = 1894
+# text = Not enough seating.
+
+# sent_id = 1895
+# text = Spoken english rushi
+
+# sent_id = 1896
+# text = Ever & never can forget the training undergoing here which made my life step onto the successful job without any hurdles.
+
+# sent_id = 1897
+# text = The staff, material provided, infra structure, environment & low fees totally above the satisfactory mark
+
+# sent_id = 1898
+# text = Rubbish
+
+# sent_id = 1899
+# text = To deliver to Chatham took + 1 hour, hair in food, driver did not know area.
+
+# sent_id = 1900
+# text = Noticed a few of these cookie cutter places opening in Summit and New Providence.
+
+# sent_id = 1901
+# text = Stick to Hop Hing, 20 + year resident.
+
+# sent_id = 1902
+# text = Great place
+
+# sent_id = 1903
+# text = Really great service and kind staff.
+
+# sent_id = 1904
+# text = The haircut was inexpensive (eyebrows were cheap!) and so were the salon services.
+
+# sent_id = 1905
+# text = It's a nice, relaxed place to get stuff done and relax.
+
+# sent_id = 1906
+# text = I plan on going again.
+
+# sent_id = 1907
+# text = Amazing customer service
+
+# sent_id = 1908
+# text = I think the women at this salon know that their business is based primarily from referrals.:)
+
+# sent_id = 1909
+# text = They were amazingly hospitable.
+
+# sent_id = 1910
+# text = Edit was the best massage therapist I have ever had and I would highly recommend her!
+
+# sent_id = 1911
+# text = Good outside, bad inside
+
+# sent_id = 1912
+# text = The apartment only looks good outsize, inside is too bad.
+
+# sent_id = 1913
+# text = Too many bugs some you never even seen before.
+
+# sent_id = 1914
+# text = The attitude of some staff is terrible, didn't solve anything only say i can do nothing.
+
+# sent_id = 1915
+# text = Great tmobile service
+
+# sent_id = 1916
+# text = I was with verizon and I checked my service with tmobile and it was great so I thought I would try tmobile.
+
+# sent_id = 1917
+# text = It turned out being very good quality tmobile service and I was happy with the new tmobile phone.
+
+# sent_id = 1918
+# text = Walgreens on University
+
+# sent_id = 1919
+# text = My pharmacy order is always correct and promptly delivered but the pharmacy staff are always very short with me and do not seem to like answering questions.
+
+# sent_id = 1920
+# text = Clean store, check-out staff friendly up front.
+
+# sent_id = 1921
+# text = Good selection.
+
+# sent_id = 1922
+# text = Great place!
+
+# sent_id = 1923
+# text = Love this place!!
+
+# sent_id = 1924
+# text = Has another store in the st. charles mall.
+
+# sent_id = 1925
+# text = Place is next to carval and walmart.
+
+# sent_id = 1926
+# text = Don't go to the one by pepco, I got confused!!!
+
+# sent_id = 1927
+# text = Bad place.
+
+# sent_id = 1928
+# text = Go to ATLANTIC WIRELESS!!
+
+# sent_id = 1929
+# text = I love them!!!
+
+# sent_id = 1930
+# text = Best dentist ever-
+
+# sent_id = 1931
+# text = Very fast and efficient service.
+
+# sent_id = 1932
+# text = I have had several dentists in my life, but Dr. Deters is by far my favorite.
+
+# sent_id = 1933
+# text = I never wait more than two minutes in the waiting room and the cleanings are quick and painless.
+
+# sent_id = 1934
+# text = This is a great place to shop.
+
+# sent_id = 1935
+# text = I have been a regular customer at this store since it opened, and love the fact that all of the employees are friendly locals.
+
+# sent_id = 1936
+# text = She, particularly the lady who operates the front register is very kind!
+
+# sent_id = 1937
+# text = Amazing
+
+# sent_id = 1938
+# text = Absoul is the greatest donair man on the planet.
+
+# sent_id = 1939
+# text = Highly recommended.
+
+# sent_id = 1940
+# text = If you enjoy amazing things, you must go to World's Finest Donair.
+
+# sent_id = 1941
+# text = Lest you be lame!!!
+
+# sent_id = 1942
+# text = I give this place 11 / 10.
+
+# sent_id = 1943
+# text = Up 3 thumbs.
+
+# sent_id = 1944
+# text = Bon appetit!
+
+# sent_id = 1945
+# text = Great quality doors and great quality people!
+
+# sent_id = 1946
+# text = The door is easy to use and it keeps the cold out during the winter.
+
+# sent_id = 1947
+# text = The sales staff and the installation staff were all easy to get along with.
+
+# sent_id = 1948
+# text = I highly recommend Garage Pros to my friends.
+
+# sent_id = 1949
+# text = Umm...
+
+# sent_id = 1950
+# text = Okay, I don't have a review, but why in the hell would you name your business something that has the initials KKK.... at this place there is something behind the scenes?
+
+# sent_id = 1951
+# text = I'm like legitimately concerned at this point lol...
+
+# sent_id = 1952
+# text = Fresh and excellent quality
+
+# sent_id = 1953
+# text = From here we order take out all the time and we're never disappointed.
+
+# sent_id = 1954
+# text = The food is always fresh and delicious.
+
+# sent_id = 1955
+# text = It can be a little on the spicy side but just ask them what exactly you want and they are very helpful.
+
+# sent_id = 1956
+# text = Since I work right around the corner I really want to like this place.
+
+# sent_id = 1957
+# text = Unfortunately, I have given it a couple of tries at different times and decided to stop going.
+
+# sent_id = 1958
+# text = The employees really don't seem to enjoy what they're doing and it shows.
+
+# sent_id = 1959
+# text = Class act.
+
+# sent_id = 1960
+# text = It was late in the day and I was worried I would get charged an arm and a leg and have to wait forever.
+
+# sent_id = 1961
+# text = They picked up my car in Yarmouth and towed to Bath for a great price.
+
+# sent_id = 1962
+# text = Would do business with them again.
+
+# sent_id = 1963
+# text = Great service
+
+# sent_id = 1964
+# text = We at R&L Plumbing Services are pleased with your professionalism and the extra mile you went to get our computers working correctly, if anything happens again you will be our first call and we will refer you to other people with computer issues.
+
+# sent_id = 1965
+# text = Don't judge a book by its cover
+
+# sent_id = 1966
+# text = Ichiban looks from the outside like it will be terrible.
+
+# sent_id = 1967
+# text = This could not be farther from the truth.
+
+# sent_id = 1968
+# text = The food is amazing, and the prices cannot be beat.
+
+# sent_id = 1969
+# text = The sushi is great, and they have a great selection.
+
+# sent_id = 1970
+# text = Great work!
+
+# sent_id = 1971
+# text = The people at Gulf Coast Siding were very easy and clear to work with.
+
+# sent_id = 1972
+# text = They walked me through all the steps involved in the the installation project so that there were no surprises.
+
+# sent_id = 1973
+# text = I found them extremely professional and would highly recommend them.
+
+# sent_id = 1974
+# text = Thanks
+
+# sent_id = 1975
+# text = Natasha
+
+# sent_id = 1976
+# text = Training with Natasha a real pleasure.
+
+# sent_id = 1977
+# text = Always professional and reliable, sessions are good fun and suitably challenging.
+
+# sent_id = 1978
+# text = She really listens to what you would like it is to achieve, and I'm very happy with my results.
+
+# sent_id = 1979
+# text = I would highly recommend her services.
+
+# sent_id = 1980
+# text = Slow service
+
+# sent_id = 1981
+# text = I used to take my cars there all the time, but management changes hands too frequently, the service has been slow, and they often try to "add on" extra services, which is sometimes not needed.
+
+# sent_id = 1982
+# text = I don't go there anymore
+
+# sent_id = 1983
+# text = Great service
+
+# sent_id = 1984
+# text = These people were so helpful this week and did everything to sort out my windscreen and insurance.
+
+# sent_id = 1985
+# text = It was all sorted with no hassle at all and I'm really grateful-they were fab.
+
+# sent_id = 1986
+# text = The best customer service I've come across for long time.
+
+# sent_id = 1987
+# text = Absolutely amazing job!
+
+# sent_id = 1988
+# text = Dress maker / Susanna is the best tailor I've ever come across in my whole life!
+
+# sent_id = 1989
+# text = She makes every item fit you perfectly.
+
+# sent_id = 1990
+# text = She's always so busy, too, which is a good indication of her talent.
+
+# sent_id = 1991
+# text = She's the best!
+
+# sent_id = 1992
+# text = Teeth
+
+# sent_id = 1993
+# text = This dentist always want to pull the teeth out.. always wants to do the cheapest for his benefit unless.. not he knows you.
+
+# sent_id = 1994
+# text = And hopefully you don't know the same people because he tells others about your payment status.
+
+# sent_id = 1995
+# text = Which should be a private issue
+
+# sent_id = 1996
+# text = I hired this company to unlock my car.
+
+# sent_id = 1997
+# text = The price they gave was good so I said hey this seems great.
+
+# sent_id = 1998
+# text = After they showed up there was a little trouble to get my car unlocked, it took quite a bit of time but the job was done well.
+
+# sent_id = 1999
+# text = Bulwark regarding service by Eric
+
+# sent_id = 2000
+# text = Just wanted you to know that Eric came by today as scheduled and sprayed our house for scorpions.
+
+# sent_id = 2001
+# text = So he took his time he seemed to understand how important it was for us to make sure the whole house was sprayed.
+
+# sent_id = 2002
+# text = Thank you!
+
+# sent_id = 2003
+# text = A terrible experience!
+
+# sent_id = 2004
+# text = I remain unhappy.
+
+# sent_id = 2005
+# text = I still have noticeable scarring.
+
+# sent_id = 2006
+# text = I still have surgically induced hair loss.
+
+# sent_id = 2007
+# text = My results were just awful.
+
+# sent_id = 2008
+# text = My post-op treatment was terrible.
+
+# sent_id = 2009
+# text = I would not recommend this place last year, and I would certainly not recommend them this year.
+
+# sent_id = 2010
+# text = Hidden treasure.
+
+# sent_id = 2011
+# text = It's not asian strip mall!
+
+# sent_id = 2012
+# text = Go in and you won't think you're in Chesapeake.
+
+# sent_id = 2013
+# text = The setting feels like a sushi bar in NYC; small, cozy, but with flair.
+
+# sent_id = 2014
+# text = Get great service, fantastic menu, and relax.
+
+# sent_id = 2015
+# text = So far best in HR!
+
+# sent_id = 2016
+# text = Excellent medical care!!!!!!
+
+# sent_id = 2017
+# text = Highly recommend
+
+# sent_id = 2018
+# text = I went to this urgent care center and was blown away with their service.
+
+# sent_id = 2019
+# text = Finally a convenient place close to home.
+
+# sent_id = 2020
+# text = Wonderful staff and physician.
+
+# sent_id = 2021
+# text = Clean and superb.
+
+# sent_id = 2022
+# text = Thanks for the great care!!!!
+
+# sent_id = 2023
+# text = Definitely will go back when I need medical care.
+
+# sent_id = 2024
+# text = Excellence in glasgow
+
+# sent_id = 2025
+# text = I've just had my rear bmw z3 window replaced by the guys at kelvin trimmers.
+
+# sent_id = 2026
+# text = The team who work there are helpfull, friendly and extremely knowledgeable and will help you as much as they can with thier years of hands on practice.
+
+# sent_id = 2027
+# text = Highly recomended.
+
+# sent_id = 2028
+# text = My favorite place...
+
+# sent_id = 2029
+# text = My daughter and I stayed here from the 7th again to the 14th of December.
+
+# sent_id = 2030
+# text = It was a great stay yet again from beginning to end.
+
+# sent_id = 2031
+# text = Okay at times our room was noisy but in a mega busy city we were at an extremely busy time of year.
+
+# sent_id = 2032
+# text = A definite no
+
+# sent_id = 2033
+# text = Incompetent servers, kitchen and management.
+
+# sent_id = 2034
+# text = Expect either undercooked or mushy food and lackluster service.
+
+# sent_id = 2035
+# text = The investors put big bucks into the building but are clueless about what makes a good dining or bar experience.
+
+# sent_id = 2036
+# text = Even the least discriminating diner would know not to eat at Sprecher's.
+
+# sent_id = 2037
+# text = Wonderful atmosphere
+
+# sent_id = 2038
+# text = I've been going there since I was a little girl and love the friendly and relaxing atmosphere.
+
+# sent_id = 2039
+# text = Dr. Stiefvater has always been very professional and helpful.
+
+# sent_id = 2040
+# text = I would recommend Bayside Chiropractic to anyone who is in need of a regular adjustment or is suffering from a chronic condition.
+
+# sent_id = 2041
+# text = Channel guide
+
+# sent_id = 2042
+# text = Believe it or not, but the channel guide has been most helpful to my family members that visit and don't know where to start when it comes to watching satellite tv.
+
+# sent_id = 2043
+# text = I just give them guide and they can find anything they need.
+
+# sent_id = 2044
+# text = Thanks again, Directv.
+
+# sent_id = 2045
+# text = Michael helped shoot the majority of my firm's website and we could not have been happier.
+
+# sent_id = 2046
+# text = We went through six photographers to find the right photographers that would represent our firm in the light we wished to and Michael and his team made that happen.
+
+# sent_id = 2047
+# text = He's worth every penny.
+
+# sent_id = 2048
+# text = Average food and deathly slow service
+
+# sent_id = 2049
+# text = I have eaten here several times and every time the service is slower than slow.
+
+# sent_id = 2050
+# text = We even left one time after sitting at the table for 20 minutes and not being greeted with a drink order.
+
+# sent_id = 2051
+# text = Ridiculous.
+
+# sent_id = 2052
+# text = There must be a better mexican place in Rockland.
+
+# sent_id = 2053
+# text = I'm in love with the giant plate of nachos!
+
+# sent_id = 2054
+# text = However, last time I went my beer was warm and the service was so-so.
+
+# sent_id = 2055
+# text = I get that careless teenager kind of treatment from some of their staff... perhaps they should hire more serious adults to help serve / cook.
+
+# sent_id = 2056
+# text = Nice local bagel friendly place
+
+# sent_id = 2057
+# text = There might be bigger and more well known bagel places in the area but Family Bagels are nice people, small shop and incredibly friendly.
+
+# sent_id = 2058
+# text = We're happy with the quality and service we get at Family Bagels while other may be ok waiting in line at Town Bagel
+
+# sent_id = 2059
+# text = Very mediocre donuts!
+
+# sent_id = 2060
+# text = The donuts were very proofed over, making them stale and bready.
+
+# sent_id = 2061
+# text = The service was friendly and fast, but this just does not make up for the lacking-luster product.
+
+# sent_id = 2062
+# text = We tried 4 different style of donuts, they were all the same when it came to quality.
+
+# sent_id = 2063
+# text = A staple!
+
+# sent_id = 2064
+# text = I live in the neighborhood and this place is one of my favorites for a tasty, quick and inexpensive meal.
+
+# sent_id = 2065
+# text = Branch out and try something other than the Pad Thai, the curries are fantastic.
+
+# sent_id = 2066
+# text = Fast and friendly service, they know my order when I walk in the door!
+
+# sent_id = 2067
+# text = On time, clean and very nice
+
+# sent_id = 2068
+# text = I called over the weekend due to clogged kitchen sink.
+
+# sent_id = 2069
+# text = Scheduled appointment for Monday 8:30 morning.
+
+# sent_id = 2070
+# text = Rich was here before the scheduled time.
+
+# sent_id = 2071
+# text = He was very clean, very nice to work with and gave a very reasonable price.
+
+# sent_id = 2072
+# text = Highly recommend.
+
+# sent_id = 2073
+# text = Thanks Rich
+
+# sent_id = 2074
+# text = Seth K.
+
+# sent_id = 2075
+# text = Deep tissue massage helps with pain in neck and shoulders
+
+# sent_id = 2076
+# text = Seth provides deep tissue massage which has significantly reduced the pain in my neck and shoulders and added flexibility and movement back to the area.
+
+# sent_id = 2077
+# text = He listens and is excellent in diagnosing, addressing and explaining the specific issues and suggesting exercises to use.

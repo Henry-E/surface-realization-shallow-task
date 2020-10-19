@@ -14,6 +14,7 @@ def main():
     parser.add_argument('--conll_sents_file_name', help='')
     parser.add_argument(
         '--n_best', type=int, help='n_best option chosen in opennmt')
+    parser.add_argument('--leave_tokenized', action='store_true')
     args = parser.parse_args()
 
     with open(args.gen_sents_file_name) as in_file:
@@ -70,15 +71,20 @@ def main():
         # sent_tc_detok = ' '.join(
         #     [tok.replace('@-@', '-') for tok in sent_tc_detok.split()])
 
-        true_case_toks = [tok.replace('-', '@-@') for tok in true_case_toks]
-        sent_tc_detok = moses_detok.detokenize(true_case_toks)
-        sent_tc_detok = ptb_detok.detokenize(sent_tc_detok.split())
-        sent_tc_detok = ' '.join(
-            [tok.replace('@-@', '-') for tok in sent_tc_detok.split()])
+        if args.leave_tokenized:
+            sent_tc_tok = ' '.join(true_case_toks)
+            this_sent = '# sent_id = {}\n# text = {}'.format(
+                sent_id, sent_tc_tok)
+        else:
+            true_case_toks = [tok.replace('-', '@-@') for tok in true_case_toks]
+            sent_tc_detok = moses_detok.detokenize(true_case_toks)
+            sent_tc_detok = ptb_detok.detokenize(sent_tc_detok.split())
+            sent_tc_detok = ' '.join(
+                [tok.replace('@-@', '-') for tok in sent_tc_detok.split()])
 
-        sent_tc_detok = sent_tc_detok[0].upper() + sent_tc_detok[1:]
-        this_sent = '# sent_id = {}\n# text = {}'.format(
-            sent_id, sent_tc_detok)
+            sent_tc_detok = sent_tc_detok[0].upper() + sent_tc_detok[1:]
+            this_sent = '# sent_id = {}\n# text = {}'.format(
+                sent_id, sent_tc_detok)
         formatted_sents.append(this_sent)
         sent_id += 1
 

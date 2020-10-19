@@ -1,0 +1,3938 @@
+# sent_id = 1
+# text = It was the first structure to reach a height of 300 metres.
+
+# sent_id = 2
+# text = By 5.2 metres (17 ft), it is now taller than the Chrysler Building due to the addition of a broadcasting aerial at the top of the tower in 1957.
+
+# sent_id = 3
+# text = Excluding transmitters, the Eiffel Tower is the second tallest free-standing structure in France after the Millau Viaduct.
+
+# sent_id = 4
+# text = The top level's upper platform is 276 m (906 ft) above the ground-the highest observation deck to the public accessible in the european union.
+
+# sent_id = 5
+# text = Tickets can be purchased to ascend to the first and second levels by stairs or lift.
+
+# sent_id = 6
+# text = Although there is a staircase to the top level, it is usually accessible only by lift.
+
+# sent_id = 7
+# text = Sauvestre added decorative arches to the base of the tower, a glass pavilion to the first level, and other embellishments.
+
+# sent_id = 8
+# text = (then a 300-meter tower was considered a herculean engineering effort).
+
+# sent_id = 9
+# text = On May 12, a commission was set up to examine Eiffel's scheme and its rivals, which, all the proposals except Eiffel's was either impractical or lack in details, a month later that. decided
+
+# sent_id = 10
+# text = Eiffel was to receive all income from the commercial exploitation of the tower during the exhibition and for the next 20 years.
+
+# sent_id = 11
+# text = Prior to the Eiffel Tower's construction, no structure had ever been constructed to a height of at least 300 metres, and many people believed it was impossible.
+
+# sent_id = 12
+# text = These objections were a expression about the relationship between architecture and engineering of a long-standing debate in France.
+
+# sent_id = 13
+# text = And for twenty years.
+
+# sent_id = 14
+# text = We shall see stretching like a blot of ink the hateful shadow of the hateful column of sheet bolt metal.
+
+# sent_id = 15
+# text = In its way it will alson't be grandiose?
+
+# sent_id = 16
+# text = Indeed, Garnier was a member of the Tower Commission that had examined the various proposals, and had raised no objection.
+
+# sent_id = 17
+# text = A small "creeper" crane designed to move the tower up, was installed at this stage in each leg.
+
+# sent_id = 18
+# text = They made use of the guides for the lifts which were to be fitted in the four legs.
+
+# sent_id = 19
+# text = The critical stage of joining the legs at the first level was completed by the end of March 1888.
+
+# sent_id = 20
+# text = Although construction involved 300 on-site employees, and the use of movable gangways, guardrails and screens, only one person died due to Eiffel's safety precautions.
+
+# sent_id = 21
+# text = Roux, Combaluzier & Lepape used a pair of endless chains with rigid, articulated links to which the car was attached.
+
+# sent_id = 22
+# text = Smaller sprockets at the top guided the chains.
+
+# sent_id = 23
+# text = Installing lifts to the second level was more of a challenge because a straight track was impossible.
+
+# sent_id = 24
+# text = No french company wanted to undertake the work.
+
+# sent_id = 25
+# text = Five fixed sheaves were mounted higher up the leg, producing a arrangement similar to a block and tackle but acting in reverse, multiplying the stroke of the piston rather than the force generated.
+
+# sent_id = 26
+# text = The hydraulic pressure in the driving cylinder was produced by a large open reservoir on the second level.
+
+# sent_id = 27
+# text = The original lifts for the journey between the second and third levels were supplied by Léon Edoux.
+
+# sent_id = 28
+# text = A pair of 81 m (266 ft) hydraulic rams was mounted on the second level, reaching nearly halfway up to the third level.
+
+# sent_id = 29
+# text = The tower was a instant success with the public, entered service on May 26 and nearly 30,000 visitors made the 1,710-step climb to the top before the lifts.
+
+# sent_id = 30
+# text = Two searchlights mounted on a circular rail was used to illuminate various buildings of the exposition.
+
+# sent_id = 31
+# text = On the second level, the french newspaper Le Figaro had a office and a printing press, where a special Figaro de la Tour, were made, an Le souvenir.
+
+# sent_id = 32
+# text = There was also a pâtisserie.
+
+# sent_id = 33
+# text = At the top, there was a post office where visitors could send letters and postcards as a memento of their visit.
+
+# sent_id = 34
+# text = Famous visitors to the tower included the Prince of Wales Sarah Bernhardt, "Buffalo Bill", Cody and Thomas Edison (his Wild West show was a attraction at the exposition).
+
+# sent_id = 35
+# text = Eiffel invited Edison to his private apartment at the top of the tower, where Edison presented him with one of his phonographs, a new invention and one of the many highlights of the exposition.
+
+# sent_id = 36
+# text = Eiffel had a permit for the tower to stand for 20 years.
+
+# sent_id = 37
+# text = It was to be dismantled in 1909 when its ownership would revert to the City of Paris,.
+
+# sent_id = 38
+# text = Eiffel made use of his apartment at the top of the tower to carry out meteorological observations, and also used the tower to perform experiments on the action of air resistance on falling bodies.
+
+# sent_id = 39
+# text = Hydraulic pressure was provided by pressurised accumulators located near this mechanism.
+
+# sent_id = 40
+# text = On October 19 1901, Alberto Santos-Dumont, flying his No.6 airship, won a 100,000-franc prize offered by Henri Deutsch de la Meurthe for the first person to make a flight from St.
+
+# sent_id = 41
+# text = Cloud to the Eiffel Tower and back in less than half a hour.
+
+# sent_id = 42
+# text = Many innovations took place in the early 20th century at the Eiffel Tower.
+
+# sent_id = 43
+# text = In 1910, Father Theodor
+
+# sent_id = 44
+# text = Wulf measured radiant energy at the top and bottom of the tower.
+
+# sent_id = 45
+# text = Just two years later, austrian tailor Franz Reichelt died on 4 February 1912, after jumping from the first level of the tower (a height of 57 metres) to demonstrate his parachute design.
+
+# sent_id = 46
+# text = , at the outbreak of World War, hindering their advance in the tower and contributing to the allied victory at the First Battle of the Marne, I radio a transmitter located jammed german radio communications in 1914 on Paris seriously.
+
+# sent_id = 47
+# text = From 1925 to 1934, illuminated signs for Citroën adorned three of the tower's sides, making it the tallest advertising space in the world at the time.
+
+# sent_id = 48
+# text = A year later, pilot Leon Collet, was killed in February 1926 trying to fly under the tower.
+
+# sent_id = 49
+# text = His aircraft became entangled in a aerial belonging to a wireless station.
+
+# sent_id = 50
+# text = A bust of Gustave Eiffel by Antoine Bourdelle was unveiled at the base of the north leg on May 2 1929.
+
+# sent_id = 51
+# text = By the French, the lift cable were cut upon the german occupation of Paris in 1940.
+
+# sent_id = 52
+# text = The tower was closed to the public during the occupation and the lifts were not repaired until 1946.
+
+# sent_id = 53
+# text = When visiting, Paris
+
+# sent_id = 54
+# text = Hitler chose to stay on the ground.
+
+# sent_id = 55
+# text = When the Allies were nearing Paris in August 1944, Hitler ordered General Dietrich von Choltitz, the military governor of Paris, to demolish the tower along with the rest of the city.
+
+# sent_id = 56
+# text = Von Choltitz disobeyed the order.
+
+# sent_id = 57
+# text = Repairs took a year, and in 1957, the present radio aerial was added to the top.
+
+# sent_id = 58
+# text = In 1964, the Eiffel Tower was officially declared to be a historical monument by the Minister of Cultural affairs, André Malraux.
+
+# sent_id = 59
+# text = The plan was allegedly vetted by the company operating the tower out of fear that the french government could refuse permission for the tower to be restored in its original location.
+
+# sent_id = 60
+# text = These had been closed to the public between November and March because the water in the hydraulic drive tended to freeze.
+
+# sent_id = 61
+# text = The new cars operate in pairs, with one counterbalancing the other, and perform the journey in one stage, reducing the journey time to less than two minutes from eight minutes.
+
+# sent_id = 62
+# text = In 1983, the south pillar was fit electrically with a driven
+
+# sent_id = 63
+# text = Otis lift to serve the Jules Verne restaurant.
+
+# sent_id = 64
+# text = The motive power was moved to a electrically oil-filled new hydraulic hydraulic system, and the original water hydraulics was solely retained as a counterbalance system. the water system driven from
+
+# sent_id = 65
+# text = Robert Moriarty flew a Beechcraft Bonanza under the tower on March 31 1984.
+
+# sent_id = 66
+# text = Hackett made one of his first bungee jump from the top of the Eiffel Tower, using a special cord he had helped develop.
+
+# sent_id = 67
+# text = Thierry Devaux, along with mountain guide Hervé Calvayrac, while bungee jumping from the second floor of the tower, performed a series of acrobatic figures on 27 October 1991.
+
+# sent_id = 68
+# text = Facing the Champ de Mars, Devaux used a electric winch between figures to go back up to the second floor.
+
+# sent_id = 69
+# text = When firemen arrived, he stopped after the sixth jump.
+
+# sent_id = 70
+# text = On the tower, were installed to flashing lights and high-powered searchlights celebration on December 1999 for its "2000" countdown 31 the Year.
+
+# sent_id = 71
+# text = During the last three minutes of the year, the lights will turn on starting from the base of the tower and continuing on until it gets to the top to welcome 2000 with a huge fireworks show.
+
+# sent_id = 72
+# text = A exhibition above a cafeteria on the first floor commemorates this event.
+
+# sent_id = 73
+# text = The sparkly lighting continued for 18 months until July 2001.
+
+# sent_id = 74
+# text = The sparkling lights again was turn on on June 21 2003, and the display was planned to last for 10 years before they needed replacing.
+
+# sent_id = 75
+# text = The tower received its guest 200,000,000th on November 28 2002.
+
+# sent_id = 76
+# text = The tower has operated since 2003 at its maximum capacity of about 7 million visitors.
+
+# sent_id = 77
+# text = In 2004, the Eiffel Tower began hosting a seasonal ice rink on the first level.
+
+# sent_id = 78
+# text = A glass floor was installed on the first level during the 2014 refurbishment.
+
+# sent_id = 79
+# text = Additionally, a cubic box would contain 6,200 ton of air, surrounding almost as much as the iron itself weighing the tower (324 m 125 x m x 125 m).
+
+# sent_id = 80
+# text = Eiffel was accused of trying to create something artistic with no regard to the principles of engineering.
+
+# sent_id = 81
+# text = However, Eiffel and his team-experienced bridge builders-understood the importance of wind forces, and knew that if they were going to build the tallest structure in the world, they had to be sure it could withstand them.
+
+# sent_id = 82
+# text = He used graphical methods to determine the strength of the tower and empirical evidence to account for the effects of wind, rather than a mathematical formula.
+
+# sent_id = 83
+# text = Close examination of the tower reveals a basically exponential shape.
+
+# sent_id = 84
+# text = The top half was even assumed to have no gaps in the latticework.
+
+# sent_id = 85
+# text = Since it was completed, engineers have put various mathematical hypotheses forward in the years in a attempt to explain the success of the design.
+
+# sent_id = 86
+# text = After the exposition closed, the flemish restaurant was converted to a 250-seat theatre.
+
+# sent_id = 87
+# text = Around the outside of the first level promenade ran wide a 2.6-metre (8 ft in 6).
+
+# sent_id = 88
+# text = The average journey time between levels is 1 minute.
+
+# sent_id = 89
+# text = Eiffel chose this "invocation" of science because of his concern over the artists's protest.
+
+# sent_id = 90
+# text = At the beginning of the 20th century, the engravings were painted over, but they were restored by the Nouvelle de la Tour Eiffel, a company operating the tower in 1986-87 d'exploitation Société.
+
+# sent_id = 91
+# text = In reality, only a small number of tall buildings, have a clear view of the tower since zoning restrictions limit the height of most buildings in Paris to seven storeys.
+
+# sent_id = 92
+# text = As recently lead paint was still being used as 2001 when the practice was stopped out of concern for the environment.
+
+# sent_id = 93
+# text = On 2010 November 7, Pope Benedict
+
+# sent_id = 94
+# text = XVI consecrated the church and proclaimed it a minor basilica.
+
+# sent_id = 95
+# text = On March 19 1882 del, construction of the Sagrada Família began under architect Francisco de Paula Villar.
+
+# sent_id = 96
+# text = Gaudí devoted the remainder of his life to the project, and he is buried in the crypt.
+
+# sent_id = 97
+# text = At the time of his death in 1926, less than an quarter of the project were complete.
+
+# sent_id = 98
+# text = Relying solely on private donations, the Sagrada Família's construction progressed slowly and was interrupted by the spanish Civil War.
+
+# sent_id = 99
+# text = However, some of the project 'greatest challenges remain, including the construction of ten more spires, each symbolising a important biblical figure in the New Testament.
+
+# sent_id = 100
+# text = The apse crypt was completed on March 18 1883 before Villar's resignation, when Antoni Gaudí assumed responsibility for its design, which he radically changed.
+
+# sent_id = 101
+# text = Gaudi began work on the church but in 1883 was not appointed architect director until 1884.
+
+# sent_id = 102
+# text = After Gaudí's death, work continued under the direction of Domènec Sugrañes i Gras until interrupted in 1936 by the spanish Civil War.
+
+# sent_id = 103
+# text = Parts and Gaudí's models and workshop of the unfinished basilica were destroyed by catalan anarchists during the war.
+
+# sent_id = 104
+# text = The present design is based on reconstructed versions of the plans that was burned in a fire as well as on modern adaptations.
+
+# sent_id = 105
+# text = The architects, Francesc Bonet i and Francesc Cardoner, have carried on the work since 1940, Lluís Quintana Gari Puig Boada Isidre.
+
+# sent_id = 106
+# text = The current director and son of Lluís Bonet, Jordi Bonet i Armengol, has been introducing computers design and into the construction process since the 1980.
+
+# sent_id = 107
+# text = Mark Burry of New Zealand serves as executive architect and researcher.
+
+# sent_id = 108
+# text = Barcelona-born Jordi Fauli took over in 2012 as chief architect.
+
+# sent_id = 109
+# text = The central nave vaulting was completed in 2000 and the main tasks since then have been the construction of the transept vaults and apse.
+
+# sent_id = 110
+# text = As of 2006, work concentrated on the crossing and supporting structure for the main steeple of Jesus Christ as well as the southern enclosure of the central nave, which will become the Glory façade.
+
+# sent_id = 111
+# text = The church shares its site with the Sagrada Família Schools building, a school originally designed by Gaudí for the children of the construction workers in 1909.
+
+# sent_id = 112
+# text = Now, the building houses a exhibition relocated from the eastern corner of the site to the southern corner in 2002.
+
+# sent_id = 113
+# text = Visitor entrance fees to 20 €finance of €15 budget the annual construction of €25 million.
+
+# sent_id = 114
+# text = Computer-aid design technology has been used to accelerate construction of the building.
+
+# sent_id = 115
+# text = Sagrada Família engineers and architects disagreed, saying there was no guarantee that the tunnel wouldn't affect the stability of the building.
+
+# sent_id = 116
+# text = Track in the tunnel makes use of a system by Edilon Sedra in which the rails are embedded in a elastic material to dampen vibrations.
+
+# sent_id = 117
+# text = No damage to the Sagrada Família has been reported to date.
+
+# sent_id = 118
+# text = Occasionally, Mass is celebrated at other times, where attendance requires a invitation.
+
+# sent_id = 119
+# text = When masses are scheduled, instructions to obtain a invitation are posted on the basilica's website.
+
+# sent_id = 120
+# text = In addition, visitors may pray in the chapel of the Blessed Sacrament and Penitence.
+
+# sent_id = 121
+# text = The sacristy was damaged, and the fire took 45 minutes to contain.
+
+# sent_id = 122
+# text = This is the first time the construction has been halted since the spanish Civil War.
+
+# sent_id = 123
+# text = The basilica reopened to initially key workers on 4 July 2020,.
+
+# sent_id = 124
+# text = The plan, influenced by Villar's crypt, barely hints at the complexity of Gaudí's design or its deviations from church traditional architecture, aside with this peculiarity.
+
+# sent_id = 125
+# text = Eight spires have been built as of 2010, corresponding to four apostles at the Nativity façade and four apostles at the passion façade.
+
+# sent_id = 126
+# text = The lower spires are surmounted, by communion hosts with sheaves of wheat and chalices with bunches of grapes representing the Eucharist.
+
+# sent_id = 127
+# text = Plans call for tubular bells to be placed within the spires, driven by the force of the wind, and driving down sound into the interior of the church.
+
+# sent_id = 128
+# text = Gaudí performed acoustic studies to achieve the appropriate acoustic results inside the temple.
+
+# sent_id = 129
+# text = However, only one bell is currently in place.
+
+# sent_id = 130
+# text = The completion of the spires will make Sagrada Família the tallest church building in the world.
+
+# sent_id = 131
+# text = These controversial designs are the work of Josep Maria Subirachs.
+
+# sent_id = 132
+# text = The Glory façade, on which construction began in 2002, will be the largest and most monumental of the three and will represent one's ascension to God.
+
+# sent_id = 133
+# text = It will also depict various scenes such as Hell, Purgatory, and will include elements such as the deadly Seven sin and the Seven heavenly virtues.
+
+# sent_id = 134
+# text = Dedicated to the birth of Jesus, it is decorated with scenes reminiscent of elements of life.
+
+# sent_id = 135
+# text = Either at side of the façade, two chameleons can be found in contrast to the figures of turtles and their symbolism, and are symbolic of change.
+
+# sent_id = 136
+# text = Above the door of Jesus the tree of Life rises in the portico of Charity.
+
+# sent_id = 137
+# text = Originally, Gaudí intended for this façade, to be polychromed for each archivolt to be paint with a wide array of colours.
+
+# sent_id = 138
+# text = The steeple were completed in 1976, and a team of sculptors, headed by Josep Maria Subirachs, began work sculpting the various scenes and details of the façade in 1987.
+
+# sent_id = 139
+# text = Gaudí intended for this façade to strike fear into the onlooker.
+
+# sent_id = 140
+# text = The scenes sculpted into the façade may be divided into three levels, which ascend in a form's and reproduce the stations of the Cross (via Crucis of Christ).
+
+# sent_id = 141
+# text = From last Jesus s night the lowest level depicts scenes before the crucifixion, Kiss, including the last Supper of Judas, Ecce homo, and the Sanhedrin trial of Jesus.
+
+# sent_id = 142
+# text = The death, Burial and the Resurrection of Christ can be seen in the third and final level.
+
+# sent_id = 143
+# text = The square is rotated and column and one number in each row is reduced by one so the rows and columns add up to 33 for a 4 x 4 magic square instead of the standard 34.
+
+# sent_id = 144
+# text = While Hell is left for those who deviate from God's will, it represents the road to God: death, final judgment, and Glory, dedicated to the Celestial Glory of Jesus.
+
+# sent_id = 145
+# text = On other projects
+
+# sent_id = 146
+# text = Carrer de Mallorca will have to go underground.
+
+# sent_id = 147
+# text = Purgatory and death will also be depicted, the latter using tombs along the ground.
+
+# sent_id = 148
+# text = The portico will have large seven columns dedicated to gifts of the Holy Spirit.
+
+# sent_id = 149
+# text = There will be representations of the Seven Deadly Sins, and the Seven Virtues at the top, at the base of the columns.
+
+# sent_id = 150
+# text = Sins: greed, lust, pride, gluttony, envy, sloth, wrath.
+
+# sent_id = 151
+# text = With the words inscribed with the Lord's prayer, these central doors are inscribed "give us our daily bread" in different fifty languages.
+
+# sent_id = 152
+# text = There are gaps in the floor of the apse, providing a view down into the crypt below.
+
+# sent_id = 153
+# text = Besides branching to support their load, their ever-changing surfaces are the result of the intersection of various geometric forms.
+
+# sent_id = 154
+# text = The simplest example is that of a square base evolving into a octagon as the column rise, then a sixteen-sided form, and eventually to a circle.
+
+# sent_id = 155
+# text = This effect is the result of a three-dimensional intersection of helicoidal columns for example (twisting a cross-section square column clockwise and a similar one twisting counter-clockwise).
+
+# sent_id = 156
+# text = At various points within the building, several additional organs will be installed to overcome the acoustical unique challenges posed by the church's architecture and vast size.
+
+# sent_id = 157
+# text = (after obviously more 1914) Gaudí used hyperboloid structures in later designs of the Sagrada Família.
+
+# sent_id = 158
+# text = For example, all around the scene with the pelican, there are numerous examples (including the basket held by one of the figures).
+
+# sent_id = 159
+# text = There is an hyperboloid adding structural stability to the cypress tree (by connecting it to the bridge).
+
+# sent_id = 160
+# text = And finally, the bishop's "mitre" spires are capped with hyperboloid structures.
+
+# sent_id = 161
+# text = The Nativity Façade is dedicated to his birth; it also has a cypress tree which symbolizes the tree of life.
+
+# sent_id = 162
+# text = The passion façade is symbolic of his suffering.
+
+# sent_id = 163
+# text = The apse steeple bears latin text of Hail Mary.
+
+# sent_id = 164
+# text = Of the lifetime of Christ, all in all the Sagrada Família is symbolic.
+
+# sent_id = 165
+# text = Walter Gropius praised the Sagrada Família, describing the building's walls as a "marvel of technical perfection".
+
+# sent_id = 166
+# text = The building's distinctive silhouette has nevertheless become itself symbolic of Barcelona, annually drawing a estimated 3 million visitors.
+
+# sent_id = 167
+# text = The inscription only includes the Crypt and the Nativity Façade.
+
+# sent_id = 168
+# text = Private patrons funded the initial stages.
+
+# sent_id = 169
+# text = Most of the funds would be directed to improve the access between the church and the Barcelona Metro.
+
+# sent_id = 170
+# text = The permit was issued on June 7 2019 by the city.
+
+# sent_id = 171
+# text = There are band numerous courses, balconies, and arched windows along the facade.
+
+# sent_id = 172
+# text = The building was converted to apartments in 1997.
+
+# sent_id = 173
+# text = Also, though the building faces Broadway with its main entrance on Broadway 71, it has entrances at 51-53 Trinity place.
+
+# sent_id = 174
+# text = This was a common setup for facades of buildings that were being erected in the late 19th and 20th early centuries.
+
+# sent_id = 175
+# text = Due to the difference in elevation between the front and the back of the building, the site slopes down from Broadway to Trinity Place, and there is an full-height storefront in the basement on Trinity Place.
+
+# sent_id = 176
+# text = A entrance arch was located in the middle of the facade.
+
+# sent_id = 177
+# text = In the two southern bays a recessed entrance designed by Walker & Gillette were installed in 1937–1938.
+
+# sent_id = 178
+# text = The lowest section of the shaft is the 5th floor, which is designed as a transition between the base and the upper floors.
+
+# sent_id = 179
+# text = There is a cornice above the 16th floor.
+
+# sent_id = 180
+# text = The capital is four stories tall with loggia and a metal cornice above the 20th floor.
+
+# sent_id = 181
+# text = The 21st story was added in 1928–1930.
+
+# sent_id = 182
+# text = A small terracotta tower is atop the south side of the 21st floor that holds the machine rooms for the elevators.
+
+# sent_id = 183
+# text = The caissons were intended to reduce disruption to other buildings during the excavation process.
+
+# sent_id = 184
+# text = The narrowness of the lot resulted in the inclusion of a extensive system of steel skeleton framing and bracing.
+
+# sent_id = 185
+# text = Since being converted to a residential building in 1997, the Empire building has included 238 apartments, which contain between square feet (49.9 to 106.1 m) of space 537 2 to 1,142.
+
+# sent_id = 186
+# text = The bottom 50 feet of each elevator shaft (15 m) slightly narrowed to create a "protective air" cushion, which used air pressure to slow down elevator cabs if they were to fall.
+
+# sent_id = 187
+# text = There were a inn in the late 18th century at rector Street and Broadway.
+
+# sent_id = 188
+# text = The brownstone became known as the Empire Building or Arcade Building.
+
+# sent_id = 189
+# text = Prior to the explosion, a building tenant had written a letter to the New York City Department of Buildings's commissioner, claiming that "the building violently was vibrated" and were unsafe.
+
+# sent_id = 190
+# text = The bombing was subsequently reclassified as a assassination attempt.
+
+# sent_id = 191
+# text = Kimball and Thompson filed plans for a limestone, brick, and terracotta building with the Department of Buildings in December 1895, and a permit to build was issued at the end of that month.
+
+# sent_id = 192
+# text = Construction on the above-ground structure started on June 1, 1897.
+
+# sent_id = 193
+# text = During the excavation, a cornerstone from the old Grace Church was found at the building site, as well as bones and numerous tombstones.
+
+# sent_id = 194
+# text = The arcade from the old building were kept within the new building.
+
+# sent_id = 195
+# text = The facade was completed on April 1898, 19, with the first tenants moving shortly afterward to the new building.
+
+# sent_id = 196
+# text = At the time of the Empire building's completion, it was one of the tallest buildings by floor count in New York City.
+
+# sent_id = 197
+# text = One of the earliest tenants at the Empire building was the U.S. Steel Corporation, which were founded in the building in 1901.
+
+# sent_id = 198
+# text = Kimball & Thompson also took offices in the Empire Building.
+
+# sent_id = 199
+# text = Blanche Potter later recalled that the sale took place at a time when the Potter family had experienced "financial worry", and U.S. Steel's purchase relieved them of such constraints.
+
+# sent_id = 200
+# text = In 1937, Walker & Gillette filed plans for major modifications to the Empire Building, which would cost $350,000.
+
+# sent_id = 201
+# text = The main entrance and the Trinity Place entrance on Broadway was refashioned in a Art deco style, and rector Street station were removed as part of the project, the connection to the Sixth Avenue's elevate.
+
+# sent_id = 202
+# text = The facade of the base were also redesigned, and the shops in the Empire Building's arcade were removed.
+
+# sent_id = 203
+# text = The Empire building remained U.S. Steel s headquarters until 1976, and the company remained in the building until the mid-1980s.
+
+# sent_id = 204
+# text = In 1984, Broadway West Street associates subsequently took ownership of the building.
+
+# sent_id = 205
+# text = From the media and from passersby on Broadway, the Empire Building received extensive attention during Strauss-Kahn's house arrest, and it was dubbed "a new tourist hot spot".
+
+# sent_id = 206
+# text = According to Schuyler, the building's value was increased by the fact that the entirety of the rector Street facade could be seen because of the churchyard's presence.
+
+# sent_id = 207
+# text = Architectural writer Sarah Bradford stated that the Empire Building "possesses quite a dignity and a assured elegance" Manhattan's earlier Life Building, unlike Kimball Landau.
+
+# sent_id = 208
+# text = "engineering problems of the Tall Building".
+
+# sent_id = 209
+# text = 13 :-413 via internet archive.
+
+# sent_id = 210
+# text = Landau Sarah, Condit, Carl W. (1996);.
+
+# sent_id = 211
+# text = Rise of the New York Skyscraper, 1865–1913.
+
+# sent_id = 212
+# text = "Historic structures report (pdf): Empire Building".
+
+# sent_id = 213
+# text = More memories: Orlando Bronson Potter and Frederick Potter.
+
+# sent_id = 214
+# text = Shockley, Jay (June 25, 1996).
+
+# sent_id = 215
+# text = The westernmost portions of its metro area, the Portuguese Riviera, form the westernmost point of Continental Europe, culminating at Cabo da Roca.
+
+# sent_id = 216
+# text = The Lisbon region has a higher gdp ppp per capita than any other region in Portugal.
+
+# sent_id = 217
+# text = The city occupies the 40th place of highest gross earnings in the world.
+
+# sent_id = 218
+# text = Most of the headquarters of multinational corporations in Portugal are located in the Lisbon area.
+
+# sent_id = 219
+# text = In the 8th century, it was captured by the Moors ruled by a series of germanic tribes from the 5th century.
+
+# sent_id = 220
+# text = Lisbon's name was written Ulyssippo in Latin by the geographer Pomponius Mela, a native of Hispania.
+
+# sent_id = 221
+# text = Lisbon's name is commonly abbreviated as "LX" or "LX", originating in a antiquated spelling of Lisbon as ''Lixbõa ''.
+
+# sent_id = 222
+# text = While the old spelling has been since completely dropped from usage and goes against modern language standards, the abbreviation is still used commonly.
+
+# sent_id = 223
+# text = The indo-european Celts invaded in the 1st millennium BC, mixing with the pre -indo-european population, thus giving rise to celtic-speaking local tribes such as the Cempsi.
+
+# sent_id = 224
+# text = According to a persistent legend, the location was named for the mythical Ulysses, who found the city when he westward sailed to the ends of the known world.
+
+# sent_id = 225
+# text = Decimus obtained the alliance of Olissipo (which sent men to fight by the alongside Roman Legions against the northwestern Celtic tribes, integrating it into the empire as the Municipium Cives Romanorum Felicitas Julia).
+
+# sent_id = 226
+# text = Lusitanian raids and rebellions during Roman occupation required the construction of a wall around the settlement.
+
+# sent_id = 227
+# text = Many of these ruins first was unearthe during the mid-18th century (when the recent discovery of Pompeii made Roman archaeology fashionable among Europe's upper classes).
+
+# sent_id = 228
+# text = The city prospered as piracy was eliminated and technological advances were introduced, Felicitas Julia became consequently a center of trade with the Roman provinces of Britannia and the Rhine (particularly Cornwall).
+
+# sent_id = 229
+# text = The city was connected by a broad road to other Hispania's large cities Bracara Augusta, in the province of Tarraconensis (Portuguese Braga), and Emerita Augusta, the capital of Lusitania were two.
+
+# sent_id = 230
+# text = Lived a large minority of greek traders and slaves among the majority of latin speakers.
+
+# sent_id = 231
+# text = Olissipo, for the dissemination of Christianity, was a center like most great cities in the Western Empire.
+
+# sent_id = 232
+# text = Its first attested Bishop was Potamius (c. 356), and there were several martyrs during the period of persecution of the Christians: Verissimus, Maxima, and Julia are the most significant examples.
+
+# sent_id = 233
+# text = By the time of the fall of Rome, Olissipo had become a christian notable center.
+
+# sent_id = 234
+# text = The Germanic Suebi, who established a kingdom in Gallaecia (modern Galicia and northern Portugal), with its capital in Bracara Augusta, also controlled the region of Lisbon until 585.
+
+# sent_id = 235
+# text = In 585, the Suebi Kingdom was integrated into the Germanic Visigothic Kingdom of Toledo, which comprised all of the Iberian Peninsula: then Lisbon was called Ulishbona.
+
+# sent_id = 236
+# text = On August 6 711, Lisbon was taken by muslim forces.
+
+# sent_id = 237
+# text = Islam was the official religion practised by the Arabs, Berbers, Zanj, Saqaliba and Muladi (muwalladun).
+
+# sent_id = 238
+# text = Lisbon was raided in 1108 and occupied by norwegian crusaders led by Sigurd me on their way to the Holy land as part of the norwegian Crusade and occupied by crusader forces for three years.
+
+# sent_id = 239
+# text = It was taken in 1111 by the Moorish Almoravids.
+
+# sent_id = 240
+# text = By Afonso, in 1147 of the Reconquista, crusader knights led as part of Portugal I besieged and reconquered Lisbon.
+
+# sent_id = 241
+# text = The result of the siege was a victory for the portuguese led by Nuno Álvares Pereira.
+
+# sent_id = 242
+# text = During the last centuries of the Middle Ages, the city substantially expanded and became a important trading post with both european and Mediterranean northern cities.
+
+# sent_id = 243
+# text = In 1506, 3,000
+
+# sent_id = 244
+# text = Jews was massacred in Lisbon.
+
+# sent_id = 245
+# text = This period saw the rise of the exuberant manueline style in architecture, which left it's mark in many 16th-century monuments (including Lisbon's Belém Tower Sites and Jerónimos Monastery), which was declared UNESCO World Heritage.
+
+# sent_id = 246
+# text = A description of Lisbon in the 16th century was written by Damião de Góis and published in 1554.
+
+# sent_id = 247
+# text = Under the spanish Habsburgs, the succession crisis of 1580 initiated a sixty-year period of dual monarchy in Portugal and Spain.
+
+# sent_id = 248
+# text = Since all three spanish kings during that period is called Philip (Filipe) this was referred to, as the "philippine Dominion" (Domínio filipino).
+
+# sent_id = 249
+# text = The portuguese restoration War, which began with a coup d'état organised by the nobility and bourgeoisie in Lisbon, and executed on December 1 1640 restored portuguese independence.
+
+# sent_id = 250
+# text = In the early 18th century, gold from Brazil allowed King John V to sponsor the building of several baroque churches and theatres in the city.
+
+# sent_id = 251
+# text = Oliver Wendell Holmes also, sr. mentions it in his 1857 poem, the deacon's Masterpiece, or the One wonderful-Hoss Shay.
+
+# sent_id = 252
+# text = Instead of rebuilding the medieval town, Pombal decided to demolish what remained after the earthquake and rebuild the city centre in accordance with principles of modern urban design.
+
+# sent_id = 253
+# text = The new King returned to Lisbon, many of the buildings and properties were pillaged, sacked or destroyed by the invaders by the time.
+
+# sent_id = 254
+# text = The principal areas was in the Baixa and along the Chiado district, where shops, tobacconists shops, cafx, bookstores, clubs and theatres proliferated.
+
+# sent_id = 255
+# text = Lisbon was the site of the regicide in 1908 of Carlos me of Portugal, a event which culminated two years later in the establishment of the First Republic.
+
+# sent_id = 256
+# text = The inauguration of the bridge over the Tagus allowed rapid connection between both sides of the river.
+
+# sent_id = 257
+# text = The first 5, the 1910 October revolution, brought a end to the portuguese monarchy and established the portuguese highly unstable and corrupt first Republic.
+
+# sent_id = 258
+# text = The June 6 1926 revolution would see the end of that first republic and firmly establish the Estado Novo, or the Portuguese Second republic, as the ruling regime.
+
+# sent_id = 259
+# text = In 1988, a fire in the historical district of Chiado saw the destruction of many 18th-century Pombaline style buildings.
+
+# sent_id = 260
+# text = The Lisbon Agenda was a european union agreement on measures to revitalise the EU economy, signed in Lisbon in March 2000.
+
+# sent_id = 261
+# text = In October 2007 Lisbon hosted the 2007 EU Summit, where a agreement was reached regarding a new EU governance model.
+
+# sent_id = 262
+# text = The resulting Treaty of Lisbon was signed on December 13 2007 and came into force on December 1 2009.
+
+# sent_id = 263
+# text = Lisbon, was the european Capital of Culture in 1994.
+
+# sent_id = 264
+# text = On November 3 2005, Lisbon hosted the MTV european Music awards.
+
+# sent_id = 265
+# text = On July 7 of the election, in the Luz Stadium, Lisbon held the ceremony of "New Wonders" the world with live transmission for millions of people over the world, 2007 all 7.
+
+# sent_id = 266
+# text = The city hosts the web Summit and is the head office for the Group of Seven Plus (G7 +).
+
+# sent_id = 267
+# text = In 2018 it hosted the Eurovision Song Contest for the first time as well as the Michelin Gala.
+
+# sent_id = 268
+# text = The westernmost part of Lisbon is occupied by the Monsanto Forest park, one of the largest in Europe, a urban 10 km2 (4 sq mi) park, and occupying 10% of the municipality.
+
+# sent_id = 269
+# text = The larger metropolitan Lisbon area includes the Setúbal Peninsula to the south.
+
+# sent_id = 270
+# text = In the 16th century, there were a brook there which the nobles used to promenade in their boats.
+
+# sent_id = 271
+# text = In the early 1990s, Alcântara began to attract youth because of the number of pubs and discothpque.
+
+# sent_id = 272
+# text = This was mainly due to its outer area of mostly commercial buildings, which acted as barriers to the noise-generating nightlife (which acted as a buffer to the residential communities surrounding it).
+
+# sent_id = 273
+# text = In the meantime, some of these areas began to gentrified, attracting loft developments and new flats, which have profited from its river views and central location become.
+
+# sent_id = 274
+# text = The riverfront of Alcântara is known for its nightclubs and bars.
+
+# sent_id = 275
+# text = During the Islamic invasion of Iberia, the Alfama constituted the largest part of the city, extending west to the Baixa neighbourhood.
+
+# sent_id = 276
+# text = While the 1755 Lisbon earthquake caused considerable damage throughout the capital, the Alfama survived with little damage, thanks to its compact labyrinth of narrow streets and small squares.
+
+# sent_id = 277
+# text = Fado, the portuguese style of melancholy music, typically is common (but not obligatory) in the restaurants of the district.
+
+# sent_id = 278
+# text = It takes it's name from the fact that the Muslims who remained was confined to this part of the city, after the reconquest of Lisbon.
+
+# sent_id = 279
+# text = Architectural models were tested by having troops march around them to simulate a earthquake.
+
+# sent_id = 280
+# text = The manufacturing districts and the industrial facilities by the riverside docks are the place of choice for contemporary art galleries, iconic bars, and gourmet restaurants that simmer in the streets.
+
+# sent_id = 281
+# text = In particular, it is the place from which Vasco da Gama departed for India in 1497 and Pedro Álvares Cabral for Brazil departed in 1499.
+
+# sent_id = 282
+# text = Belém's most famous feature is perhaps its tower, Torre de Belém, whose image is much used by Lisbon's tourist board.
+
+# sent_id = 283
+# text = Belém's major historical building's other dos Jerónimos (Jerónimos Monastery) which the Torre de Belém was partly built to defend, the Mosteiro.
+
+# sent_id = 284
+# text = Belém's most notable modern feature (Monument to the discoveries) built for the Portuguese World fair in 1940 the Padrão's dos Descobrimentos.
+
+# sent_id = 285
+# text = The Praça is do Império gardens in the heart of Belém: centred upon a large fountain, lay out during World War ii.
+
+# sent_id = 286
+# text = The most famous café of Chiado is a Brasileira, famous for having had poet Fernando Pessoa among its customers.
+
+# sent_id = 287
+# text = Several buildings of the Chiado was destroyed in a fire in 1988, a event that deeply shocked the country.
+
+# sent_id = 288
+# text = The ornate 18th-century Estrela Basilica, late is the main attraction of this district.
+
+# sent_id = 289
+# text = São Bento Palace, the seat of the portuguese parliament, and the official residences of the Prime Minister of Portugal and the President of the Assembly of the Republic of Portugal are in this district.
+
+# sent_id = 290
+# text = Also is Estrela Park in this district, a favorite with families.
+
+# sent_id = 291
+# text = The Parque das Nações is across the street.
+
+# sent_id = 292
+# text = There are two main climbing routes (known the summit from the southeast in Nepal "and the other as the standard route"), one approaching from the north in Tibet.
+
+# sent_id = 293
+# text = Seven porters were killed in a avalanche on the descent from the North Col.
+
+# sent_id = 294
+# text = Tenzing Norgay and Edmund Hillary made the official first ascent of Everest in 1953, using the southeast ridge route.
+
+# sent_id = 295
+# text = It is also popularly romanised as Jo-mo-glang-ma. as Chomolungma (and in Wylie)
+
+# sent_id = 296
+# text = Waugh's search for a local name was hampered by Nepal and Tibet's exclusion of foreigners.
+
+# sent_id = 297
+# text = Everest himself opposed the name suggested by Waugh and told the Royal Geographical Society in 1857 that "Everest" could not be written in Hindi nor pronounced by the "native of India".
+
+# sent_id = 298
+# text = Despite the objections Waugh's proposed name prevailed, and officially, the Royal Geographical Society adopted Mount Everest in 1865 as the name for the highest mountain in the world.
+
+# sent_id = 299
+# text = Starting in southern India, the survey teams northward moved using giant theodolites, each weighing 500 kg (1,100 lb) and requiring 12 men to carry, to measure heights as accurately as possible.
+
+# sent_id = 300
+# text = They reached the Himalayan foothills by the 1830s, but Nepal were unwilling to allow the British to enter the country due to suspicions of political aggression and possible annexation.
+
+# sent_id = 301
+# text = Several requests by the surveyors to enter Nepal were turned down.
+
+# sent_id = 302
+# text = The British was forced to continue their observations from Terai, a region south of Nepal which is parallel to the Himalayas.
+
+# sent_id = 303
+# text = Conditions in Terai were difficult because of torrential rains and malaria.
+
+# sent_id = 304
+# text = Weather restricted work to the last three months of the year.
+
+# sent_id = 305
+# text = Andrew Waugh, the British Surveyor General of India, made several observations from the Sawajpore station in November 1847 at the east end of the Himalayas.
+
+# sent_id = 306
+# text = Kangchenjunga then was considered the highest peak in the world, and with interest, he noted a peak away beyond it, about 230 km (140 m i).
+
+# sent_id = 307
+# text = John Armstrong, one of Waugh's subordinates, also saw the peak from a site farther west and called it "peak b".
+
+# sent_id = 308
+# text = Waugh would later write that the observations indicated that peak "b" was higher than Kangchenjunga, but closer observations were required for verification the great distance of the observations given,.
+
+# sent_id = 309
+# text = His raw data gave a average height of 9,200 m (30,200 ft) for "peak b", but this did not consider light refraction, which distorts heights.
+
+# sent_id = 310
+# text = However, the number clearly indicated that peak "b" was higher than Kangchenjunga.
+
+# sent_id = 311
+# text = Michael Hennessy, one of Waugh's assistants, had begun designating peaks based on Roman numerals, with Kangchenjunga named peak IX.
+
+# sent_id = 312
+# text = A official announcement that Peak XV were the highest was delayed for several years as the calculations were repeatedly verified.
+
+# sent_id = 313
+# text = In March 1856, he finally announced his findings in a letter to his deputy in Calcutta.
+
+# sent_id = 314
+# text = Kangchenjunga was declared to be 8,582 m (28,156 ft), while Peak XV was given the height of 8,840 m (29,002 ft).
+
+# sent_id = 315
+# text = Waugh concluded that "Peak XV was probably the most highest" in the world.
+
+# sent_id = 316
+# text = In both cases, the snow cap, not the rock head were measured.
+
+# sent_id = 317
+# text = A Everest American Expedition, directed by Bradford Washburn, anchored into the highest bedrock in May 1999 a gps unit.
+
+# sent_id = 318
+# text = As of 2001, although it hasn't been officially recognised by Nepal, this figure is widely quoted.
+
+# sent_id = 319
+# text = In the late 1980s, a even more detailed topographic map of the Everest area was made using extensive aerial photography, under the direction of Bradford Washburn.
+
+# sent_id = 320
+# text = A argument arose between China and Nepal whether to the official height should be the rock height (8,844 m, China) or the snow height (8,848, Nepal) m as.
+
+# sent_id = 321
+# text = Than Everest, Denali, in Alaska, also known as Mount McKinley, is taller as well by the same measure of base to summit.
+
+# sent_id = 322
+# text = Other samples were sheared so badly and recrystallyse that their original constituents could not be determined.
+
+# sent_id = 323
+# text = The Qomolangma Formation is broken up by several high-angle faults that terminate at the normal low angle fault, the Qomolangma Detachment.
+
+# sent_id = 324
+# text = This detachment separates it from the underlying Yellow Band.
+
+# sent_id = 325
+# text = Petrographic analysis of marble collected from about 8,300 m (27,200 ft) found it to consist as much as five percent of the ghosts of recrystallyse crinoid ossicles.
+
+# sent_id = 326
+# text = The five upper metres of the Yellow Band lying adjacent to the Qomolangma Detachment is badly deformed.
+
+# sent_id = 327
+# text = These leucogranite are part of a belt of late Oligocene-intrusive Miocene rocks known as the Higher Himalayan leucogranite.
+
+# sent_id = 328
+# text = The Cenozoic collision of India with Asia subsequently deformed as it thrusts them southward and upward and metamorphosed these strata.
+
+# sent_id = 329
+# text = A alpine cushion plant called Arenaria is known to grow below 5,500 metres (18,000 ft) in the region.
+
+# sent_id = 330
+# text = Yellow-billed choughs have been seen as high 7,900 metres (26,000 ft) and bar-headed geese over the Himalayas as migrate.
+
+# sent_id = 331
+# text = George Lowe (part of the expedition of Tenzing and Hillary) in 1953, said that he saw bar-headed geese flying over Everest's summit.
+
+# sent_id = 332
+# text = Yaks are often used to haul gear for Mount Everest climbs.
+
+# sent_id = 333
+# text = One common piece of advice for those in the Everest region is to be on the higher ground when around yaks and other animals, as they can knock people off the mountain if standing on the downhill edge of a trail.
+
+# sent_id = 334
+# text = The project was orchestrated by Stations at High Altitude for Research on the environment (share), which also place the Mount Everest webcam in 2011.
+
+# sent_id = 335
+# text = The solar-powered weather station is on the South Col.
+
+# sent_id = 336
+# text = One of the issues facing climbers is the frequent presence of high-speed winds.
+
+# sent_id = 337
+# text = The peak of Mount Everest extends into the upper troposphere and penetrates the stratosphere, which can expose it to the fast and freezing winds of the jet stream.
+
+# sent_id = 338
+# text = About one-third the air pressure at the summit is what it is at sea level, and by Bernoulli's principle, the winds can lower the pressure further, causing a additional percent 14 reduction in oxygen to climbers.
+
+# sent_id = 339
+# text = It may have been climbed in 1924, although this has never been confirmed as both of the men making the attempt failed to return from the mountain,.
+
+# sent_id = 340
+# text = The jet stream shifts north at certain times of the year, providing periods of relative calm at the mountain.
+
+# sent_id = 341
+# text = Other dangers include blizzards and avalanches.
+
+# sent_id = 342
+# text = By 2013, the Himalayan Database recorded 6,871 summits by 4,042 different people.
+
+# sent_id = 343
+# text = It was an exploratory expedition not equipped for a serious attempt to climb the mountain.
+
+# sent_id = 344
+# text = They climbed the North Col with Mallory to a altitude of 7,005 metres (22,982 ft) leading (and thus becoming the first european to set foot on Everest's flanks).
+
+# sent_id = 345
+# text = From there, Mallory espied a route to the top, but the party was unprepared for the great task of climbing any further and descended.
+
+# sent_id = 346
+# text = The british returned for a 1922 expedition.
+
+# sent_id = 347
+# text = Mallory was faulted for leading a group down from the North Col which got caught in a avalanche.
+
+# sent_id = 348
+# text = Seven native porters were killed.
+
+# sent_id = 349
+# text = The initial attempt by Mallory and Geoffrey Bruce were aborted when weather conditions prevented the establishment of Camp VI.
+
+# sent_id = 350
+# text = That the next attempt was of Norton and Somervell, who climbed without oxygen and in perfect weather, traversing the North Face into the Great Couloir.
+
+# sent_id = 351
+# text = Mallory rustle up oxygen equipment for a last-ditch effort.
+
+# sent_id = 352
+# text = On May 1 1999, Mallory and the Irvine Research Expedition found Mallory's body on the North Face below and to the west of the traditional site of Camp VI in a snow basin.
+
+# sent_id = 353
+# text = Controversy has raged in the mountaineering community whether one of them or both reached the summit 29 years in 1953 before the confirmed ascent and safe descent of Everest by Sir Edmund Hillary and Tenzing Norgay.
+
+# sent_id = 354
+# text = Tenzing's experience was useful when he was hired to be part in 1953 of the british expedition.
+
+# sent_id = 355
+# text = The first pair, Tom Bourdillon and Charles Evans, came within May 100 m of the summit (330 ft), but turned back after running into oxygen problems on 1953 26.
+
+# sent_id = 356
+# text = Two days later, the expedition made its second assault on the summit with the second climbing pair: the New Sherpa Zealander climber Edmund Hillary and Tenzing Norgay, a Nepali.
+
+# sent_id = 357
+# text = At local 11:30 time they reached the summit on May 1953 29 via the South Col route.
+
+# sent_id = 358
+# text = They paused at the summit to take photographs and buried a few sweet before descending and a small cross in the snow.
+
+# sent_id = 359
+# text = News of the expedition's success reached London on the morning of Queen Elizabeth II's coronation, June 2.
+
+# sent_id = 360
+# text = A few days later, the Queen gave orders that Hunt (a Briton) and Hillary (a New Zealander) was to be knighted for the ascent in the order of the British Empire.
+
+# sent_id = 361
+# text = Hunt was ultimately made a life peer in Britain, while Hillary became a founding member of the Order of New Zealand.
+
+# sent_id = 362
+# text = Hillary and Tenzing have also been recognised in Nepal.
+
+# sent_id = 363
+# text = This was followed on May 24 1957 by Dölf Reist and Hans-Rudolf von Gunten.
+
+# sent_id = 364
+# text = Jim Whittaker, joined by Nawang Gombu, reached the summit on May 1 1963, the first american to climb Everest.
+
+# sent_id = 365
+# text = "the centerpiece was a large" siege-style expedition lead by Saburo Matsukata, working on finding a new route up the southwest face.
+
+# sent_id = 366
+# text = Another element of the expedition was a attempt to ski Mount Everest.
+
+# sent_id = 367
+# text = For example, Yuichiro Miura became the first man to ski Everest down from the South Col (he descended nearly 4,200 vertical feet from the South Col before falling with extreme injuries).
+
+# sent_id = 368
+# text = Another success was a expedition that put four on the summit via the South Col route.
+
+# sent_id = 369
+# text = Miura's exploits became the subject of film, and he went on to become the oldest person to summit Mount Everest in 2003 at age and again in 2013 at the age of 80 70.
+
+# sent_id = 370
+# text = Junko Tabei, a japanese woman, in 1975, became the first woman to summit Mount Everest.
+
+# sent_id = 371
+# text = In 1978, Reinhold Messner and Peter Habeler made the first ascent of Everest without supplemental oxygen.
+
+# sent_id = 372
+# text = The team of 20 Polish climbers and 4 Sherpas established a base camp on Khumbu Glacier in early January 1980.
+
+# sent_id = 373
+# text = On January 15, the team managed to set up Camp iii at 7150 meters above sea level, but further action was stopped by hurricane-force winds.
+
+# sent_id = 374
+# text = Cichy and Wielicki started the final ascent at 6:50 am on February 17.
+
+# sent_id = 375
+# text = Bhutan is geopolitically in South Asia and is the region's least-second-populous nation after the Maldives.
+
+# sent_id = 376
+# text = Thimphu is its capital while Phuntsholing is its financial center, and the largest city.
+
+# sent_id = 377
+# text = Bhutan's independence has endured for centuries.
+
+# sent_id = 378
+# text = It has never been colonized in its history.
+
+# sent_id = 379
+# text = Based on Buddhism, the bhutanese state developed a distinct national identity situated on the ancient Silk Road between Tibet, the indian subcontinent and Southeast Asia.
+
+# sent_id = 380
+# text = Following a civil war in the 19th century, the House of Wangchuck reunited the country and established relations with the British Empire.
+
+# sent_id = 381
+# text = In the early 1990s, the government deported much of the country's nepali-speaking Lhotsampa minority, sparking a refugee crisis in nearby Jhapa, Nepal.
+
+# sent_id = 382
+# text = In 2008, Bhutan transitioned from an absolute monarchy to a constitutional monarchy and held the first election to the National Assembly of Bhutan.
+
+# sent_id = 383
+# text = Gangkhar Puensum is Bhutan's highest peak and may also be the highest unclimbed mountain in the world.
+
+# sent_id = 384
+# text = It continues to be a least developed country, but expects to graduate by 2023 from this status.
+
+# sent_id = 385
+# text = The government is a parliamentary democracy; the head of state is the King of Bhutan, known as the "Dragon King."
+
+# sent_id = 386
+# text = Bhutan maintains diplomatic relations with 52 countries and the european union, but does not have formal ties with the five permanent members of the United Nations Security Council.
+
+# sent_id = 387
+# text = It's a member of the United Nations, SAARC, BIMSTEC and the Non-Aligned Movement.
+
+# sent_id = 388
+# text = The Royal Bhutan
+
+# sent_id = 389
+# text = Army maintains a close relationship with the armed indian forces and armed Bangladesh forces.
+
+# sent_id = 390
+# text = Bhutan is also notable for pioneering the concept of gross National happiness.
+
+# sent_id = 391
+# text = Jean-Baptiste Tavernier's six 1676 Voyages is the first to record the name Boutan.
+
+# sent_id = 392
+# text = The modern distinction between the two didn't begin into the scottish explorer until well George Bogle's 1774 expedition.
+
+# sent_id = 393
+# text = The first time a separate Kingdom of Bhutan appeared on a western map, so it did under its local name "Broukpa".
+
+# sent_id = 394
+# text = The names, Lhomon Tsendenjong (sandalwood country), and Lhomon Khashi (country) have been found in bhutanese and tibetan ancient chronicles, or Southern Mon of four approaches.
+
+# sent_id = 395
+# text = Buddhism first was introduced to Bhutan in the 7th century ad.
+
+# sent_id = 396
+# text = Much of bhutanese early history is unclear because most of the records were destroyed when fire ravaged, Punakha in 1827, the ancient capital.
+
+# sent_id = 397
+# text = By the 10th century, Bhutan's political development were heavily influenced by its religious history.
+
+# sent_id = 398
+# text = Portuguese Jesuits Estêvão Cacella and João Cabral were the recorded first Europeans to visit Bhutan in 1627, on their way to Tibet.
+
+# sent_id = 399
+# text = After a stay of nearly eight months Cacella wrote a long letter from the Chagri Monastery reporting on his travels.
+
+# sent_id = 400
+# text = A peace treaty was signed in which Bhutan agreed to retreat to its pre -1730 borders.
+
+# sent_id = 401
+# text = However, the peace was tenuous, and border skirmishes with the British were to continue for the next hundred years.
+
+# sent_id = 402
+# text = After Bhutan lost the war, the Treaty of Sinchula was signed between british India and Bhutan.
+
+# sent_id = 403
+# text = In exchange, the Duars were ceded to the United Kingdom for a rent of Rs. as part of the war reparations
+
+# sent_id = 404
+# text = The treaty ended all hostilities between british India and Bhutan.
+
+# sent_id = 405
+# text = John Claude White, british Political Agent in Bhutan, took photographs of the ceremony.
+
+# sent_id = 406
+# text = In 1965, he set up a Royal Advisory Council, and he formed a Cabinet in 1968.
+
+# sent_id = 407
+# text = In 1971, Bhutan were admitted to the United Nations, having held observer status for three years.
+
+# sent_id = 408
+# text = In the 1990, Bhutan expelled most of its ethnic Lhotshampa population, one-fifth of the country's population, demanding conformity in religion, dress, and language.
+
+# sent_id = 409
+# text = In December 2005, Wangchuck announced that he would abdicate the throne in his son s favour in 2008.
+
+# sent_id = 410
+# text = On December 14 2006, he announced that he would be abdicating immediately.
+
+# sent_id = 411
+# text = On November 6, 2008 28-year-old
+
+# sent_id = 412
+# text = Jigme Khesar Namgyel Wangchuck was crown king.
+
+# sent_id = 413
+# text = The Black Mountains in Bhutan's central region form between a two major watershed river systems: Mo the Chhu and Chhu the Drangme.
+
+# sent_id = 414
+# text = The Torsa, Raidak, Sankosh, and Manas are Bhutan's main rivers, flowing through this region.
+
+# sent_id = 415
+# text = It has subsequently produced a National Biodiversity Strategy and Action plan, with the most recent two revisions, of which was received by the convention on 4 February 2010.
+
+# sent_id = 416
+# text = The endangered wild water buffalo occurs in southern Bhutan, although in small numbers.
+
+# sent_id = 417
+# text = More than 770 species of bird have been recorded in Bhutan.
+
+# sent_id = 418
+# text = The globally endangered white-winged duck has been recently added to Bhutan's bird list.
+
+# sent_id = 419
+# text = According to the swiss-based International Union for conservation of Nature, Bhutan is viewed as a model for proactive conservation initiatives.
+
+# sent_id = 420
+# text = Environmental conservation has been placed at the core of the nation's development strategy, the middle path.
+
+# sent_id = 421
+# text = Nearly 56.3% of all bhutanese are involved with agriculture, forestry or conservation.
+
+# sent_id = 422
+# text = For example, electric cars have been pushed in the country and make up a tenth of all cars as of 2014.
+
+# sent_id = 423
+# text = The reign monarch is Jigme Khesar Namgyel Wangchuck.
+
+# sent_id = 424
+# text = The current Prime Minister of Bhutan is Lotay Tshering, leader of the Druk Nyamrup Tshogpa Party.
+
+# sent_id = 425
+# text = The Druk Gyalpo (Dragon King) is the head of state.
+
+# sent_id = 426
+# text = The legal system originates from the semi-theocratic tsa
+
+# sent_id = 427
+# text = Yig code and were influenced during the 20th century by english common law.
+
+# sent_id = 428
+# text = The chief contestants were the Bhutan Peace and Prosperity Party (DPT) led by Jigme Thinley and the People s Democratic Party (PDP) led by Sangay Ngedup.
+
+# sent_id = 429
+# text = This leads to a limitation of their voices in government.
+
+# sent_id = 430
+# text = Bhutan also elected its first female Dzongda, in 2012, equivalent to a District Attorney, and its first female minister in 2013.
+
+# sent_id = 431
+# text = There has also been overall a gradual increase in women in power with a 68% increase in women representation from 2011 to 2016.
+
+# sent_id = 432
+# text = In Kalimpong the government of british India managed relations with the kingdom from the Bhutan House.
+
+# sent_id = 433
+# text = Relations with Nepal remained strained due to bhutanese refuge.
+
+# sent_id = 434
+# text = It became a founding member in 1985 of the South asian Association for Regional Cooperation (SAARC).
+
+# sent_id = 435
+# text = The country is a member of international 150 organizations, including the Bay of Bengal Initiative, BBIN, World Bank and the Group of 77, the international Monetary Fund.
+
+# sent_id = 436
+# text = The bhutanese royals were hosted by the japanese imperial family in 2011 during a state visit.
+
+# sent_id = 437
+# text = Japan is also helping Bhutan cope with glacial floods through developing a early warning system.
+
+# sent_id = 438
+# text = The bhutanese king was the guest of honour during celebrations of the 40th anniversary of Bangladesh's independence.
+
+# sent_id = 439
+# text = Only India, Bangladesh and Kuwait have residential embassies in Bhutan.
+
+# sent_id = 440
+# text = The United Kingdom has a honorary consul resident in Thimphu.
+
+# sent_id = 441
+# text = Without a passport or visa, indian and bhutanese citizen may travel to each other-standing agreement's countries, but must still have their national identity cards. by a long
+
+# sent_id = 442
+# text = Bhutanese citizen may also work in India without legal restriction.
+
+# sent_id = 443
+# text = The first bilateral agreement between China and Bhutan were signed in 1998 and Bhutan has also set up honorary consulates in the special administrative Regions of Hong Kong and Macau.
+
+# sent_id = 444
+# text = Bhutanese foreign Minister Khandu
+
+# sent_id = 445
+# text = Wangchuk took up the matter with chinese authorities after the issue was raised in the bhutanese parliament.
+
+# sent_id = 446
+# text = A indian intelligence officer said that a chinese delegation in Bhutan told the Bhutanese "they were overreacting".
+
+# sent_id = 447
+# text = The bhutanese newspaper
+
+# sent_id = 448
+# text = Kuensel said that China might use the roads to further chinese claims along the border.
+
+# sent_id = 449
+# text = The indo-Bhutan Friendship Treaty was substantially revised in February 2007.
+
+# sent_id = 450
+# text = The Indo-Bhutan Friendship Treaty of 2007 clarifies Bhutan's status as a independent and sovereign nation.
+
+# sent_id = 451
+# text = The city has been a major human settlement for over two millennia.
+
+# sent_id = 452
+# text = It is the most populous third city by population within city limits in the european Union.
+
+# sent_id = 453
+# text = Much longer, the site has been inhabited for making it one of the continuously occupied oldest cities in Europe, while Roman mythology dates the founding of Rome at BC around 753.
+
+# sent_id = 454
+# text = Rome is also called "Caput Mundi" (Capital of the World).
+
+# sent_id = 455
+# text = Over four hundred years, almost all popes since Nicholas V (1447-1455) pursued a architectural and urban coherent programme beginning with the Renaissance, aimed at making the city the artistic and cultural centre of the world.
+
+# sent_id = 456
+# text = In 1871, Rome became the capital of the Kingdom of Italy, which, in 1946, became the Italian Republic.
+
+# sent_id = 457
+# text = As of 2020, Rome is ranked as a global Alpha city by the Globalization and World city Research Network.
+
+# sent_id = 458
+# text = In 2019, Rome were the most visited 11th city in the world with 10.1 million tourists, the third most visited in the european Union, and the most popular tourist destination in Italy.
+
+# sent_id = 459
+# text = Rome's EUR business district is the home of many companies involved in the oil industry, the pharmaceutical industry, and financial services.
+
+# sent_id = 460
+# text = This aggregation was facilitated by the increase of agricultural productivity above the subsistence level, which also allowed the establishment of secondary and tertiary activities.
+
+# sent_id = 461
+# text = These in turn boosted the development of trade with the greek colonies of southern Italy (mainly Ischia and Cumae).
+
+# sent_id = 462
+# text = The view that Rome was deliberately found, BC in the middle of the eighth century, remains a fringe hypothesis as the legend of Romulus suggests, despite recent excavations at the Palatine hill.
+
+# sent_id = 463
+# text = The most familiar of these myths, and perhaps the most famous of all Roman myth, is the story of Romulus and Remus, the twins who were suckled by a she-wolf.
+
+# sent_id = 464
+# text = In addition, Strabo mentions a older story, that the city was a arcadian colony found by Evander.
+
+# sent_id = 465
+# text = Strabo also writes that Lucius Coelius Antipater believed that Rome was founded by Greeks.
+
+# sent_id = 466
+# text = The tradition handed down seven kings: Romulus Pompilius, Numa Hostilius, Ancus, Servius Tullius and Tarquinius Superbus. Marcius, Tarquinius Priscus, Tullus
+
+# sent_id = 467
+# text = In BC 509, the Romans expelled the last king from their city and established a oligarchic republic.
+
+# sent_id = 468
+# text = In the same period, the bankruptcy of the small farmers and the establishment of large slave estates caused large-scale migration to the city.
+
+# sent_id = 469
+# text = The continuous warfare led to the establishment of a professional army, which turned out to be more loyal to its generals than to the republic.
+
+# sent_id = 470
+# text = A major slave revolt under Spartacus followed, and then the establishment of the first triumvirate with Caesar, Pompey and Crassus.
+
+# sent_id = 471
+# text = His assassination led to a second triumvirate among Octavian, Mark Antony and Lepidus (Caesar's grandnephew and heir), and to another civil war between Octavian and Antony.
+
+# sent_id = 472
+# text = During the reign of Nero, two thirds of the city was ruined after the Great Fire of Rome, and the persecution of Christians commenced.
+
+# sent_id = 473
+# text = Rome was established as a facto de empire, which reached its greatest expansion in the second century under the Emperor Trajan.
+
+# sent_id = 474
+# text = Rome was confirmed as caput Mundi, i.e.
+
+# sent_id = 475
+# text = The Antonine age is considered the apogee of the Empire, whose territory ranged from the Atlantic Ocean to the Euphrates and from Britain to Egypt.
+
+# sent_id = 476
+# text = There was the so-called Gallic Empire from 260-274 and the revolts of Zenobia and her father from the mid-260 which sought to fend off Persian incursions.
+
+# sent_id = 477
+# text = Some regions-Britain, Spain, and North Africa-were hardly affected.
+
+# sent_id = 478
+# text = Instability caused economic deterioration, and as the government debased the currency in order to meet expenses there was a rapid rise in inflation.
+
+# sent_id = 479
+# text = The germanic tribes along the Rhine and north of the Balkans made serious, uncoordinated incursions from the 250s-280s that was more like giant raiding parties rather than attempts to settle.
+
+# sent_id = 480
+# text = Diocletian (284) Emperor undertook the restoration of the State.
+
+# sent_id = 481
+# text = He ended the Principate and introduced the Tetrarchy which sought to increase state power.
+
+# sent_id = 482
+# text = The emperor quickened the process of removing military command from governors.
+
+# sent_id = 483
+# text = Henceforth, and civilian military administration command would be separate.
+
+# sent_id = 484
+# text = He gave governors more fiscal duties and placed them in charge of the army logistical support system as a attempt to control it by removing the support system from its control.
+
+# sent_id = 485
+# text = Diocletian ruled the eastern half, residing in Nicomedia.
+
+# sent_id = 486
+# text = He was the last emperor of a unified empire: after his death in 395, his sons, Arcadius and Honorius divided the empire into a western and a eastern part.
+
+# sent_id = 487
+# text = The seat of government in the Western Roman Empire was transferred to Ravenna in 402 after the Siege of Milan.
+
+# sent_id = 488
+# text = The popes embellished the city with large basilicas (such as Santa Maria Maggiore), with the collaboration of the emperors.
+
+# sent_id = 489
+# text = The population of the city had fallen from 800,000 to 450–500,000 by the time the city was sacked in 455 by Genseric, king of the Vandals.
+
+# sent_id = 490
+# text = The large bath of Constantine on the Quirinale were even repaired in 443; and the extent of the damage exaggerated and dramatised.
+
+# sent_id = 491
+# text = However, the city gave a appearance of shabbiness and decay overall because of the large abandoned areas due to population decline.
+
+# sent_id = 492
+# text = The population decline coincided with few exceptions, with the general collapse of urban life in the West in the fifth and sixth centuries.
+
+# sent_id = 493
+# text = The figure of 450,000–500,000 is based on the amount of pork, 3,629,000 lbs.
+
+# sent_id = 494
+# text = Grain distribution to ticket holders 80,000 at the same time suggests 400,000 (Augustus set the number at 200,000 or one-fifth of the population).
+
+# sent_id = 495
+# text = The Bishops of Rome are also seen as the successors of Peter, who is considered the first Bishop of Rome (and was still seen by Catholics).
+
+# sent_id = 496
+# text = In 756, after having defeated the Lombards, the Short, Pepin gave the temporal Pope jurisdiction over the Roman Duchy and the Exarchate of Ravenna, thus creating the Papal States.
+
+# sent_id = 497
+# text = After the decay of carolingian power, Rome fell prey to feudal chaos: several noble families fought against the pope, the emperor, and each other.
+
+# sent_id = 498
+# text = The driving force behind this renewal was the monk Ildebrando da Soana who elected pope under the name of Gregory VII, once became involved into the Investiture Controversy against Emperor Henry IV.
+
+# sent_id = 499
+# text = This administration, in the 12th century, evolved into the commune, a new form of social organisation controlled by the new wealthy classes, like other european cities.
+
+# sent_id = 500
+# text = After the pope's death, Arnaldo was taken prisoner by Adrianus IV, which marked the end of the commune's autonomy.
+
+# sent_id = 501
+# text = The pope died in that period, summoned in Viterbo, and, the cardinals could not agree on his successor.
+
+# sent_id = 502
+# text = A new faithful pope to the French, was afterwards elected, and the papacy was briefly relocated to Avignon (1309-1377).
+
+# sent_id = 503
+# text = During this period
+
+# sent_id = 504
+# text = Rome was neglected, until a plebeian man, Cola di Rienzo, came to power.
+
+# sent_id = 505
+# text = A idealist and a lover of ancient Rome, after assuming power with the title of Tribuno, Cola dreamed about a rebirth of the Roman Empire: his reform were rejected by the populace.
+
+# sent_id = 506
+# text = The return of the pope to Rome in that year unleashed the Western Schism (1377-1418), and for the next forty years, the city was affected by the divisions which rocked the Church.
+
+# sent_id = 507
+# text = This brought a century of internal peace, which marked the beginning of the Renaissance to Rome.
+
+# sent_id = 508
+# text = Although was created on Roman foundations) majestic works as the Saint Peter's new Basilica, the Sistine Chapel and Ponte Sisto, (the first bridge to be built across the Tiber, since antiquity.
+
+# sent_id = 509
+# text = To accomplish that, the popes engaged the best artists of the time, including Michelangelo, Perugino, Raphael, Ghirlandaio, Luca Signorelli, Botticelli, and Cosimo Rosselli.
+
+# sent_id = 510
+# text = The corruption of the popes and the huge expenses for their building projects led in part, to the Reformation, and, in turn, the Counter-Reformation.
+
+# sent_id = 511
+# text = The Renaissance period dramatically changed the face of Rome, with works like the Pietà by Michelangelo and the frescos of the Borgia Apartments.
+
+# sent_id = 512
+# text = The Great St. Peter's Basilica built by Emperor Constantine (which was in a dilapidated state by then) was demolished and a new one begun. the old
+
+# sent_id = 513
+# text = Raphael in Rome, who became one of the most famous painters of Italy, created fresco in the Villa Farnesina, the Raphael's rooms, plus many other famous paintings.
+
+# sent_id = 514
+# text = Under the popes from Pius IV to Sixtus V, Rome became the centre of a reformed Catholicism and celebrated the building of new monuments which saw the papacy.
+
+# sent_id = 515
+# text = During the age of Enlightenment, new ideas reached the Eternal City, where the papacy supported archaeological studies and improve the people's welfare.
+
+# sent_id = 516
+# text = There was setbacks in the attempts to assert the Church's power, a notable example being in 1773 when Pope Clement XIV was forced by secular powers to have the Jesuit order suppressed.
+
+# sent_id = 517
+# text = After the fall of Napoleon, the Papal States was reconstituted by a decision of the Congress of Vienna of 1814.
+
+# sent_id = 518
+# text = In 1849 during a year of revolutions, a second Roman Republic was proclaimed in 1848.
+
+# sent_id = 519
+# text = Two of the most influential figures of the italian unification, Giuseppe Mazzini and Giuseppe Garibaldi, fight for the short-live republic.
+
+# sent_id = 520
+# text = Then Rome became the focus of hopes of italian reunification after the rest of Italy were united as the Kingdom of Italy in 1861 with the temporary capital in Florence.
+
+# sent_id = 521
+# text = Rome was still that year declared capital of Italy even though it was under the Pope's control.
+
+# sent_id = 522
+# text = The last vestiges of the Papal States, during the 1860s was thanks under french protection of Napoleon III to the foreign policy.
+
+# sent_id = 523
+# text = French troops were stationed in the region under Papal control.
+
+# sent_id = 524
+# text = Pope Pius IX declared himself a prisoner in the Vatican.
+
+# sent_id = 525
+# text = The capital of Italy were moved from Florence to Rome in 1871.
+
+# sent_id = 526
+# text = Mussolini demolished fairly large parts of the city center in order to build wide avenues and squares which was supposed to celebrate the fascist regime and the resurgence and glorification of classical Rome.
+
+# sent_id = 527
+# text = The interwar period saw a rapid growth in the city's population which surpassed one million inhabitants after 1930 soon.
+
+# sent_id = 528
+# text = Largely, during World War ii, Rome escaped the tragic destiny of other european cities due to the art treasury and the presence of the Vatican.
+
+# sent_id = 529
+# text = The city was occupied by the Germans on the date of the italian Armistice September 8 1943.
+
+# sent_id = 530
+# text = The Pope declared Rome a open city.
+
+# sent_id = 531
+# text = It was liberated on June 4 1944.
+
+# sent_id = 532
+# text = The letters EUR means Esposizione Universale Roma.
+
+# sent_id = 533
+# text = The EUR was also designed to direct the expansion of the city to the southwest and the sea and to become a new urban centre in Rome.
+
+# sent_id = 534
+# text = Due to its location in the european Plain, Berlin is influenced by a temperate seasonal climate.
+
+# sent_id = 535
+# text = After World War ii and its subsequent occupation by the victorious countries, the city was divided west Berlin became a german de facto exclave, surrounded by the Berlin Wall (1961–1989) and german East territory; west.
+
+# sent_id = 536
+# text = East Berlin was declared capital of East Germany, while Bonn became the west german capital.
+
+# sent_id = 537
+# text = Its Zoological Garden is the most visited zoo in Europe and one of the most popular worldwide.
+
+# sent_id = 538
+# text = The regions, east of the border rivers was inhabited by slavic tribes while the Frankish Realm was primarily inhabited by germanic tribes like the Franks and the Saxons.
+
+# sent_id = 539
+# text = Name suffix place are -ow, germanise suffixes of slavic origin, itz-vitz ,-witz, and-in-itzsch, are Windisch and Wendisch-prefixes.
+
+# sent_id = 540
+# text = The name Berlin has its roots in the language of slavic west inhabitants of the today's Berlin, and may be related to the old-birl ("Polabian berl-" stem) swamp / of area.
+
+# sent_id = 541
+# text = Since the Ber at the beginning-sounds like the german word (bear), Bär a bear appears in the coat of arms of the city.
+
+# sent_id = 542
+# text = Therefore it's a canting arm.
+
+# sent_id = 543
+# text = Spandau is first mentioned in 1209 in 1197 and Köpenick, although these areas did not join Berlin until 1920.
+
+# sent_id = 544
+# text = The central part of Berlin can be back traced to two towns.
+
+# sent_id = 545
+# text = In 1443, Frederick II Irontooth started the construction of a new royal palace in the twin city Berlin-Cölln.
+
+# sent_id = 546
+# text = Albrecht III Achilles, Berlin, Cölln with the new elector-became the new royal residence from 1470.
+
+# sent_id = 547
+# text = When John Cicero came to power, the Berlin-Cölln palace officially became permanent residence of the Brandenburg electors of the Hohenzollerns, from 1486.
+
+# sent_id = 548
+# text = However, Berlin-Cölln, had to give up its status as a free hanseatic city.
+
+# sent_id = 549
+# text = In 1539, the electors and the city officially became Lutheran.
+
+# sent_id = 550
+# text = Frederick William, known as the "Great Elector", who had succeed George his father as ruler in 1640, initiated a policy of promoting immigration and religious tolerance William.
+
+# sent_id = 551
+# text = Since 1618, the Margraviate of Brandenburg had been in personal union with the Duchy of Prussia.
+
+# sent_id = 552
+# text = Berlin became the capital of the new Kingdom, replacing Königsberg.
+
+# sent_id = 553
+# text = This was a successful attempt to centralise the capital in the very far-flown state, and it was the first time the city began to grow.
+
+# sent_id = 554
+# text = Also, Berlin became a center of the Enlightenment under the rule of Frederick ii, but during the Seven Years's War, were briefly occupied by the russian army.
+
+# sent_id = 555
+# text = In 1806, Napoleon Bonaparte marched into Berlin, following France's victory in the War of the Fourth Coalition but granted self-government to the city.
+
+# sent_id = 556
+# text = In 1881, it became a city district separate from Brandenburg.
+
+# sent_id = 557
+# text = By Philipp Scheidemann, a republic was proclaimed at the Reichstag building at the end of the First World War in 1918.
+
+# sent_id = 558
+# text = In 1933, Adolf Hitler and the Nazi Party came to power.
+
+# sent_id = 559
+# text = After the end of the war in Europe, Berlin received large numbers of refuge from the eastern provinces in May 1945.
+
+# sent_id = 560
+# text = The victorious powers divided the city into four sectors, analogous to the occupation zones which Germany was divided into.
+
+# sent_id = 561
+# text = The sectors of the Western Allies (the United States, the United Kingdom and France) formed West Berlin, while the Soviet sector formed East Berlin.
+
+# sent_id = 562
+# text = The Berlin airlift, conducted by the three western Allies, overcame this blockade by supplying food and other supplies to the city from June 1948 to May 1949.
+
+# sent_id = 563
+# text = Airline service to West Berlin were granted to only american, british and french airlines.
+
+# sent_id = 564
+# text = West Berlin was surrounded by german East territory, and East Germany proclaimed the eastern part as its capital, a move the western powers didn't recognize.
+
+# sent_id = 565
+# text = The german west government established itself in Bonn.
+
+# sent_id = 566
+# text = In 1961, East Germany began to build the Berlin Wall around West Berlin, and events escalated to a tank standoff at Checkpoint Charlie.
+
+# sent_id = 567
+# text = West Berlin was now de facto a part of West Germany with a unique legal status, while East Berlin was de facto a part of East Germany.
+
+# sent_id = 568
+# text = John F. Kennedy gave his "Ich bin ein Berliner" speech in 1963, underlining the US support for the western part of the city.
+
+# sent_id = 569
+# text = Travel by the government of East Germany, although it was possible to pass to the other side through strictly controlled checkpoints or West Germany for most Easterners was prohibited for Westerners to West Berlin.
+
+# sent_id = 570
+# text = In 1971, a four-power agreement guaranteed access to and from West Berlin by car or train through East Germany.
+
+# sent_id = 571
+# text = Today, the East Side Gallery preserves a large portion of the wall.
+
+# sent_id = 572
+# text = On 3 October 1990, the two parts of Germany was reunified as the Federal Republic of Germany and Berlin again became a reunified city.
+
+# sent_id = 573
+# text = Walter Momper, the mayor of West Berlin, became the first mayor of the reunified city in the interim.
+
+# sent_id = 574
+# text = On June 20 1991, the Bundestag (german Parliament) voted to move the seat of the german capital from Bonn to Berlin, which was completed in 1999.
+
+# sent_id = 575
+# text = In 2002, the german parliament voted to allow the reconstruction of the Berlin Palace, which started in 2013 and will be finished in 2019.
+
+# sent_id = 576
+# text = In Berlin, the FIFA World Cup final was held in 2006.
+
+# sent_id = 577
+# text = The Spree now follows this valley.
+
+# sent_id = 578
+# text = The course of the Havel is more like a chain of lakes, the largest being the Tegeler see and the Großer Wannsee.
+
+# sent_id = 579
+# text = The borough of Spandau partly lies within the Berlin Glacial Valley and partly on the Nauen Plain, which stretches to the west of Berlin.
+
+# sent_id = 580
+# text = Berlin's built-up area creates a microclimate, with heat stored by the city's buildings and pavement.
+
+# sent_id = 581
+# text = Temperatures can be 4 ° c in the city (° 7 f) higher than in the surrounding areas.
+
+# sent_id = 582
+# text = The city's appearance today is predominantly shaped by the key role it played in the 20th century in Germany's history.
+
+# sent_id = 583
+# text = Clusters of high-rise buildings emerge at disperse locations, e.g.
+
+# sent_id = 584
+# text = Is the Neptunbrunnen in front of it, a fountain featuring a mythological group of Tritons, personifications of the four main Prussian rivers and Neptune on top of it.
+
+# sent_id = 585
+# text = The Brandenburg Gate is a iconic landmark of Berlin and Germany; it stands as a symbol of european eventful history and of unity and peace.
+
+# sent_id = 586
+# text = The East Side Gallery is a open-air exhibition of art painted directly on the last existing portions of the Berlin Wall.
+
+# sent_id = 587
+# text = Restoration and construction of a main entrance to all museums, as well as reconstruction of the Stadtschloss continues.
+
+# sent_id = 588
+# text = Also is Berlin Cathedral on the island and next to the Lustgarten and palace, emperor William II's ambitious attempt to create a protestant counterpart to St. Peter 'Basilica in Rome.
+
+# sent_id = 589
+# text = St. Hedwig's cathedral Catholic is Berlin's Roman cathedral.
+
+# sent_id = 590
+# text = The is Kulturforum to the west of Potsdamer Platz, which houses the Gemäldegalerie, and is flanked by the Neue Nationalgalerie and the Berliner Philharmonie.
+
+# sent_id = 591
+# text = The nearby New Synagogue is the center of jewish culture.
+
+# sent_id = 592
+# text = Approximately halfway from the Brandenburg Gate is the Großer Stern, a circular traffic island on which the Siegessäule (Victory Column) is situated.
+
+# sent_id = 593
+# text = The church was destroyed in the Second World War and left in ruins.
+
+# sent_id = 594
+# text = Nearby on Tauentzienstraße is KaDeWe, claimed to be continental Europe's largest department store.
+
+# sent_id = 595
+# text = The Rathaus Schöneberg, where John F. Kennedy made his famous "Ich bin ein Berliner!"
+
+# sent_id = 596
+# text = West of the center, Bellevue Palace is the residence of the German President.
+
+# sent_id = 597
+# text = The Oberbaumbrücke over the Spree river is Berlin's most iconic bridge, connecting the now-combined burough of Friedrichshain and Kreuzberg.
+
+# sent_id = 598
+# text = The center portion was demolished in 1945 to stop the Red Army from crossing.
+
+# sent_id = 599
+# text = After the war, the repaired bridge served as a checkpoint and border crossing between the Soviet and american sectors, and later between East West and Berlin.
+
+# sent_id = 600
+# text = Since 1450, it is home to the University of Barcelona.
+
+# sent_id = 601
+# text = The common abbreviated form used by locals is Barna.
+
+# sent_id = 602
+# text = Another common abbreviation is' BCN ', which is also the iata airport code of the Barcelona-El Prat airport.
+
+# sent_id = 603
+# text = The founding of Barcelona is the subject of two different legends.
+
+# sent_id = 604
+# text = Under the Romans, it was a colony with the surname of Faventia, or, in full, Colonia Faventia Augusta Pia Barcino Julia or Colonia Julia Augusta Faventia Paterna Barcino.
+
+# sent_id = 605
+# text = It enjoyed immunity from imperial burdens.
+
+# sent_id = 606
+# text = The city minted its own coins; some from the era of Galba survive.
+
+# sent_id = 607
+# text = Barcelona was the leading slave trade centre up of the Crown of Aragon when it was eclipsed by Valencia, until the 15th century.
+
+# sent_id = 608
+# text = The bank of Barcelona (Taula de canvi), probably the oldest public bank in Europe, were established by the city magistrates in 1401.
+
+# sent_id = 609
+# text = It originated from necessities of the state, the Bank of Venice (1402) and the Bank of Genoa (as did 1407).
+
+# sent_id = 610
+# text = Madrid became the centre of political power whilst the colonisation of the Americas reduced the financial importance (at least relative terms in of Mediterranean trade).
+
+# sent_id = 611
+# text = Barcelona was a centre of catalan separatism, including the catalan Revolt (1640-52) against Philip IV of Spain.
+
+# sent_id = 612
+# text = The great plague of 1650-1654 halved the city's population.
+
+# sent_id = 613
+# text = The definitive metre bar, manufactured from platinum, was presented to the legislative french assembly on June 1799 22.
+
+# sent_id = 614
+# text = Many enterprises and public services were collectivised by the CNT and UGT unions.
+
+# sent_id = 615
+# text = As the power of the Republican government and the Generalitat diminished, were much of the city under the effective control of anarchist groups.
+
+# sent_id = 616
+# text = The anarchists lost control of the city, to their own allies, the Communists after the street fighting of the May Barcelona Days and official government troops.
+
+# sent_id = 617
+# text = The fall of the city on 26 January 1939, caused a mass exodus of civilians who flew to the french border.
+
+# sent_id = 618
+# text = The resistance of Barcelona to Franco's coup d'état was to have lasting effects after the defeat of the republican government.
+
+# sent_id = 619
+# text = The autonomous institutions of Catalonia was abolished, and the use of the catalan language in public life were suppressed.
+
+# sent_id = 620
+# text = As part of the preparation for the games, industrial buildings along the sea-front was demolished and two miles of beach were created.
+
+# sent_id = 621
+# text = The number of hotel rooms in the city, double between 1990 and 2004.
+
+# sent_id = 622
+# text = Pressure for change was particularly strong in Barcelona, which considered that it had been punished for its support of the republican government during nearly forty years of Francoism.
+
+# sent_id = 623
+# text = The process of urban regeneration has been rapid, and accompanied by a greatly increased international reputation of the city as a tourist destination.
+
+# sent_id = 624
+# text = On August 2017 17, a van was driven into pedestrians on La Rambla in the city, killing 14 and injuring at least 100, later one of whom died.
+
+# sent_id = 625
+# text = In Barcelona, the Prime Minister of Spain, Mariano Rajoy called an jihadist attack the attack.
+
+# sent_id = 626
+# text = Amaq News Agency attributed indirect responsibility for the attack to the Islamic State of Iraq and the Levant (ISIL).
+
+# sent_id = 627
+# text = It's 120 kilometres south of the Pyrenees and the catalan border with France (75 miles).
+
+# sent_id = 628
+# text = Today, the fortress is a museum and Montjuïc is home to several sporting and cultural venues, as well as Barcelona's biggest park and gardens.
+
+# sent_id = 629
+# text = The rainfall pattern is characterised by a dry short (3 months) season in summer, as well as less winter rainfall than in a Mediterranean typical climate.
+
+# sent_id = 630
+# text = Large fluctuations in temperature are rare, particularly in the summer months.
+
+# sent_id = 631
+# text = In 1900, Barcelona had a population of 533,000 people, which steadily grew until 1950 but slowly, when it started absorbing a high number of people from other less-industrialised parts of Spain.
+
+# sent_id = 632
+# text = In the case of Barcelona, the land distribution is extremely uneven though.
+
+# sent_id = 633
+# text = Leaving remaining 90% below the 1.5 million or slightly inhabitants living on the remaining 52 square kilometres (20 square miles) at a average density close to 28,500 inhabitants per square kilometre.
+
+# sent_id = 634
+# text = Many of the Pakistanis are living in Ciutat Vella.
+
+# sent_id = 635
+# text = First pakistani migrants came in the 1990s, with increasing numbers in the 1970s.
+
+# sent_id = 636
+# text = Significant other migrant groups come from Asia as from China and the Philippines.
+
+# sent_id = 637
+# text = In a 2011 survey conducted by InfoCatólica, 49.5% of Barcelona residents of all ages identified themselves as Catholic.
+
+# sent_id = 638
+# text = The numbers reflect whereby the numbers of self-identified Catholics have declined a broader trend in Spain.
+
+# sent_id = 639
+# text = Less well known is that the city industrialised early taking off in 1833, when Catalonia's already sophisticated textile industry began to use steam power,.
+
+# sent_id = 640
+# text = Barcelona was recognised as the Southern european City of the Future, based on its economic potential by FDi Magazine in their bi-annual rankings, for 2014 / 15.
+
+# sent_id = 641
+# text = The total exhibition floor space of Fira de Barcelona venues is m2 405,000 (41 ha), not counting Gran via centre on the Plaza de Europa.
+
+# sent_id = 642
+# text = However, the Eurozone crisis and deep cuts in business travel affected the council's positioning of the city as a convention centre.
+
+# sent_id = 643
+# text = Barcelona, like many other tourism capitals, has to deal with pickpockets with wallets and passports each year, being commonly stolen items, due to its large influx of tourists.
+
+# sent_id = 644
+# text = For this reason, most travel guides recommend that visitors take precautions to ensure their possessions's safety, especially inside the metro premises.
+
+# sent_id = 645
+# text = In early 2017, over 150,000 protesters warned that tourism is destabileze the city.
+
+# sent_id = 646
+# text = One industry insider, founder of the Responsible Travel agency, stated that steps must be taken to limit the number of visitors that are causing a "overtourism crisis" in several major european cities, Justin Francis.
+
+# sent_id = 647
+# text = "managing tourism more responsibly can help", but some destinations may just have too many tourists, and Barcelona may be a case of that, Francis later told a journalist. ""
+
+# sent_id = 648
+# text = As of 1997 the metropolitan Barcelona area had 67% of the total number of industrial establishments in Catalonia.
+
+# sent_id = 649
+# text = Barcelona has been a important automobile manufacturing european centre long.
+
+# sent_id = 650
+# text = There's also a Nissan factory in the logistics and industrial area of the city.
+
+# sent_id = 651
+# text = This was a hard blow for the city as the fair brought 100 m €to the city in just three days.
+
+# sent_id = 652
+# text = Since 2009, the Brandery, a urban fashion show, has been held in Barcelona twice a year until 2012.
+
+# sent_id = 653
+# text = Some of these competencies are not exclusive, but shared with the Generalitat de Catalunya or the central spanish government.
+
+# sent_id = 654
+# text = In some fields with the city and the Generalitat to plan and manage services), there is a shared Agency or consortium between shared responsibility (such as public health, education or social services.
+
+# sent_id = 655
+# text = It was ranked in 2019 as the most visited second travel destination in the world, after Bangkok and just ahead of London.
+
+# sent_id = 656
+# text = On the Avenue des Champs-Élysées in Paris, the bicycle de France race finishes July every Tour.
+
+# sent_id = 657
+# text = According to Xavier Delamarre, it may derive from the pario- ('cauldron') root.
+
+# sent_id = 658
+# text = The city's name is not related to the Paris of greek mythology.
+
+# sent_id = 659
+# text = Gas lights were installed in 1829 the Place on du Carrousel, Rue de Rivoli and Place Vendome.
+
+# sent_id = 660
+# text = By 1857, the Grand boulevards were lit.
+
+# sent_id = 661
+# text = By the 1860s, the boulevards and streets of Paris were illuminated by 56,000 gas lamp.
+
+# sent_id = 662
+# text = The Parisii traded with many river towns (some away as far as the Iberian Peninsula) and mint their own coins for that purpose.
+
+# sent_id = 663
+# text = The Romans conquered the Paris Basin in BC 52 and began their settlement on Paris's Left Bank.
+
+# sent_id = 664
+# text = The Roman town was originally called Lutetia (more fully, Lutetia Parisiorum, "Lutetia of the Parisii").
+
+# sent_id = 665
+# text = As the Frankish domination of Gaul began, there were a gradual immigration by the Franks to Paris and the parisian Francien dialects was born.
+
+# sent_id = 666
+# text = In 1163, during the reign of Louis VII, Maurice de Sully, bishop of Paris, undertook the construction of the Notre Dame Cathedral at its eastern extremity.
+
+# sent_id = 667
+# text = Filled around in the 10th century, Paris's cultural centre began to move to the Right Bank after the marshland between Seine and its' slower 'dead' to its north was the arm.
+
+# sent_id = 668
+# text = By comparison, London in 1300 had 80,000 inhabitants.
+
+# sent_id = 669
+# text = He built five new bridges, a new chapel for the College of Sorbonne, and a palace for himself, the Palais-Cardinal, which he bequeathe to Louis xiii.
+
+# sent_id = 670
+# text = After Richelieu's death in 1642, it was renamed the Palais-Royal.
+
+# sent_id = 671
+# text = In 1682, Louis XIV moved his court to an new palace, versailles, due to the parisian uprisings during the civil Fronde war.
+
+# sent_id = 672
+# text = Demolished, the king had the city walls to demonstrate that the city was safe from attack and replaced with tree-lined Boulevards that would become the Grands Boulevards of today.
+
+# sent_id = 673
+# text = Acquiring thousands of guns, a mob seized the arsenal at the Invalides, on July 14, and stormed the Bastille, a symbol of royal authority.
+
+# sent_id = 674
+# text = As the revolution turned more and more radical, the king, queen, and the mayor, were guillotined in 1793 in the reign of terror (executed), along with more than 16,000 others throughout France.
+
+# sent_id = 675
+# text = The property of the aristocracy and the church were nationalised, and the city's churches were closed, sold or demolished.
+
+# sent_id = 676
+# text = When Napoléon Bonaparte seized power as First Consul, a succession of revolutionary factions ruled Paris until 9 November 1799 (coup du 18 brumaire) d' état.
+
+# sent_id = 677
+# text = Napoleon Bonaparte replaced the elected government of Paris with a prefect reporting to him only.
+
+# sent_id = 678
+# text = After months of blockade, hunger, and then bombardment by the Prussians, the city was forced to surrender on January 28 1871.
+
+# sent_id = 679
+# text = The Commune held power for two months, until it was harshly suppressed by the french army during the "bloody week" at the end of May 1871.
+
+# sent_id = 680
+# text = On June 14, 1940 the german army marched into Paris, which had been declared a "open city".
+
+# sent_id = 681
+# text = On August 25 1944, the city was liberated by the French 2nd Armoured division and the 4th Infantry division of the United States Army.
+
+# sent_id = 682
+# text = Thousands of parisian blue-collar workers joined the students, and the movement grew into a general two-week strike.
+
+# sent_id = 683
+# text = The May 1968 events in France resulted into independent 13 campuses in the break-up of the University of Paris.
+
+# sent_id = 684
+# text = In 1975, the National Assembly changed the status of Paris to that of other french cities, and on 25 March 1977, Jacques Chirac became the first elected mayor of Paris since 1793.
+
+# sent_id = 685
+# text = The Maine Tour-Montparnasse the tallest building at 57 storeys and 210 high metres (689 feet), in the city, was built between 1969 and 1973.
+
+# sent_id = 686
+# text = The population of Paris dropped from 2,850,000 to 2,152,000 in 1954, as middle-class families moved to the suburbs in 1990.
+
+# sent_id = 687
+# text = In March 2001, Bertrand Delanoë became the first Socialist Mayor of Paris.
+
+# sent_id = 688
+# text = In 2007, in an effort to reduce car traffic in the city, he introduced the Vélib ', a system which rents bicycles for the use of local residents and visitors.
+
+# sent_id = 689
+# text = On January 1 2016, the new area, named the Metropolis of Grand Paris with a population of 6.7 million, were created, after many modifications.
+
+# sent_id = 690
+# text = A estimated 1.5 million people marched in Paris on January 11 in a show of solidarity against terrorism and in support of freedom of speech.
+
+# sent_id = 691
+# text = Fatally, a man shot a french police officer on April 20 on the Champs-Élysées, and was himself shot dead later.
+
+# sent_id = 692
+# text = On June 19, a man rammed his weapons-and-explosives-laden vehicle into a police van on the Champs-Élysées, but the car only burst into flames.
+
+# sent_id = 693
+# text = The river's mouth on the English Channel (La Manche) is downstream about 233 mi from the city (375 km).
+
+# sent_id = 694
+# text = The city's last major annexation of outlying territories in 1860 not only gave it its modern form but also created the 20 clockwise-spiralling arrondissements (municipal burough).
+
+# sent_id = 695
+# text = In the 1920s, the city limits were expanded from the 1860 area of 78 km2 (30 sq mi) marginally to 86.9 km2 (33.6 sq mi).
+
+# sent_id = 696
+# text = In 1929, the Bois de Boulogne and Bois de Vincennes forest parks was officially annexed to the city, bringing its area to about 105 km2 (41 sq mi).
+
+# sent_id = 697
+# text = The city was not granted municipal autonomy by the National Assembly until 1974.
+
+# sent_id = 698
+# text = In the first round party lists winning-a absolute majority or at least a plurality in the second round-automatically win half the seats of a arrondissement.
+
+# sent_id = 699
+# text = This ensures that the win party or coalition always wins a majority of the seats, even if they don't win a absolute majority of the vote.
+
+# sent_id = 700
+# text = The council of each arrondissement is composed of members of the Conseil de Paris and also members who serve only on the council of the arrondissement.
+
+# sent_id = 701
+# text = There are a total of 20 arrondissement mayors and 120 deputy mayors.
+
+# sent_id = 702
+# text = The budget of the city for 2018 is 9.5 billion euros, with a expected deficit of 5.5 billion euros.
+
+# sent_id = 703
+# text = The number of city employees increased from 40,000 to 55,000 in 2018 in 2001.
+
+# sent_id = 704
+# text = The largest part of the investment budget is earmarked for public housing (262 million euros) and for real estate (142 million euros).
+
+# sent_id = 705
+# text = The first president of the metropolitan council, Patrick Ollier, a Republican and the mayor of the town of Rueil-Malmaison, was elected on January 2016 22.
+
+# sent_id = 706
+# text = The Socialists had governed the region for seventeen years.
+
+# sent_id = 707
+# text = For the executive, the two chief officers each have their official own residences, which also serve as their offices.
+
+# sent_id = 708
+# text = Government ministry are located in various parts of the city; many are located near the Matignon, in the 7th arrondissement.
+
+# sent_id = 709
+# text = The two houses of the French Parliament are located on the Left Bank.
+
+# sent_id = 710
+# text = In the 6th arrondissement, the upper house, the Senate, meets in the Palais du Luxembourg, while the more important lower house, the Assemblée Nationale meets in the 7th arrondissement in the Palais Bourbon.
+
+# sent_id = 711
+# text = The President of the Senate, the second-highest public official (the President of the Republic being the sole superior) in France, resides in the "Petit Luxembourg", a smaller palace annexe to the Palais du Luxembourg.
+
+# sent_id = 712
+# text = The only sister city of Paris is Rome following the motto, although Paris has partnership agreements with many other cities around the world; only Paris is "worthy of Rome; only Rome of Paris" is worthy.
+
+# sent_id = 713
+# text = It supervises the units of the National Police who patrol the city and the three neighbouring departments.
+
+# sent_id = 714
+# text = It is also responsible for providing emergency services, including the Paris Fire Brigade.
+
+# sent_id = 715
+# text = Van of CRS agents are frequently seen in the centre of the city when there are demonstrations and public events.
+
+# sent_id = 716
+# text = Violent crime is relatively rare in the city centre.
+
+# sent_id = 717
+# text = In modernising its infrastructure through the centuries, Paris has preserved even its earliest history in its street map.
+
+# sent_id = 718
+# text = Modern Paris owes much of its downtown plan and architectural harmony to Napoleon III and his Prefect of the Seine, Baron Haussmann.
+
+# sent_id = 719
+# text = A mozarabic variant of the latin matrix, matricis (also meaning "water stream").
+
+# sent_id = 720
+# text = After the disintegration of the Caliphate of Córdoba, Madrid was integrated in the Taifa of toledo.
+
+# sent_id = 721
+# text = The knight Ivan de Vargas, who distinguished himself in the conquest of Madrid, is the founder of the House of Vargas, from whom the common spanish surname "Vargas" was derived.
+
+# sent_id = 722
+# text = While Muslims and Jews settled in the suburbs, Christians replaced Muslims in the occupation of the centre of the city, following the conquest.
+
+# sent_id = 723
+# text = In 1202, Alfonso VIII of Castile gave Madrid its first charter to regulate the municipal council, which was expanded in 1222 by Ferdinand III of Castile.
+
+# sent_id = 724
+# text = In Madrid, the Courts were convened more often since the unification of the kingdoms of Spain under a common crown.
+
+# sent_id = 725
+# text = In Madrid, he was imprisoned when I Francis of France were captured at the battle of Pavia.
+
+# sent_id = 726
+# text = And is dated in the village the Treaty of Madrid of 1526 (denounced by the french later) that resolved their situation.
+
+# sent_id = 727
+# text = The recent installation of the court imposed a regalía de aposento tax on private houses, which produced all kinds of resistance, including the construction of Casas a la malicia, most notably.
+
+# sent_id = 728
+# text = In the 1594 year the number of urban inhabitants grew from 4,060 in the 1530 year to 37,500.
+
+# sent_id = 729
+# text = The poor population of the court was composed of ex-soldiers, foreigners, rogues and Ruanes, dissatisfied with the lack of food and high prices.
+
+# sent_id = 730
+# text = In June
+
+# sent_id = 731
+# text = 1561 Philip of Spain ii set his court in Madrid, installing it in the old alcázar.
+
+# sent_id = 732
+# text = The reign of Charles IV of Spain is not very meaningful to Madrid, except for the presence of Goya in the Court, who portrayed the popular and courtly life of the city.
+
+# sent_id = 733
+# text = As this was happening, there were the Mutiny of Aranjuez, by which the crown prince, Ferdinand VII, replaced his father as king (17 March 1808).
+
+# sent_id = 734
+# text = However, when Ferdinand VII returned to Madrid, the city was already occupied by Joachim-Napoléon Murat, so that both the king and his father were virtually prisoners of the french army.
+
+# sent_id = 735
+# text = Taking advantage of the weakness of the spanish Bourbons, Napoleon, forced both the father, then the son, to join him first in Bayonne, where Ferdinand arrived on 20 April.
+
+# sent_id = 736
+# text = In the absence of the two kings, the situation became more and more tense in the capital.
+
+# sent_id = 737
+# text = On May 2, a crowd began to gather at the Royal Palace.
+
+# sent_id = 738
+# text = The crowd saw the french soldiers pulled out of the palace to the royal family members who were still in the palace.
+
+# sent_id = 739
+# text = In the Paseo Prado and in the fields of La Moncloa hundreds of patriots was shot del due to Murat's order carrying against "spanish all arms".
+
+# sent_id = 740
+# text = Paintings such as the third by Goya of May 1808 reflect the repression that ended the popular uprising on May 2.
+
+# sent_id = 741
+# text = Madrid was frequently altered by revolutionary outbreaks and pronouncements, such as the 1854 Vicalvarada, led by General Leopoldo O'Donnell and initiating the progressive biennium.
+
+# sent_id = 742
+# text = New suburbs such as Las Ventas, Tetuán and El Carmen became the homes of the influx of workers, while Ensanche became a middle-class neighbourhood of Madrid.
+
+# sent_id = 743
+# text = The prolongation of the Paseo de la Castellana towards the North was projected during this time.
+
+# sent_id = 744
+# text = The proclamation of the Republic slowed down the building of new housing.
+
+# sent_id = 745
+# text = The tertiary sector gave thrust to the economy.
+
+# sent_id = 746
+# text = Illiteracy rates were down to 20% below, and the city's cultural life notably grew during the so-called Silver age of spanish culture; the sales of newspaper also increased.
+
+# sent_id = 747
+# text = The city fell to the Francoists in March 1939.
+
+# sent_id = 748
+# text = Meat and fish consumption were scarce, and starvation and lack of proteins were a cause of high mortality.
+
+# sent_id = 749
+# text = Madrid was the scene of some of the most important events of the time such as the mass demonstrations of support for democracy on 1981 February 23, after the failed coup, 23-F,.
+
+# sent_id = 750
+# text = In the poor neighborhoods of Madrid in the 1980s, a heroin crisis, conversely took a toll like just in the rest of the country.
+
+# sent_id = 751
+# text = By 2005, Madrid were the leading european destination for migrants from developing countries, as well as the largest employer of non-european workforce in Spain.
+
+# sent_id = 752
+# text = As consequence of the spillover of the 2008 financial and mortgage crisis, Madrid has been affected by the increasing number of second-hand homes held by banks and house evictions.
+
+# sent_id = 753
+# text = The city grew to the east, reaching the Fuente Castellana Creek (now the Paseo de la Castellana), and further reaching east the Abroñigal Creek (now the m-30).
+
+# sent_id = 754
+# text = The city also grew through the annexation of neighbouring urban settlements, including those on the right bank of the Manzanares to the South West.
+
+# sent_id = 755
+# text = These records were registered in the eastern side of the city, at the airport.
+
+# sent_id = 756
+# text = It is responsible for the supply, depurate waste water and the conservation of all the natural water resources of the Madrid region.
+
+# sent_id = 757
+# text = The wider Madrid region is the EU region with the average highest life expectancy at birth.
+
+# sent_id = 758
+# text = The 2.1 remaining% didn't state their religious beliefs.
+
+# sent_id = 759
+# text = The metropolitan Madrid area comprises Madrid and the surrounding municipalities.
+
+# sent_id = 760
+# text = The Plenary of the Ayuntamiento is the body of political representation of the citizen in the municipal government.
+
+# sent_id = 761
+# text = He is also entitled to preside over the meetings of the Pleno, although this responsility can be delegated to another municipal councillor.
+
+# sent_id = 762
+# text = The government board consists of the mayor, the deputy mayor (s) and a number of delegates assuming the portfolios for the different government areas.
+
+# sent_id = 763
+# text = The Assembly of Madrid, the seat of the regional parliament is located at the district of Puente de Vallecas.
+
+# sent_id = 764
+# text = The King of Spain, whose functions are mainly ceremonial, has their official residence in the Zarzuela Palace.
+
+# sent_id = 765
+# text = Both the residences of the Head of State and Government are located at the northwest of the city.
+
+# sent_id = 766
+# text = The Higher headquarters of Office of Madrid Police of Madrid (Superior Jefatura de Policía) also, lies on Madrid the peripheral branch of the National Police Corps with the jurisdiction over the region de.
+
+# sent_id = 767
+# text = Nor Madrid has retained much Renaissance architecture, other than the Bridge of Segovia and the Convent of Las Descalzas Reales.
+
+# sent_id = 768
+# text = During the early Hapsburg period, the import of european influences took place, underpinned by the monicker of austrian style.
+
+# sent_id = 769
+# text = The austrian style featured not only austrian influences but also italian and dutch, reflecting on the international preeminence of the Hapsburgs (as well as spanish).
+
+# sent_id = 770
+# text = During the second half of the 16th-century the use of pointy slate spires in order to top structures such as church towers were imported to Spain from Central Europe.
+
+# sent_id = 771
+# text = Pedro de Ribera introduced Churrigueresque architecture to Madrid; the Cuartel del Duque, Conde-the church of Montserrat, and the Bridge of Toledo are among the best examples.
+
+# sent_id = 772
+# text = The reign of the Bourbons during the eighteenth century marked a new era in the city.
+
+# sent_id = 773
+# text = The Paseo del Prado, surrounded by gardens and decorated with neoclassical statues, is an example of urban planning.
+
+# sent_id = 774
+# text = The Duke of Berwick ordered the construction of the Liria Palace.
+
+# sent_id = 775
+# text = The Segovia Viaduct linked the Royal Alcázar to the southern part of town.
+
+# sent_id = 776
+# text = The expansion of Madrid developed under the plan Castro, resulting in the neighbourhoods of Salamanca, Argüelles, and Chamberí.
+
+# sent_id = 777
+# text = Antonio Palacios built a series of buildings inspired by the Viennese Secession such as the Palace of Communication, the Círculo de Bellas Artes, and the Río de La Bank (now Instituto Cervantes) Plata,.
+
+# sent_id = 778
+# text = Other notable buildings include the Bank of Spain, the neo-gothic Almudena Cathedral, Atocha Station, and the catalan art-nouveau Palace of Longoria.
+
+# sent_id = 779
+# text = Las Ventas Bullring were built as the market of San Miguel (cast-Iron style),.
+
+# sent_id = 780
+# text = Iconic examples of this period include the Ministry of the Air (a case of herrerian revival) and the Edificio España (presented as the tallest building in Europe when it was inaugurated in 1953).
+
+# sent_id = 781
+# text = 4 terminal is one of the largest world's terminal areas and domes and features glass panes, in the roof which allow natural light to pass through.
+
+# sent_id = 782
+# text = Madrid's citizen have access to a green area within a 15-minute walk.
+
+# sent_id = 783
+# text = Since 1997, green areas have increased by 16%.
+
+# sent_id = 784
+# text = A having bigger area than 1.4 km2 (sq mi 350), it is the largest park within the Almendra Central, the inner part of the city enclosed by the 30-m (0.5 acres).
+
+# sent_id = 785
+# text = In 1868 after the Glorious Revolution, it was handled over to the municipality, created during the reign of Philip IV (17th century).
+
+# sent_id = 786
+# text = The building's articulation consists of three horizontal sections similar to the components of a column, shaft, a base, and capital namely.
+
+# sent_id = 787
+# text = Upon its completion, the Equitable Building was controversial because of its lack of setbacks, which does not allow sunlight in turn to reach the surrounding ground.
+
+# sent_id = 788
+# text = Though the edifice was named after during 1960, the company occupied a small portion of the building until it moved out Equitable the Life Insurance company.
+
+# sent_id = 789
+# text = The owner as of 2020, Silverstein Properties, purchased the Equitable Building in 1980 and renovated it multiple times.
+
+# sent_id = 790
+# text = The plot covers about 48,000–49,000 square feet (2 m 4,500–4,600).
+
+# sent_id = 791
+# text = There are numerous buildings immediately adjacent to the Equitable building and structures.
+
+# sent_id = 792
+# text = Across Broadway to the west and southwest are the Trinity and United States Realty Buildings.
+
+# sent_id = 793
+# text = This was affected by the fact that the other three buildings was corporate symbols from renowned architects, while the Equitable building was a speculative development whose designer had little experience in New York City.
+
+# sent_id = 794
+# text = This is because Graham wanted the building to have the latest technological systems, such as elevators, heating, ventilation, and fireproofing, while also maximizing usable office space.
+
+# sent_id = 795
+# text = As a result, when viewed from above the Equitable Building appears in the shape of the letter h.
+
+# sent_id = 796
+# text = The design of the Equitable building were similar to that of the Hudson Terminal office building-demolished building and the Emigrant Industrial Savings Bank now.
+
+# sent_id = 797
+# text = Anderson designed the facade with a base, shaft, and capital to the Broadway Chambers-Building, similar by Cass Gilbert, but with facades on all sides.
+
+# sent_id = 798
+# text = The remaining windows on the first floor are stainless-steel show windows, which illuminate the commercial spaces inside.
+
+# sent_id = 799
+# text = The portions of the facade facing these light courts are faced with brick.
+
+# sent_id = 800
+# text = Medallions with cornices are located at the corners of the building at the 7th and 31st floors.
+
+# sent_id = 801
+# text = The colonnade terminates at the top of the 35th floor, where there is a elaborate cornice.
+
+# sent_id = 802
+# text = Penthouses are located atop the wings as well.
+
+# sent_id = 803
+# text = The corridors are wide 24 feet (7.3 m), while the ceiling ranges from 20 feet (6.1 m) tall at the edges to 35 tall (11 m) feet at the center.
+
+# sent_id = 804
+# text = Banking spaces and storefronts are also located on the ground floor, accessible from the lobby.
+
+# sent_id = 805
+# text = West-east corridors perpendicularly run to the elevator lobbies, crossing both wings of the "h".
+
+# sent_id = 806
+# text = Floors were arranged so that they could be divided into suites facing outward, so that all suites faced windows, though it was also possible for lessees to rent entire floors.
+
+# sent_id = 807
+# text = Upon the building's opening, equitable also provided rest and recreation rooms, making it the first large building to have a women's welfare department for the building's 2,000 female employees.
+
+# sent_id = 808
+# text = A retaining wall between Cedar and Pine Streets is used to reinforce two of the cellar levels for vaults.
+
+# sent_id = 809
+# text = At the time of the Equitable Building's construction, it was described as the world's heaviest structure.
+
+# sent_id = 810
+# text = There was also a artificial ice plant.
+
+# sent_id = 811
+# text = The power station originally burned oil, consuming 2.5 million barrels per year, but started using coal in 1934 due to a rise in fuel prices.
+
+# sent_id = 812
+# text = At the time of completion, the Equitable Building was said to have more telephones than did all of Greece.
+
+# sent_id = 813
+# text = The equitable Building previously contained as many elevators as 62.
+
+# sent_id = 814
+# text = Upon its completion, the Equitable building was the largest office building by total area in the world.
+
+# sent_id = 815
+# text = A fact sheet published at the time of the Equitable Building's completion estimated that it had approximately 5,000 windows and 10,000 doors.
+
+# sent_id = 816
+# text = The Equitable Life building was the first office building to feature passenger elevators, and the world's first skyscrapers at a 130 record feet (40 m) upon construction, was among.
+
+# sent_id = 817
+# text = The building was expanded numerous times, including in 1875 and in 1887.
+
+# sent_id = 818
+# text = By 1906 equitable assumed control of all properties on the block.
+
+# sent_id = 819
+# text = By the 1890s, the Equitable Life Building were architecturally outdated, and George B.
+
+# sent_id = 820
+# text = In 1907, daniel H. Burnham's company had proposed replacing the Equitable Life Building with a 33-story structure.
+
+# sent_id = 821
+# text = At the time, both Burnham and Equitable publicly denied that a new home office was being planned.
+
+# sent_id = 822
+# text = Fire engines could not save the structure because the water from the engines had frozen in the cold weather.
+
+# sent_id = 823
+# text = Equitable set up temporary quarters at the City Investing Building quickly.
+
+# sent_id = 824
+# text = Than beforehand, the land were actually worth more after the fire given that the previous building had been very little worth.
+
+# sent_id = 825
+# text = Thompson-Starrett president
+
+# sent_id = 826
+# text = Louis J. Horowitz approached businessman T. Coleman du, who recalled "that du Pont was interested in" the idea of owning a gigantic building in New York Pont later.
+
+# sent_id = 827
+# text = The Hotel McAlpin—was Andrews-Frank who designed another one of du Pont 'properties in the project also involved M..
+
+# sent_id = 828
+# text = Then Horowitz corresponded with Ernest Graham, the other major partner at D. H. Burnham & Company, after Burnham's June 1912 death who would become the architect of the new tower.
+
+# sent_id = 829
+# text = Graham designed the structure as a bulky mass, wanting to maximize the amount of office space on the site rather than a corporate symbol.
+
+# sent_id = 830
+# text = On April 12, 1913, du Pont formed the equitable Office building Corporation to take title to the building site, and gave equitable a $20.5 million mortgage loan to run for 60 years.
+
+# sent_id = 831
+# text = Equitable would lease three floors in exchange for 9% dividends in the building corporation, to be paid in perpetuity.
+
+# sent_id = 832
+# text = Day was appointed as chairman of the board of the building corporation.
+
+# sent_id = 833
+# text = Starrett was hired as the builder and Horowitz "-Thompson became the owner's representative ".
+
+# sent_id = 834
+# text = That work be completed as quickly as possible, it was imperative since there was no nearby material-storage areas.
+
+# sent_id = 835
+# text = During excavation, a cannonball from colonial british times was excavated from the site of the Equitable Building.
+
+# sent_id = 836
+# text = By January 1914, crews had excavated the foundation and dug below street level to the 83 bedrock feet (25 m).
+
+# sent_id = 837
+# text = The Equitable Building was the first construction private project in New York City where the mayor attended the cornerstone-lay ceremony.
+
+# sent_id = 838
+# text = Work on the superstructure began officially on June 10, 1914.
+
+# sent_id = 839
+# text = Work on the building were completed on February 1, 1915.
+
+# sent_id = 840
+# text = Early other lessees included tenants as diverse as General electric, the Federal Reserve Bank of New York, the Fidelity trust Company, and American Smelting & Refining.
+
+# sent_id = 841
+# text = By 1917, the building was fully occupied at a average rental rate of $2.25 per square ($24.2 / m2) foot.
+
+# sent_id = 842
+# text = The building's valuation was increased that year because of a prosperous realty market at the time, from $20.5 million to $25 million.
+
+# sent_id = 843
+# text = The following year, the Equitable Office building Corporation applied for a reduction in the building's valuation to $18 million in New York City, due to foreclosures on $25 million from other large buildings.
+
+# sent_id = 844
+# text = In 1925, du Pont sold the Equitable Building for $38.5 million to the New York Empire Company, a subsidiary of the Brotherhood of Locomotive Engineers and Trainmen.
+
+# sent_id = 845
+# text = Making it the highest-valued building in New York City, the Equitable building was assessed by 1928, at $31 million.
+
+# sent_id = 846
+# text = The building was refinanced in 1947, receiving a first-mortgage loan of $14.5 million, among the largest in New York City's ever history.
+
+# sent_id = 847
+# text = Two years later, the Equitable Life Assurance Company outright bought the building, as part of a $25 million exchange Webb and Knapp bought the Sixth Avenue plot wherein.
+
+# sent_id = 848
+# text = In addition, Wien assumed the building's operating sublease the same year.
+
+# sent_id = 849
+# text = The project entailed replacing the terracotta ornamentation, as well as the original terracotta frames for the windows, which were replaced with glass-fiber reinforced plastic.
+
+# sent_id = 850
+# text = As a result of the project, occupancy rates increased from 60% in 1993 to 80% in 1991.
+
+# sent_id = 851
+# text = Several murals resembling street art on the third floor was installed in November 2019.
+
+# sent_id = 852
+# text = Tenants as 2020 include the New York City Department of City Planning, Macmillan Publishers Belle, and the Securities Industry and Financial Markets Association of Beyer, architecture Blinder firm.
+
+# sent_id = 853
+# text = For instance, lightning caused part of the cornice to break off during 1925.
+
+# sent_id = 854
+# text = In March 1942, a seven-inch (17 cm) shell struck the 37th floor of the building but caused little damage and no injuries.
+
+# sent_id = 855
+# text = The shell was one of eight fired by mistake by a anti-aircraft battery near the East river; the other rounds harmlessly fell into the river.
+
+# sent_id = 856
+# text = The 1942 incident made the Equitable Building to suffer war damage during World war ii the first, and it took out a insurance policy subsequently. in New York City
+
+# sent_id = 857
+# text = Another critic called it a monstrous "parasite" on the vein and arteries of New York.
+
+# sent_id = 858
+# text = Opponents stated that the building also overwhelmed nearby infrastructure by blocking ventilation, straining nearby transit facilities, and preventing firemen from easily reaching the upper floors.
+
+# sent_id = 859
+# text = More than the shadow was the lot area six times and long up to 0.2 miles (320 m).
+
+# sent_id = 860
+# text = Even during the cornerstone lay, mayor Mitchel had alluded to the possibility that the Equitable Building might be the last bulky skyscraper to be erected in New York City.
+
+# sent_id = 861
+# text = After 1913, however, the city's property market entered a recession, and vacancy levels in buildings began to rise.
+
+# sent_id = 862
+# text = The committee on Congestion of Population in New York, as well as the Fifth Avenue Association, were among the groups that advocated for such legislation to limit building heights.
+
+# sent_id = 863
+# text = The New York City Board of Aldermen's Building Commission had published preliminary reports for zoning controls in 1913, when the Equitable Building was barely under construction.
+
+# sent_id = 864
+# text = Following the public criticism of the Equitable Building, the real estate industry finally ceased its objections to new legislation, and the 1916 Zoning Resolution was passed.
+
+# sent_id = 865
+# text = It's located between lanes of the Francisco Fajardo freeway to the Central University of Venezuela, next of the University City campus in Caracas.
+
+# sent_id = 866
+# text = In its place on the highway is a cast made by Silvestre Chacón in 2004; the replacement has received negative reactions, and its construction damaged the original.
+
+# sent_id = 867
+# text = Colina often depicted indigenous figures like María Lionza, and it is said to be his most famous sculpture.
+
+# sent_id = 868
+# text = By her followers, the statue, and versions of it, are nevertheless worshipped.
+
+# sent_id = 869
+# text = In the 1920 he spent eight years living in some of western Venezuela s indigenous communities, and chose later to depict related iconography in his monumental sculptures.
+
+# sent_id = 870
+# text = According to venezuelan folklorist Gilberto Antolínez, Colina was also involved in the 1940s in a movement mythologize to María Lionza.
+
+# sent_id = 871
+# text = There is another monumental statue, Francisco Narváez's El Atleta, that was also located by the Olympic Stadium and is made in 1951.
+
+# sent_id = 872
+# text = The statue was moved a short distance to its prominent location on the highway in 1953.
+
+# sent_id = 873
+# text = The university had been asking for it to be removed of the growing cult status of María Lionza, aware and fearing that rituals would begin to be performed by her followers on campus grounds.
+
+# sent_id = 874
+# text = Pérez Jiménez shared the concern: his dictatorship followed the Catholic Church and heavily persecuted other belief systems under a law enacted against paganism, though he had elevated her to a national symbol.
+
+# sent_id = 875
+# text = The replica was made by Silvestre Chacón.
+
+# sent_id = 876
+# text = However, during the process of casting the replica, the original was significantly damaged; it has been repaired since by restorer Fernando de Tovar, who described the replica as "ridiculous".
+
+# sent_id = 877
+# text = Still, despite the repair it's kept locked in a workshop at UCV and calls to put the original back on display.
+
+# sent_id = 878
+# text = The institutional assets and monuments of Venezuela project wrote that that objections to the replacement suggest, it is the one that the public should be able to appreciate because the original statue is the one that holds heritage value.
+
+# sent_id = 879
+# text = Followers of María Lionza also debate the benefits of returning the statue to its original location on the campus; instead some members of the university and the government would like to move the statue further away from the city center.
+
+# sent_id = 880
+# text = Another replica was installed in 2006 at Chivacoa, near Sorte mountain, a spiritual home of the religion,.
+
+# sent_id = 881
+# text = The followers began leaving tributes in the 1960s at the statue, and many copies are made in miniature to be placed on altars.
+
+# sent_id = 882
+# text = The image of the pelvis-its "most notable feature "-stays in the narrator's mind, and the poem goes on to address the statue directly.
+
+# sent_id = 883
+# text = The Procuratie Vecchie on the northern side of the square was built during the War of the League of Cambrai to replace a earlier structure, damaged by fire in the early sixteenth century.
+
+# sent_id = 884
+# text = Although the war imposed financial constraints and limited innovation, it was nevertheless the major public building in Venice to be erected in a purely classical style first.
+
+# sent_id = 885
+# text = Rental income was significant, given the prestige of the location.
+
+# sent_id = 886
+# text = The Procuratie Nuove on the southern side housed the official residences of the procurators.
+
+# sent_id = 887
+# text = The number of procurators increased over time.
+
+# sent_id = 888
+# text = The two other procurators called de subtus super commissariis, administered trust funds established as pious donations on behalf of religious and charitable institutions,.
+
+# sent_id = 889
+# text = At times, the number rose to forty.
+
+# sent_id = 890
+# text = The effective sale of the position also made it possible for young and ambitious nobles to rise to high office quickly and to exert great influence consequently.
+
+# sent_id = 891
+# text = The properties included the long building erected by Ziani along the northern side of the square.
+
+# sent_id = 892
+# text = When it became necessary to limit the loss of revenue to demolish the apartment in order to continue building, each tenet was only evicted to the procurators.
+
+# sent_id = 893
+# text = The new shops and apartments above on the ground floor, were also leased as soon as they were ready.
+
+# sent_id = 894
+# text = Far enough, the first section had progressed by 1517 to begin work on the façade with the revetments in istrian limestone.
+
+# sent_id = 895
+# text = In contrast, the earlier layout, characterized by a series of courtyards, was retained for the remainder of the building, further away from the area damaged by the fire.
+
+# sent_id = 896
+# text = The final eight bays of the Procuratie Vecchie, containing five apartments, and the five bays along the western side of the square (subsequently demolished) was completed under Sansovino's direction.
+
+# sent_id = 897
+# text = The number of workshops and stores on the ground floor, was also increased by inserting a narrow street behind the row of stores that opened onto the square so that each arcade now corresponded to a individual shop.
+
+# sent_id = 898
+# text = On the upper floors, the rooms in the back section, connected by suspended galleries, was destined for servant quarters associated with the principal apartments that looked onto the square.
+
+# sent_id = 899
+# text = Also, the columns on the ground floor, reminiscent of the Doge's Palace, were replaced with doric square pillars.
+
+# sent_id = 900
+# text = In 1638, the 'Rimedio' wine shop opened.
+
+# sent_id = 901
+# text = But during the war for the control of Crete against the Ottomans (1645-1669), it was necessary to sell the apartments in order to raise the war effort to finance money.
+
+# sent_id = 902
+# text = Although the apartments were repurchased by the procurators later, they were definitively sold in 1717.
+
+# sent_id = 903
+# text = Subsequently, several of the apartments were transformed inside the Vecchie Procuratie into small gather places for entertaining, relaxation, and, at times, gambling.
+
+# sent_id = 904
+# text = , some procurators, refused to take up residence in the square despite the obligation imposed by the Great Council and the Council of Forty.
+
+# sent_id = 905
+# text = And, in some instances, they preferred to live in their palatial homes, elsewhere the dark and damp conditions in the city. the lack of a view citing
+
+# sent_id = 906
+# text = Other procurators sublet their official apartments as a source of personal revenue.
+
+# sent_id = 907
+# text = Until the 1550s there was no further reference to a continuation along the southern side of the square when work was nearing completion on the initial construction stage of the library.
+
+# sent_id = 908
+# text = Three designs were submitted for the building that were to house the new apartments of the procurators, and on 5 April 1582, the design of Vincenzo Scamozzi were accepted.
+
+# sent_id = 909
+# text = This would make the bell tower a freestanding structure.
+
+# sent_id = 910
+# text = It would also transform Saint Mark's Square into a trapezoid, giving greater visual importance to the Basilica of Saint Mark located on the eastern side.
+
+# sent_id = 911
+# text = The intent was to evoke the memory of the ancient Roman Republic, and in the aftermath of the Sack of Rome in 1527, to present Venice as Rome's true successor.
+
+# sent_id = 912
+# text = In their foreign policy, they tended to support the interests of the Church and of the Holy Roman Empire.
+
+# sent_id = 913
+# text = It was alternatively suggested that the project be returned to its original-floor two design.
+
+# sent_id = 914
+# text = Ultimately, the Senate deliberated that the construction would continue with all three floors.
+
+# sent_id = 915
+# text = Although Scamozzi was involved directly in every aspect, oversight fell to the proto (chief building consultant) to the procurators de supra, Simone Sorella, whose own design for the new building had been rejected.
+
+# sent_id = 916
+# text = This would allow on each of the upper floors for separate apartments.
+
+# sent_id = 917
+# text = These was divided into three consecutive units, wide each eleven arcades.
+
+# sent_id = 918
+# text = The two apartments on the upper floors, one the other atop, shared a single courtyard with staircases and entries onto the square and behind the canal.
+
+# sent_id = 919
+# text = Smeraldi's new design was, for narrower apartments, wide only five arcades that was distributed on multiple floors.
+
+# sent_id = 920
+# text = Each apartment corresponded to four stores on the ground floor and a archway leading to a inner courtyard that opened behind to the canal.
+
+# sent_id = 921
+# text = A staircase from the courtyard provided access to the apartment above.
+
+# sent_id = 922
+# text = The arches are consequently said to be dwarfed and ill-proportioned.
+
+# sent_id = 923
+# text = The ancient prototypes are the Theatre in Rome of Marcellus and the Colosseum.
+
+# sent_id = 924
+# text = On a series of Serlians, a row of large ionic columns, is similarly superimposed on the upper floor of the library.
+
+# sent_id = 925
+# text = Scamozzi, of such layering, were critical while acknowledging the existence of both Roman and Renaissance precedents.
+
+# sent_id = 926
+# text = The series of corinthian columns, against a simple wall rested in his design for the additional floor of the Procuratie Nuove.
+
+# sent_id = 927
+# text = Palladio also proposed the combination in his design for the rebuild of the Doge's Palace after the fire of 1577, which may have been the immediate source for Scamozzi.
+
+# sent_id = 928
+# text = The ancient prototype is the Pantheon, where the altars alternate around the perimeter, with curvilinear and triangular pediments in pairs.
+
+# sent_id = 929
+# text = The shops on the ground floor were rented out as sources of revenue.
+
+# sent_id = 930
+# text = The former apartments of the procurators were decorated by Giovan and 1813, under the influence of the french decorator Charles Percier and Giuseppe Borsato who was in Venice in 1807 between 1807 Battista Canal.
+
+# sent_id = 931
+# text = Also, Pietro Moro and Sebastiano Santi were involved for the decoration of the throne room and the dining room.
+
+# sent_id = 932
+# text = Giovanni Carlo Bevilacqua collaborated in other rooms.
+
+# sent_id = 933
+# text = Modifications were also made-1857, in 1834–1836 and 1853 when the Procuratie Nuove served as a imperial residence, during the subsequent period of austrian domination (1815-1866).
+
+# sent_id = 934
+# text = After the annexation of Venice to the Kingdom of Italy, the Procuratie Nuove came into the possession of the Italian Crown which ceded ownership in 1919 to the state.
+
+# sent_id = 935
+# text = Since 1922, the building houses the Correr Museum.
+
+# sent_id = 936
+# text = The rooms utilized by the procurators de supra was prominently positioned at the top of the monumental staircase as a indication of their prestige.
+
+# sent_id = 937
+# text = Paintings, primarily portraits of the procurators and devotional works, were transferred from the previous offices and adapted to the new rooms by Tintoretto, under the direction of Scamozzi.
+
+# sent_id = 938
+# text = The former ridotti was decorated by Felice Giani between 1807 and 1808 with neoclassical motifs, allegorical figures, and mythological scenes that exalt moral and intellectual virtues.
+
+# sent_id = 939
+# text = The Church of San Geminiano, located on the western side of the square, were consequently demolished to have the space needed to extend the royal residence and create the necessary rooms, in 1807.
+
+# sent_id = 940
+# text = It was flanked on both sides by the wings of the Procuratie Vecchie and the Procuratie Nuove, respectively built by Sansovino and Longhena.
+
+# sent_id = 941
+# text = Proposals for the building that were to replace the church and join the wing of the Procuratie Vecchie with the wing of the Procuratie Nuove varied.
+
+# sent_id = 942
+# text = Giovanni Antonio Antolini's more modest design for a two-storey loggia with a grand staircase in the rear was accepted.
+
+# sent_id = 943
+# text = Soli, designed a attic floor the height of which corresponds to the roofline crenellation of the Procuratie Vecchie, then to link the new building visually to the northern side.
+
+# sent_id = 944
+# text = Interspersed with these reliefs are freestanding statues on pedestals by Antonio Bosa and Domenico Banti.
+
+# sent_id = 945
+# text = The statue depicting Napoleon as Jupiter in the centre, during the second period of austrian domination, were removed enthroned.
+
+# sent_id = 946
+# text = The decorations in the staircase with the triumph of Napoleon, similarly were replaced.
+
+# sent_id = 947
+# text = The painting has been admired for its captivating beauty, mysterious demeanor, and mastery of sfumato.
+
+# sent_id = 948
+# text = It portrays the unfinished outline of a young woman gently whose face gazes drew while she loosely draw dishevelled hair waves in the air behind her.
+
+# sent_id = 949
+# text = The woman's eyes are half-closed, and completely ignoring of the outside world and viewer while her mouth is slightly shaped into a ambiguous evocative of the Mona Lisa smile,.
+
+# sent_id = 950
+# text = Barely, the rest of the painting is even sketched in than her other face with a prime but unpainted background, that takes up most of the painting.
+
+# sent_id = 951
+# text = The differences in the face and the rest of the painting are effectively blended by a mastery of sfumato.
+
+# sent_id = 952
+# text = Art historian Alexander Nagel notes that the sfumato results in the shadows concealing any strokes or marks.
+
+# sent_id = 953
+# text = Nagel also points out how the shadows are softened around them by careful lighting, such as on the left side of the jaw.
+
+# sent_id = 954
+# text = In 1896, museum director Corrado Ricci claimed it had been forged by its former owner, Gaetano Callani, which caused it to be re-attributed as by the "school of Leonardo".
+
+# sent_id = 955
+# text = She has cited the similarity between La Scapigliata and Boltraffio's work heads of the Virgin and child.
+
+# sent_id = 956
+# text = She believes that La Scapigliata may be the result of Vespucci commissioning Leonardo to make a work along the same lines.
+
+# sent_id = 957
+# text = A 1531 inventory of Gonzaga family's art collection in the ducal palace also records a painting that could be La Scapigliata.
+
+# sent_id = 958
+# text = Painted, Paolo Toschi, appears in a list of the works in the collection for the director of the Gallery as a "head of Madonna paint in chiaroscuro." listed La Scapigliata an
+
+# sent_id = 959
+# text = It has been since housed in the National Gallery of Parma ever.
+
+# sent_id = 960
+# text = Scholars at the Metropolitan Museum of Art note that the contrast with her fragmentary hair, shoulders and neck between the subject's sculptural and detailed face evokes a similar contrast between intensity and freedom.
+
+# sent_id = 961
+# text = Nagel notes the attentive detail to masterful shadowing and lighting.
+
+# sent_id = 962
+# text = It is uncertain what access Leonardo would have had the Elder's Natural history to Pliny, but Bambach suggested in 2016 that La Scapigliata may have been inspired by a anecdote from it.
+
+# sent_id = 963
+# text = Bambach cites a note from Agostino Vespucci that mentions both Leonardo and this story, and claims that Leonardo was inspired to achieve the same result as Apelles.
+
+# sent_id = 964
+# text = When active as a refinery, it was operated by the Havemeyer family's sugar Refining Company, which produced Domino brand sugar and was one of several sugar factories on the East River in northern Brooklyn. American
+
+# sent_id = 965
+# text = The family's first refinery in Williamsburg opened in 1856 and was operated by Frederick C. Havemeyer Jr., the son of American Sugar's founder.
+
+# sent_id = 966
+# text = The American sugar Refining Company grew to control most of the sugar industry in the United States by the late 19th century, with the Brooklyn refinery as its largest plant.
+
+# sent_id = 967
+# text = Many different types of sugar was refined at the facility, and it employed up to 4,500 workers in 1919 at its peak.
+
+# sent_id = 968
+# text = Demand started to decline in the 1920s with advances in sugar refining and the construction of other facilities, but the refinery continued to operate until 2004.
+
+# sent_id = 969
+# text = In the early 21st century, the refinery was redeveloped as office space, residential towers, and parkland.
+
+# sent_id = 970
+# text = Demolition of the non-landmark structures in the refinery began shortly afterward, and the first new tower in the development project opened in 2017.
+
+# sent_id = 971
+# text = As of 2020, the refinery redevelopment consists of three completed towers; the Filter, Pan, and Finishing House; and a waterside park called Domino park.
+
+# sent_id = 972
+# text = The original refinery occupied a lot of 30 by 40 feet (9.1 by 12.2 m), but it had expanded to ten stories by the 1840s and occupied the whole city block.
+
+# sent_id = 973
+# text = Frederick C. Havemeyer Jr. (1807–1891), who joined the Havemeyer family business in 1823, helped the operation grow into a large sugar-refining corporation.
+
+# sent_id = 974
+# text = At the end of 1856, John C. Havemeyer and Charles E. Bertrand co-founded Havemeyer & Bertrand the intersection of at modern-day Kent Avenue and South 3rd Street.
+
+# sent_id = 975
+# text = The Havemeyer & Elder refinery, also called the Yellow Sugar House, were the largest of the Havemeyer family plants.
+
+# sent_id = 976
+# text = Because of the depth of the East River in the vicinity of the refinery, shipments of raw sugar from overseas could be loaded directly into the facility.
+
+# sent_id = 977
+# text = The fire destroyed several warehouses the building that contained the refinery by 150-foot-( 61 by 46) as well as-200 m and finish house.
+
+# sent_id = 978
+# text = It caused an estimated 1.5 million $in damage, though insurance policies covered about half of the losses, and resulted in the elimination of 1,200 to 2,000 jobs.
+
+# sent_id = 979
+# text = In February 1882, Theodore Havemeyer purchased a refinery in Red Hook, Brooklyn, so that operations could restart while the new refinery was being erected.
+
+# sent_id = 980
+# text = According to the Brooklyn Daily Eagle, Theodore Havemeyer supervised the new structures's construction.
+
+# sent_id = 981
+# text = The rebuild was funded in part by insurance money and the sale of assets.
+
+# sent_id = 982
+# text = The family created the Sugar Refineries Company or Sugar trust in late 1887.
+
+# sent_id = 983
+# text = In 1896, American Sugar became one of the original twelve Industrial in the Dow Jones average companies.
+
+# sent_id = 984
+# text = Raw sugar was first unloaded from piers along the East River, and mixed with water within the filter house.
+
+# sent_id = 985
+# text = Fifty pipes upward transported the mixture.
+
+# sent_id = 986
+# text = Afterward, the mixture was filtered through "bone black" and canvas layers into circular tanks that measured 20 feet (6.1 m) and tall m across 9 feet (2.7).
+
+# sent_id = 987
+# text = The roasting and drying process produced either retail-ready products such as cubes, tablets, and syrups, or individual grains that could be used as ingredients in other processes.
+
+# sent_id = 988
+# text = Workers were paid a starting salary with 5-or-cent increases and $1.50 per day between $pay (equivalent) and between $44 to $33 in 2019, was paid of 1.12. according to
+
+# sent_id = 989
+# text = The highest-paid workers at the plant earned between $100 (equivalent a month between to $2,955 and $4,433 in 2019) and $150.
+
+# sent_id = 990
+# text = According to 1900 a Brooklyn Daily
+
+# sent_id = 991
+# text = Eagle, workers article was employed for at least eight years on average, and either many workers lived near Kent Avenue or took trolley lines to the refinery.
+
+# sent_id = 992
+# text = Workers were prone to being fired at times of job insecurity although conditions, when wages were increased and some workers received pensions in the early 20th century, improved.
+
+# sent_id = 993
+# text = A crowd of more than 15,000 people gathered to watch the plant burn.
+
+# sent_id = 994
+# text = The company took ownership of a pier at the end of Grand Street, one block north of the refinery, the same year.
+
+# sent_id = 995
+# text = Then the company threatened to move to New Jersey in 1924 over the failure to close the dead-end streets.
+
+# sent_id = 996
+# text = The New York City government allowed the company to close streets in front of the refinery.
+
+# sent_id = 997
+# text = In 1926, American Sugar commenced a large renovation of the plant.
+
+# sent_id = 998
+# text = The upgrades had costed $3 million and resulted in increased efficiency in the refinery's operations.
+
+# sent_id = 999
+# text = Around this time, a large sign with yellow letters spelling "Domino Sugar" was erected on one of the refinery's buildings, facing the East River.
+
+# sent_id = 1000
+# text = The Brooklyn Citizen said in 1941 that the refinery made Brooklyn the center of sugar refining in the United States, similar to how Detroit manufactured cars and Pittsburgh manufactured steel.
+
+# sent_id = 1001
+# text = After American Sugar completed a plant in Baltimore in 1922, were reduced refining operations in Brooklyn.
+
+# sent_id = 1002
+# text = The company also assumed space in 1930, using that space at 120 Wall Street in Manhattan's Financial District for its offices.
+
+# sent_id = 1003
+# text = The refinery's cooperage closed in 1946 after the industry stopped using wood barrels to ship sugar.
+
+# sent_id = 1004
+# text = Employment at the plant fell in 1945 after the end of World War ii; the company had 1,500 workers in 1959.
+
+# sent_id = 1005
+# text = By the late 1970s, the Amstar refinery was the only remaining sugar refinery on the Williamsburg waterfront.
+
+# sent_id = 1006
+# text = The Amstar brand was purchased by british firm Tate & Lyle in 1988.
+
+# sent_id = 1007
+# text = Three years later, Amstar became known, as Domino Sugar after its primary trademark.
+
+# sent_id = 1008
+# text = After union workers's contracts expired in late 1998, Tate & Lyle announced upgrades to the refinery that would eliminate 100 jobs and weaken union guarantees.
+
+# sent_id = 1009
+# text = The strike ended in February 2001, making it one longest-ever in of the city's the history.
+
+# sent_id = 1010
+# text = Although, the remaining striking workers agreed to Tate & Lyle plan's to eliminate 110 positions over a hundred workers defected and returned to work.
+
+# sent_id = 1011
+# text = The next year, American Sugar Refining announced that the Domino Sugar plant would be shuttered due to a lack of demand.
+
+# sent_id = 1012
+# text = The refinery stopped operating in 2004; more than 220 workers were laid off at the end of January 2004, and two dozen workers were retained for packing operations that shuttered by the end of the year.
+
+# sent_id = 1013
+# text = Following a wide-ranging rezoning of the north Brooklyn waterfront, preservationists lobbie to save the Domino Sugar Refinery and other industrial structures on the waterfront the next year.
+
+# sent_id = 1014
+# text = The Landmarks Preservation Commission (LPC) designated the Pan, Filter, and Finishing House as a official city landmark in 2007.
+
+# sent_id = 1015
+# text = The CPC plan received support from the New York City Council in 2010.
+
+# sent_id = 1016
+# text = In 2012, CPC defaulted for the Domino Sugar Factory on its development project.
+
+# sent_id = 1017
+# text = In March 2014, the new plans were approved by the City Planning Commission.
+
+# sent_id = 1018
+# text = At the time, the redevelopment would have costed $1.5 billion.
+
+# sent_id = 1019
+# text = On the proposal the agency signed off after the de Blasio administration struck a deal with two trees management to include more affordable housing units.
+
+# sent_id = 1020
+# text = That deal required two trees to include 700-market below-rate units, which was 40 more than what was originally offered and 260 more what than the CPC wanted.
+
+# sent_id = 1021
+# text = In exchange, two trees were allowed to build its towers of up to 55 stories.
+
+# sent_id = 1022
+# text = From May the same year, artist Kara Walker exhibited her piece at the refinery's Syrup Shed a subtlety through July,.
+
+# sent_id = 1023
+# text = After the closure of the exhibition, the non-landmarked portions of the refinery were to be demolished, as had been planned before the show.
+
+# sent_id = 1024
+# text = 325 Kent Avenue opened in July 2017, with the first residents moving into the building the next month.
+
+# sent_id = 1025
+# text = The LPC approved a redesign for the landmark portion of the refinery complex in November 2017.
+
+# sent_id = 1026
+# text = Domino park, a public park along the East River waterfront, opened in June 2018.
+
+# sent_id = 1027
+# text = On the western side of the building the tops of the two wings are connected, creating a rectangular hole on the western facade and giving it a "doughnut" shape.
+
+# sent_id = 1028
+# text = Ten Grand contains 15,000 square feet (2 1,400 m) of retail space and 150,000 square feet of office space (14,000 m) 2.
+
+# sent_id = 1029
+# text = Upon its completion it was described as being the largest sugar refinery in the Americas.
+
+# sent_id = 1030
+# text = The Pan, Filter, and Finishing House is located between South 2nd and South 3rd streets.
+
+# sent_id = 1031
+# text = The only Pan, Filter, and Finishing House remains of the refinery complex.
+
+# sent_id = 1032
+# text = On the eastern facade, along Kent Avenue, there are vertical brick pilasters.
+
+# sent_id = 1033
+# text = Facing the East River, the facade, contains bricks that are recessed to form patterns such as chevrons and polygons on the western facade.
+
+# sent_id = 1034
+# text = In some places, bluestone were used in belt courses and keystones.
+
+# sent_id = 1035
+# text = The chimney was among the region's tallest, when the Pan, Filter and Finishing House were built.
+
+# sent_id = 1036
+# text = Fire escapes, fire extinguishers, and electric lights were also present in the Pan, Filter, and Finishing House.
+
+# sent_id = 1037
+# text = Several gantry cranes were situated on the waterfront, unloading sugar.
+
+# sent_id = 1038
+# text = The refinery also used large amounts of fresh water in 1903:, it was estimated that the refinery alone used two percent of Brooklyn's water supply.
+
+# sent_id = 1039
+# text = Merchants of Williamsburgh: Frederick C. Havemeyer, Havemeyer, William Dick, Henry O., Jr. John Mollenhauer.
+
+# sent_id = 1040
+# text = "Havemeyers & Elder Filter (pdf), & Pan Finishing House".
+
+# sent_id = 1041
+# text = Roberts (2019), Sam.
+
+# sent_id = 1042
+# text = A history of New York in 27 Buildings: the 400-Year Untold Story of a American Metropolis.
+
+# sent_id = 1043
+# text = "through a Sugar Refinery".
+
+# sent_id = 1044
+# text = The building was one of the first that Roche-Dinkeloo produced after they became heads of Eero Saarinen 'firm.
+
+# sent_id = 1045
+# text = A second entrance on 42nd Street leads to a large public atrium, the such first atrium in a office building in Manhattan.
+
+# sent_id = 1046
+# text = Most offices in the building are north and west of the atrium and are visible from other offices in the building.
+
+# sent_id = 1047
+# text = After Henry Heald became foundation president the building was commissioned, for the Ford foundation, then the largest private foundation in the United States.
+
+# sent_id = 1048
+# text = The Ford Foundation Building was announced in 1963 and completed in 1968 on the former site of the Hospital for the ruptured and cripple.
+
+# sent_id = 1049
+# text = Between 2015 and 2018, the Ford Foundation Building underwent a major renovation and restoration project.
+
+# sent_id = 1050
+# text = The Ford Foundation
+
+# sent_id = 1051
+# text = Building has been critically acclaimed for its design, both after its completion and after the renovation.
+
+# sent_id = 1052
+# text = The Daily News
+
+# sent_id = 1053
+# text = Diagonally Building is across 42nd Street to the southwest.43rd and Second Avenue
+
+# sent_id = 1054
+# text = Street is a one-way street sloping down to the rest of the Manhattan grid from Tudor City.
+
+# sent_id = 1055
+# text = This creates a "scenic" approach for the main entrance.
+
+# sent_id = 1056
+# text = Kevin Roche, one of the architects, stated that the approach to the building was intended to be similar to that in a rural setting.
+
+# sent_id = 1057
+# text = However, the Foundation—for which Roche was designing the building-Ford wanted it to be at an relatively low height as a "public gesture" a.
+
+# sent_id = 1058
+# text = A significant portion of the facade is a glass wall with weathering steel, and over 60,000 panes were used in the construction.
+
+# sent_id = 1059
+# text = The weathering steel was used because exposed structural steel was not allowed at the time per the city's fire-safety codes.
+
+# sent_id = 1060
+# text = The twelfth story protrudes further out than the eleventh story, and a catwalk hangs underneath the eleventh story.
+
+# sent_id = 1061
+# text = The garden inside the atrium was designed by Dan Kiley, one of Saarinen's frequent collaborators.
+
+# sent_id = 1062
+# text = Several Dakota granite piers support a glass roof above the atrium, and the paths are made of red-brown brick pavers.
+
+# sent_id = 1063
+# text = Conversely, more easily, the atrium is accessible from 42nd Street.
+
+# sent_id = 1064
+# text = The greenery was evocative of the small park within Tudor City to the east.
+
+# sent_id = 1065
+# text = The atrium remains accessible, publicly in contrast to other public spaces in buildings around the city, which was closed off in 2001 after the 11 September attacks in Lower Manhattan.
+
+# sent_id = 1066
+# text = The offices and hallways facing the atrium had sliding doors.
+
+# sent_id = 1067
+# text = The eleventh and twelfth floors overhe the lower floors as well as the atrium.
+
+# sent_id = 1068
+# text = Another set of emergency stairs are located on the northeast corner.
+
+# sent_id = 1069
+# text = In addition, there is a auditorium and conference room in the basement.
+
+# sent_id = 1070
+# text = This auditorium contains a tapestry by Sheila Hicks.
+
+# sent_id = 1071
+# text = By 1950, it was the largest private foundation in the United States, and its assets were valued at about $474 million.
+
+# sent_id = 1072
+# text = The foundation had its main offices in Pasadena, California, and satellite offices in Detroit and New York City.
+
+# sent_id = 1073
+# text = In 1953, the New York location became the main office when the Pasadena office closed, and the foundation leased three more floors at 477 Madison Avenue the next year.
+
+# sent_id = 1074
+# text = At the time, it was relatively rare to construct headquarters that were highly publicized for private foundations.
+
+# sent_id = 1075
+# text = Final plans for the Ford Foundation Building was announced in September 1964.
+
+# sent_id = 1076
+# text = The building was to cost $10 million and would be designed by Joseph N. Lacy, John Dinkeloo, and Kevin Roche of Eero Saarinen associates.
+
+# sent_id = 1077
+# text = Onto 42nd Street, during construction, a construction crane fell in April 1967 and injured four people.
+
+# sent_id = 1078
+# text = In 1969, the board of Standards appeals approved a plan to let the Ford Foundation wash the building's windows.
+
+# sent_id = 1079
+# text = The Ford Foundation
+
+# sent_id = 1080
+# text = Building was intended to provide offices for 600 workers.
+
+# sent_id = 1081
+# text = In 1975, the Ford Foundation, during the ongoing recession announced that it would lay half its employees off due to portfolio losses, and would consider renting out office space in the building.
+
+# sent_id = 1082
+# text = The city government had found the structure to be in violation of several building codes, and the building become environmentally friendly and would compliant with the Americans with Disabilities Act of 1990.
+
+# sent_id = 1083
+# text = Because the building was a official city, Landmarks the New York city Preservation Commission had to approve the plans, and so did in April 2016 landmark.
+
+# sent_id = 1084
+# text = During the renovation, the foundation nearby moved to temporary offices.
+
+# sent_id = 1085
+# text = Darren Walker, president of the Ford Foundation, wanted as many of the elements of the original structure to be preserved as possible, though the presidential suite would be removed to create a less imposing environment.
+
+# sent_id = 1086
+# text = After the renovation was finished, the building became known as the Ford Foundation Center for social justice, reflecting the fact that the renovation had added space for social-justice groups.
+
+# sent_id = 1087
+# text = Goldberger called the atrium "one" of the city's most spectacular interior spaces, and Barnett described it as a "tremendously generous gift for the city".
+
+# sent_id = 1088
+# text = A critic in the british magazine said that the atrium, one of the relatively few areas of greenery in Midtown Manhattan, probably inspired the enthusiasm for an headquarters's opening s.
+
+# sent_id = 1089
+# text = Another critic for Interiors magazine called the "interesting to explore" atrium while Huxtable described it as "one" of the most romantic environments ever devised by corporate man, probably amazingly.
+
+# sent_id = 1090
+# text = Some publications, such as the first edition of the AIA Guide to New York City and the Interiors magazine, characterized the atrium as being practical, in the sense that it provided fresh air to the offices.
+
+# sent_id = 1091
+# text = A time reporter stated that "the design prior to the renovation had been a mad men-era version" of a Gesamtkunstwerk, a complete work of art.
+
+# sent_id = 1092
+# text = In 1968, the Ford Foundation Building and Paley Park shared a Albert S. Bard Award Civic, distributed to structures that exhibit "excellence in architecture and urban design".
+
+# sent_id = 1093
+# text = In addition, the building won the five twenty-Year AIA Award in 1995.
+
+# sent_id = 1094
+# text = Before the building became a city landmark in 1997, Robert architect A. M. Stern described the Ford Foundation building as one of his favorites out of a list of 35 structures that he thought should have city landmark status a year.
+
+# sent_id = 1095
+# text = For several years afterward, the Ford Foundation building was the youngest building to have city landmark status, having been completed 30 years prior to its designation.
+
+# sent_id = 1096
+# text = The design of the Ford Foundation building, as well as its namesake's wealth, preserved the building during the early 21st century, when several other 1960s-era structures by Roche and other architects were being destroyed.
+
+# sent_id = 1097
+# text = "Innovation and Symbolism on 42nd Street" (pdf).
+
+# sent_id = 1098
+# text = Burns James Jr., (November 1964).
+
+# sent_id = 1099
+# text = "a Great Space taking Shape in New York" (pdf).
+
+# sent_id = 1100
+# text = Cook, John W. (1973); Klotz, Heinrich.
+
+# sent_id = 1101
+# text = Dal Co Francesco, (1985).
+
+# sent_id = 1102
+# text = "Ford Foundation Building" (pdf).
+
+# sent_id = 1103
+# text = "Ford Foundation" Building Interior (pdf).
+
+# sent_id = 1104
+# text = Zinsser William Knowlton, March 29 (1968),.
+
+# sent_id = 1105
+# text = "Leafy bower" on 42nd street.
+
+# sent_id = 1106
+# text = It consists of four buildings—an office, a brew house, a engine-machine house, and a stable-storage house—all constructed in the german round-arch style between 1872 and 1890.
+
+# sent_id = 1107
+# text = The main brew house, the engine-machine house, and the office building were designed by Brooklyn architect Theobald Engelhardt, while the stable-storage house was designed by Frederick Wunder.
+
+# sent_id = 1108
+# text = The Ulmer brewery was one of over a german-operated dozen breweries that was built in Bushwick during the late 19th and early 20th centuries.
+
+# sent_id = 1109
+# text = It ceased to be a active brewery in 1920 due to prohibition in the United States, which outlawed alcoholic beverage production.
+
+# sent_id = 1110
+# text = On May 11, 2010, the brewery was designated a New York city Landmark, becoming the first brewery in the city to receive this status.
+
+# sent_id = 1111
+# text = By 1880, there were 35 breweries in Brooklyn, including a 14-block "brewer" row within Bushwick that contained at least 11 breweries s.
+
+# sent_id = 1112
+# text = He was the nephew of both John F. Betz and Henry Clausen sr., who was brewers of D.G. in turn and apprentices
+
+# sent_id = 1113
+# text = Ulmer in 1871, and a bavarian immigrant named Anton Vigelius, found the Continental Vigelius & Ulmer Lagerbier Brewery at the intersection of Belvidere and Beaver Streets (formerly Ann).
+
+# sent_id = 1114
+# text = Two years prior, Vigelius had bought the land from the Debevoises and, in the land, had sold off his half-stake to Ulmer before the brewery was just constructed.
+
+# sent_id = 1115
+# text = The first buildings on the site, the brewery and a nearby residence, are thought to have been completed by the same year.
+
+# sent_id = 1116
+# text = Then Vigelius relinquished his ownership stake in the brewery.
+
+# sent_id = 1117
+# text = Ulmer became its sole proprietor and subsequently reorganized it into the William Ulmer Brewery.
+
+# sent_id = 1118
+# text = In 1881, some workers went on strike to protest low wages.
+
+# sent_id = 1119
+# text = Over the years, several improvements were made to the brewery to accommodate additional brewing capacity and to utilize advances in that industry.
+
+# sent_id = 1120
+# text = In 1880, a new storage house would be built on Beaver Street.
+
+# sent_id = 1121
+# text = Five years later, Theobald Engelhardt designed a large expansion that included a office building; machine and boiler structures; and a washroom keg-fill room and in the back of the main brewery building.
+
+# sent_id = 1122
+# text = When Ulmer retired in 1900, the company was reincorporated with his son-in-law John W. Weber (1858–1933) as its president.
+
+# sent_id = 1123
+# text = As well, as Ulmer's wife and his other son-in-law, served as directors of the newly reincorporated company Weber John F. Becker Catherine.
+
+# sent_id = 1124
+# text = When Ulmer died in 1907, the brewery had become one of Brooklyn's largest.
+
+# sent_id = 1125
+# text = However, after the enactment of prohibition, production of alcoholic beverages became illegal. and the brewery closed in 1920
+
+# sent_id = 1126
+# text = At the time, the main building was used as a storage facility for an nearby lamp company.
+
+# sent_id = 1127
+# text = Swift would move out in the late 1990s, and the office building remained unoccupied for several years, as Swift had declined potential tenants who wanted to make extensive changes to the exterior.
+
+# sent_id = 1128
+# text = By 2008, the New York Times mentioned that a furniture designer lived in the office building.
+
+# sent_id = 1129
+# text = Making it the first brewery, the New York city Preservation Commission to receive this status on May 11, 2010, Landmarks the brewery official a city landmark designated.
+
+# sent_id = 1130
+# text = At the time of the landmark decision, the office building was still being used as a home.
+
+# sent_id = 1131
+# text = The main brew house and annex were designed in 1872 by Brooklyn architect Theobald Engelhardt.
+
+# sent_id = 1132
+# text = Engelhardt went on to build the house and the office building in 1885.
+
+# sent_id = 1133
+# text = The stable-storage house was designed in 1890 by Frederick Wunder.
+
+# sent_id = 1134
+# text = Combined with the main brew house, it makes a reverse "L" shape.
+
+# sent_id = 1135
+# text = A cobblestone driveway runs to the northeast of the stable building.
+
+# sent_id = 1136
+# text = A elevator was constructed by 1932 in a separate shaft, possibly on a preexisting one-story building.
+
+# sent_id = 1137
+# text = Presa, Donald (December 9, 2014).
+
+# sent_id = 1138
+# text = The facade of the annex is designed in a evocative of the original structure style.
+
+# sent_id = 1139
+# text = A main ornate lobby with colored mosaics is inside.
+
+# sent_id = 1140
+# text = 1 Wall Street had been constructed in the early 20th century for Irving trust, one of the larger banks in New York City.
+
+# sent_id = 1141
+# text = At the time of its construction, the building occupied what was considered then one of the most valuable plots in the city.
+
+# sent_id = 1142
+# text = After Irving trust were acquired in 1988 by the Bank of New York Mellon (BNY Mellon), 1 Wall Street subsequently served through 2015 as BNY Mellon's global headquarters.
+
+# sent_id = 1143
+# text = The building is purchased by Harry Macklowe and was undergoing a renovation from 2018 to 2021, which will convert it to a residential building with some commercial space.
+
+# sent_id = 1144
+# text = The Landmarks New York city Preservation Commission designated the original portion of the building in 2001 as a city landmark.
+
+# sent_id = 1145
+# text = From the lot line, the facade is recessed at the chamfered corners of the building by up to 7.5 feet (2.3 m).
+
+# sent_id = 1146
+# text = Dormer structures of up to two stories are located on the tops of both sections.
+
+# sent_id = 1147
+# text = Walker had designed other Art Deco buildings in the New York City area, mainly telecommunications structures.
+
+# sent_id = 1148
+# text = On the New Street side, there are setbacks above the 5th and 10th floors; the building then rises as a slender slab with setbacks on the 29th, 34th, and 35th floors.
+
+# sent_id = 1149
+# text = Along Broadway, the facade of the annex were originally recessed, behind that of the original building by a width of two vertical bays.
+
+# sent_id = 1150
+# text = The facade of the 2018 addition projects forward to the facade of the original structure.
+
+# sent_id = 1151
+# text = The annex is also made of limestone, except for the retail entrance, which is made of glass.
+
+# sent_id = 1152
+# text = Several piers also contain vertical incisions for emphasis.
+
+# sent_id = 1153
+# text = The section of the base along Wall Street is wide eight bays, with a double-width entrance in the middle of the Wall Street facade, which is reached by a short flight of stairs and leads to the main lobby.
+
+# sent_id = 1154
+# text = The sections of the base on Broadway and New Street are wide bays seventeen.
+
+# sent_id = 1155
+# text = When built, 1 Wall Street contained 29 elevators.
+
+# sent_id = 1156
+# text = If necessary double-deck elevators could be installed than the Broadway side, engineers configured the original elevator shafts because that the New Street side of the building was lower so.
+
+# sent_id = 1157
+# text = Following its 2018-2021 conversion, 1 Wall Street contained 678,000 square feet of residential space (63,000 m 2 m of commercial space) and 166,000 square feet (2) 15,400.
+
+# sent_id = 1158
+# text = The walls are made of black Pyrenees marble, and the columns are made of red Verona marble; a similar design was used in the Stockholm City Hall.
+
+# sent_id = 1159
+# text = When the annex was built, the travertine flooring of the lobby was extended into the original building, and the original lobby's ceiling was covered with a dropped ceiling.
+
+# sent_id = 1160
+# text = Of the total units, 304 are studios and one-bedroom units.
+
+# sent_id = 1161
+# text = These amenities are mostly clustered in the annex.
+
+# sent_id = 1162
+# text = The vault, at the time of the building's completion, was the second-largest behind those of the Federal Reserve Bank of New York building and the Bank of England in the world in the city and third-largest.
+
+# sent_id = 1163
+# text = A tank of water, as well as modern chemical, electrical, and mechanical features, were used to prevent break potential-in.
+
+# sent_id = 1164
+# text = The first was a 17th-century stone house and the second was built in the 19th century.
+
+# sent_id = 1165
+# text = The structure was known as the "Chimney Building" or "Chimney Corner", and its footprint measured only 29 by 39 feet (8.8 m by 11.9).
+
+# sent_id = 1166
+# text = In mid-1905, the company paid $700,000 for the 1,131 square-foot-foot plot, or a average of $576 per square ($6,200 / m) 2 (105.1) 2 m.
+
+# sent_id = 1167
+# text = The next year, the syndicate announced that it would start erecting a 18-story structure at 1 Wall Street.
+
+# sent_id = 1168
+# text = One of the twelve-story structures surrounded the Chimney Building, and to a syndicate of bankers, this structure and the Chimney Building were sold in 1926.
+
+# sent_id = 1169
+# text = There were a 23-foot-wide space (7.0 m) buildings between the Manhattan Life and Knickerbocker trust.
+
+# sent_id = 1170
+# text = A 10-inch strip (250 mm) of land on the northern side of the gap was sold to John E. Schermerhorn in 1912.
+
+# sent_id = 1171
+# text = Within the gap the Schermerhorn family built subsequently a eight-story structure, at 62 Broadway.
+
+# sent_id = 1172
+# text = At the time of the proposal, the bank was known as American Exchange Irving trust in 1926, having merged with the American Exchange-Pacific National bank.
+
+# sent_id = 1173
+# text = Additionally, banks in Manhattan was clustering around Wall Street, and the corner of Broadway and Wall Street were seen as a valuable location.
+
+# sent_id = 1174
+# text = The transaction cost $725 per square ($7,800 / m) 2 foot approximately.
+
+# sent_id = 1175
+# text = Trinity Church, nearby structures were such as shored up during the construction process.
+
+# sent_id = 1176
+# text = When the steel frame topped out on May 12, 1930, workers hoisted a evergreen tree to the top of the frame.
+
+# sent_id = 1177
+# text = Several hundred boxcars were used to transport the building's Indiana Limestone to New York City; according to railroad workers, it was the largest-ever such order.
+
+# sent_id = 1178
+# text = Before being used in the building, the limestone blocks went to a workshop in Long Island City, where they were carved to meet the building's specifications.
+
+# sent_id = 1179
+# text = Tenants started moving into 1 Wall Street, before its formal opening by mid-March 1931.
+
+# sent_id = 1180
+# text = Several members of the stock New York Exchange and Curb Exchange was among the tenants.
+
+# sent_id = 1181
+# text = The Irving trust Company moved into the building on March 23, 1931.
+
+# sent_id = 1182
+# text = Two hundred guards armed with machine guns moved the bank's $8 billion holdings from its former location at the Woolworth Building.
+
+# sent_id = 1183
+# text = By that time, the building was occupied 90%.
+
+# sent_id = 1184
+# text = The company initially anticipated that the annex would cost $25 million.
+
+# sent_id = 1185
+# text = The site, had been cleared by mid -1963; Irving trust, took a sublease at 2 Broadway in preparation of the work.
+
+# sent_id = 1186
+# text = Renovations also took place in the original building; tenants continued to use 1 Wall Street during construction, but the vault in the basement was emptied.
+
+# sent_id = 1187
+# text = A refrigeration plant was installed on the annex's roof to provide air-conditioning to both buildings.
+
+# sent_id = 1188
+# text = The project was finished by late 1965.
+
+# sent_id = 1189
+# text = Between 1987 and 1988, Irving trust held negotiations to merge with the Bank of New York, which was nearby headquartered at 48 Wall Street at the time.
+
+# sent_id = 1190
+# text = Irving trust rejected initially-out offers from the Bank of New York because the latter had "undervalued" Irving trust's assets such as 1 Wall Street buying.
+
+# sent_id = 1191
+# text = By October 1988, Irving trust, placed 1 Wall Street with a merger imminent, the building was valued at $250 million at the time; for auction.
+
+# sent_id = 1192
+# text = While 1 Wall Street were not damaged in 2001 following the 11 September attacks at the World nearby Trade Center, BNY Mellon's operations was disrupted, and 1 Wall Street had to be cleaned up.
+
+# sent_id = 1193
+# text = In May 2014, BNY
+
+# sent_id = 1194
+# text = Though BNY Mellon continued to occupy the building until September 2015 Mellon sold the building, to a joint venture led for $585 million Macklowe by Harry B.'s Macklowe Properties.
+
+# sent_id = 1195
+# text = As such, Macklowe removed 20 of the elevators that served upper floors and added 10 new elevators in the building core.
+
+# sent_id = 1196
+# text = In addition, the Red room was restored in advance of its conversion into a retail space, between 2016 and 2018.
+
+# sent_id = 1197
+# text = The Red room's restoration utilized tiles that had been placed in storage and unused when the building was originally erected.
+
+# sent_id = 1198
+# text = A new entrance was also constructed on Broadway, its design being based on one of Walker's unrealized plans for 1 Wall Street.
+
+# sent_id = 1199
+# text = Retail leases were signed for the lower floors.
+
+# sent_id = 1200
+# text = In 2016, for Whole Foods Market-44,000 foot (2 4,100 m), a lease was signed for instance-square.
+
+# sent_id = 1201
+# text = Three years later, Life Time Fitness signed an 74,000 square-foot-( 2 m 6,900) lease a gym on the first four floors of the building to open.
+
+# sent_id = 1202
+# text = A writer for the New York Evening Post called Meiere's lobby mural "one of the most costly and beautiful pieces of mural decoration ever attempted in the United States".
+
+# sent_id = 1203
+# text = Critic Lewis Mumford stated of 1 Wall Street's facade, "chaste that though exterior is, it is mere swank, and unconvincing swank at that".
+
+# sent_id = 1204
+# text = The Times said that "a triumvirate of great Deco Art contemporary" would include the Empire State Building, the Chrysler Building, and 1 Wall Street in 2001. in New York City
+
+# sent_id = 1205
+# text = The designation only included the exterior of the original building and did not extend to the southern annex.
+
+# sent_id = 1206
+# text = Legally, it was considered to be closed to the public since the lobby could only be used by BNY Mellon workers at the time of the exterior designation.
+
+# sent_id = 1207
+# text = Most of the improvements made the commission's approval, was made to the annex, as a result of the landmark designation 'limited in the 2010s condominium conversion an changes since landmarks's designated scope.
+
+# sent_id = 1208
+# text = Walker, Ralph T. (May 1930).
+
+# sent_id = 1209
+# text = "the relation of skyscrapers to our life".
+
+# sent_id = 1210
+# text = The original structure is a shaped l- structure that faces 41st Street to the south frontage on 41st Street than on 42nd Street, Second Avenue to the east, and 42nd Street to the north, with a longer.
+
+# sent_id = 1211
+# text = The Daily News Building was commissioned by Joseph Medill Patterson, the founder of the New York Daily News.
+
+# sent_id = 1212
+# text = It was Hood's modern tower freestanding and one of the first large Art Deco buildings in New York City first.
+
+# sent_id = 1213
+# text = It was designated a New York City Landmark in 1981 and its interior was similarly designated in 1998.
+
+# sent_id = 1214
+# text = The building site is bounded by 42nd Street to the north, Second Avenue to the east, 41st Street to the south, and a private alley called Kempner Place to the west.
+
+# sent_id = 1215
+# text = This was in contrast to Hood's earlier designs for the Tribune Tower in Chicago and the American Radiator Building in Manhattan.
+
+# sent_id = 1216
+# text = Hood wrote that both the owner and architect had agreed that the most simple and direct "way to get an effective exterior was" to colorize its features.
+
+# sent_id = 1217
+# text = Hood stated that the window design was largely chosen based on its perceived utility, because the interior space would have needed to be divided into offices easily.
+
+# sent_id = 1218
+# text = The upper floors were designed as loft separated only by movable partitions.
+
+# sent_id = 1219
+# text = The vertical ten southernmost bays of the western facade are set back at the 9th floor, while the following two bays to the north are set back, the same distance above the 15th floor creating a zigzag effect.
+
+# sent_id = 1220
+# text = Also, the panels contain miniature setbacks on floors with setbacks.
+
+# sent_id = 1221
+# text = Over the entrance is a carving of the phrase "the -news", which is a large bas-relief below with carvings of people and the phrase "he made so many of them".
+
+# sent_id = 1222
+# text = The latter quotation, attributed to Abraham Lincoln, referenced the common "people" to whom the Daily News was intended.
+
+# sent_id = 1223
+# text = There are glass pylons on either side of the entrance, which are topped by bronze ornamentation and contain horizontal bronze strips.
+
+# sent_id = 1224
+# text = There was smaller entrances leading to storefronts either on side of the main entrance.
+
+# sent_id = 1225
+# text = The parapet walls extend above the roof to conceal the elevator rooms and the maintenance penthouses on the roof.
+
+# sent_id = 1226
+# text = According to one account, architect Frank Lloyd Wright visited Hood and advised him just to "cut off the top".
+
+# sent_id = 1227
+# text = Walter Kilham, who had assisted Hood, later recalled that Wright retracted his suggestion after Kilham confront Wright.
+
+# sent_id = 1228
+# text = The facade of the printing-plant addition is designed in the same manner.
+
+# sent_id = 1229
+# text = Accounts differ on who had the most influence on the lobby's design.
+
+# sent_id = 1230
+# text = According to Daily
+
+# sent_id = 1231
+# text = Patterson, news historians were the first to propose the idea of the lobby.
+
+# sent_id = 1232
+# text = The hallway led to two banks to the south, as well as a restaurant of elevators, and there were two storefronts flanking the rotunda, each to the west and east one.
+
+# sent_id = 1233
+# text = There was eighteen glass exhibits, which was part of a scientific and educational display designed by James H. Scarr, a U.S.
+
+# sent_id = 1234
+# text = During the expansion, the storefronts on either side of the rotunda were removed and incorporated into the main lobby.
+
+# sent_id = 1235
+# text = One family member, Joseph Medill Patterson, founded the daily News in 1919 as the United States's first daily tabloid.
+
+# sent_id = 1236
+# text = While the daily News was not a immediate success, it became the largest city's newspaper by 1925 with daily circulation of a over million,.
+
+# sent_id = 1237
+# text = According to the newspaper's research manager, the city Corash population was centered across Queens, east of Midtown Manhattan. in the east River 'Harry
+
+# sent_id = 1238
+# text = At the time, the building was being envisioned as a 20-story structure.
+
+# sent_id = 1239
+# text = Eleven days later, the Daily News bought the lots at 41st Street and Second Avenue, which collectively comprised 8,000 square feet (740 2 m).
+
+# sent_id = 1240
+# text = The Commercial High School on the west side of the building, which was planning to tear down were the New York City Board of Education.
+
+# sent_id = 1241
+# text = In addition to the Daily News itself, the new structure would contain Tribune subsidiaries that were related to the paper's function.
+
+# sent_id = 1242
+# text = In November 1929, several mechanics were given craftsmanship certificates for "outstanding work" on the Daily News Building's construction; at that point, the Daily News Building were 75% rented.
+
+# sent_id = 1243
+# text = The Daily
+
+# sent_id = 1244
+# text = News started moving into the building in mid-1930 and the lobby opened to the public on July 1930, 23.
+
+# sent_id = 1245
+# text = The building, including the newspaper's new printing press, had costed $10.7 million (equivalent to $130,085,132 in 2018).
+
+# sent_id = 1246
+# text = The Daily
+
+# sent_id = 1247
+# text = News rented the space out in the building that it didn't utilize.
+
+# sent_id = 1248
+# text = For example, the Ahrens Company subsidiary Products, the Museum of the Peaceful Arts, and a branch of the National City Bank of New York took space in the structure as an, did Locomotive Alco American Company.
+
+# sent_id = 1249
+# text = In addition, United Press International moved its headquarters to the Daily News Building in 1931.
+
+# sent_id = 1250
+# text = The additions were to be used by both the Daily News and the building's other occupants.
+
+# sent_id = 1251
+# text = Turner construction was hired for the annex's construction.
+
+# sent_id = 1252
+# text = By April 1959, the facade of the annex had been completed.
+
+# sent_id = 1253
+# text = The globe in the lobby was restored in a 61-week project that took place between 1966 and 1967.
+
+# sent_id = 1254
+# text = By 1981, Tribune media was attempting to sell the Daily News with limited success.
+
+# sent_id = 1255
+# text = Tribune media sold the Daily News Building to a partnership in December 1982.
+
+# sent_id = 1256
+# text = The La Salle Street Fund held a majority ownership stake in the partnership, while New York News Inc. held the minority stake.
+
+# sent_id = 1257
+# text = As part of the sale, the printing and distribution operations was moved to other facilities in the metropolitan New York area.
+
+# sent_id = 1258
+# text = The next year, the Daily News announced it would move its remaining operations within the Daily News Building to a single facility, 450 West 33rd Street in Chelsea, Manhattan.
+
+# sent_id = 1259
+# text = The relocation was motivated by the cost of maintaining several spaces, as well as the fact that the lease was about to expire and the Daily News's operations in the building had been downsized since the early 1980.
+
+# sent_id = 1260
+# text = The Daily News's circulation had decreased from its peak further, by two-thirds, and the number of employees had been reduced more than 85% in the 1940s.
+
+# sent_id = 1261
+# text = The Daily News moved out during May 1995.
+
+# sent_id = 1262
+# text = The next year, Steve Witkoff bought the Daily News building and leased most of the building's vacant space, thereby qualifying the building for a $140 million mortgage.
+
+# sent_id = 1263
+# text = The Omnicom Group signed a lease for a majority of the building's space in 1997, making it the building's main tenant.
+
+# sent_id = 1264
+# text = SL Green Realty bought the Daily News Building in 2003 for $265 million.
+
+# sent_id = 1265
+# text = After Deutsche Bank withdraw its financing as a result of economic uncertainty during the COVID-19 pandemic, the sale was scrapped however in March 2020.
+
+# sent_id = 1266
+# text = In June 2020, SL Green refinanced the building after having secured a $510 million mortgage; despite the financial COVID-related difficulties, the Daily News building was almost fully leased by then.
+
+# sent_id = 1267
+# text = The Daily News referred to it, though most of the paper's praise for the building was directed toward the lobby "as being" among Hood's triumph.
+
+# sent_id = 1268
+# text = In 1931, the Daily News published a editorial in rebuttal to modern architecture, saying that the design was focused on the "efficient production of newspapers."
+
+# sent_id = 1269
+# text = At the time of the building's opening, the Daily News praised the lobby as having a state-of-the-art exhibit.
+
+# sent_id = 1270
+# text = Architectural critics had mixed opinions of the design.
+
+# sent_id = 1271
+# text = The New Yorker building "was that" the Daily News building, and that Hood's "design" had daringly been a successful, profiling in 1931 Hood said distinctly untraditional.
+
+# sent_id = 1272
+# text = The New York Times said that the Daily News Building's design made him practically a "complete functionalist".
+
+# sent_id = 1273
+# text = Another "praised the lobby exhibit as being a genuine contribution to architecture".
+
+# sent_id = 1274
+# text = Architectural writer Eric Nash said in 1999 that "Hood did not romanticize the skyscraper as a carved mountain", unlike contemporary such as Ralph Thomas Walker or Hugh Ferriss.
+
+# sent_id = 1275
+# text = The rival New York Times called the Daily News building, "one of America's great newspaper buildings" in contrast with its own previous headquarters at 229 West 43rd Street.
+
+# sent_id = 1276
+# text = The New York city Preservation Commission presences ", in granting the exterior landmark status, called it" one of the city's major Art Deco Landmarks.
+
+# sent_id = 1277
+# text = The rendering inspired the design of the fictional Daily Planet headquarters in the Superman franchise.
+
+# sent_id = 1278
+# text = During July 1977, the Daily News Building were used for filming exterior scenes in the film 1978 Superman at the Daily Planet:
+
+# sent_id = 1279
+# text = The movie.
+
+# sent_id = 1280
+# text = As the set of the New York City 1977 blackout on July 13-14, the building's facade was serving at the exact moment: for the upcoming release of Superman
+
+# sent_id = 1281
+# text = The movie.
+
+# sent_id = 1282
+# text = During the blackout, film crews len their Klieg lights to Daily News editors so that the following day's issue could be published.
+
+# sent_id = 1283
+# text = Additions to the house include a projecting center dormer, and second-story projection over a partially enclosed veranda.
+
+# sent_id = 1284
+# text = The plain exterior is contrasted by interior's elaborate hall ceilings, detailed woodwork and marble arched fireplaces.
+
+# sent_id = 1285
+# text = The McGuire's operated the house as an law firm and passed the title to James McGuire.
+
+# sent_id = 1286
+# text = In 2013, James McGuire sold the house to the Community Foundation of Eastern Connecticut.
+
+# sent_id = 1287
+# text = Dave Collins wrote that "the Acors Barns house is a fine and rare example of architecture" especially that's important to New London, Connecticut.
+
+# sent_id = 1288
+# text = The Acors Barns House was added to the National Register of Historic places on April 22, 1976.
+
+# sent_id = 1289
+# text = Barn moved to New London, Connecticut and formed a whaling company in 1827 with William Williams Jr..
+
+# sent_id = 1290
+# text = The company prospered and became one of the largest firms in the city, but Barns avoided the 1849 decline of the whaling industry by investing elsewhere.
+
+# sent_id = 1291
+# text = Barn invested in the Willimantic and Palmer Railroad before establishing the Bank of Commerce in 1852.
+
+# sent_id = 1292
+# text = In 1862 barn died, but his sons would continue the successful Bank of Commerce.
+
+# sent_id = 1293
+# text = Part of the veranda was enclosed and the stairs that lead to a formal garden was removed.
+
+# sent_id = 1294
+# text = The floor plan is built around the central hall with a offset stairway.
+
+# sent_id = 1295
+# text = The parlor rooms to the right are separated by a wide archway.
+
+# sent_id = 1296
+# text = The two rooms to the left are a dining room and a pantry that has a dumbwaiter to the kitchen in the cellar.
+
+# sent_id = 1297
+# text = The National Historic Register of places nomination noted that the cellar contained the "remains of the kitchen, washroom and wine cellar".
+
+# sent_id = 1298
+# text = The second floor is made of four chambers and the attic consists of five small rooms.
+
+# sent_id = 1299
+# text = The attic's rooms served as the servants's cubicle.
+
+# sent_id = 1300
+# text = From Acors Barns, the house passed to his son William H. Barns in 1862.
+
+# sent_id = 1301
+# text = The second son Charles Barns, in 1893, acquired the title to the house and transferred it to Harriet Barns Vincent, the daughter of his sister upon his death.
+
+# sent_id = 1302
+# text = In 2013, James McGuire sold the house to the Community Foundation of Eastern Connecticut for $325,000.
+
+# sent_id = 1303
+# text = The tavern was originally built in 1738 and owned by Captain Alden.
+
+# sent_id = 1304
+# text = A parking lot was paved over the site in 2010, adding 26 paved spaces and 70 spaces on a grass field in overflow parking.
+
+# sent_id = 1305
+# text = Around 1850, it was owned by Mr. Wattles, a descendant of Captain Alden.
+
+# sent_id = 1306
+# text = The tavern's last owner or date of destruction is unknown, but it was part of the town green by the 1903 publication of Butterworth's book, Brother Jonathan.
+
+# sent_id = 1307
+# text = After Prescott Washington's headquarters, he was escorted to General George's capture several days, but came to dine at Alden's tavern on the trip.
+
+# sent_id = 1308
+# text = The story has persisted and a fictional account was referenced in 2010 in Martha Finley s Elsie Yachting with the Raymonds.
+
+# sent_id = 1309
+# text = It was listed under the "event" and "information potential" criterion with a period of significance between 1700-1874.
+
+# sent_id = 1310
+# text = The Alden tavern site is now a parking lot on town-owned property adjacent to Lebanon's Community Center.
+
+# sent_id = 1311
+# text = In 2003, a notice for this survey were published prior to the project, a 2 phase archaeological survey had to be completed.
+
+# sent_id = 1312
+# text = The paved parking lot has 26 spots with 70 more for overflow in a grass field.
+
+# sent_id = 1313
+# text = The Board, the Selectmen's meeting dissolved the committee on December 6, 2011 because the project was successfully completed.

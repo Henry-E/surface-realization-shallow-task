@@ -6,7 +6,6 @@ import re
 from random import shuffle
 
 import pyconll
-from pyconll.tree import SentenceTree
 from tqdm import tqdm
 
 
@@ -16,7 +15,7 @@ def linearize_tree(node, scopes_to_close=0, omit_scopes=False):
     # srst data
     if node.data.form:
         linearization.append(str(node.data.id))
-    child_nodes = [child for child in node.children if child.data.form]
+    child_nodes = [child for child in node._children if child.data.form]
     # We're always shuffling nodes these days, even though sentence order is
     # very helpful
     shuffle(child_nodes)
@@ -49,10 +48,11 @@ def get_mapping(linearized_ids):
 
 
 def get_tokens_with_feats(sent, data_type, omit_scopes, form_suggestions=None):
-    # feats = ['xpos', 'id', 'head', 'deprel', 'feats']
-    feats = ['xpos', 'id', 'head', 'deprel',]
+    feats = ['xpos', 'id', 'head', 'deprel', 'feats']
+    # feats = ['xpos', 'id', 'head', 'deprel',]
     num_feats = len(feats)
-    this_tree = SentenceTree(sent).tree
+    # this_tree = SentenceTree(sent).tree
+    this_tree = sent.to_tree()
     linearized_ids = linearize_tree(this_tree, omit_scopes=omit_scopes)
     id_mapping = get_mapping(linearized_ids)
     toks_with_feats = []
@@ -66,6 +66,7 @@ def get_tokens_with_feats(sent, data_type, omit_scopes, form_suggestions=None):
             continue
         if data_type in ['train', 'dev', 'test']:
             # the srst data has the lemma in the form column
+        # For some reason converter outputs with form and lemma column swapped
             this_lemma = sent[tok_id].form
         else:
             this_lemma = sent[tok_id].lemma
@@ -222,10 +223,10 @@ def main():
                         default='',
                         help='form suggestions dictionary in json format')
     parser.add_argument('--source_conllu_dir_name',
-                        default='/home/henrye/projects/surface-realization-shallow-task/data/srst/en_source',
+                        default='/home/henrye/projects/surface-realization-shallow-task/data/srst_2020/ewt_source',
                         help='folder with source conllu, hardcodedish')
     parser.add_argument('--target_conllu_dir_name',
-                        default='/home/henrye/projects/surface-realization-shallow-task/data/srst/en_target',
+                        default='/home/henrye/projects/surface-realization-shallow-task/data/srst_2020/ewt_target',
                         help='folder with target conllu, hardcodedish')
     parser.add_argument('--eval_set_repeats',
                         type=int,
